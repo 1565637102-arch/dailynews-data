@@ -1,33 +1,33 @@
 name: Fetch Daily News
 
-  on:
-    schedule:
-      - cron: '0 23 * * *'
-    workflow_dispatch:
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
 
-  jobs:
-    fetch:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-        - name: Set up Python
-          uses: actions/setup-python@v4
-          with:
-            python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-        - name: Install dependencies
-          run: |
-            pip install httpx feedparser
+      - name: Install dependencies
+        run: |
+          pip install httpx feedparser
 
-        - name: Fetch and process news
-          env:
-            DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          run: python fetch_news.py
+      - name: Fetch and process news
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python fetch_news.py
 
-        - name: Commit and push
-          run: |
-            git config user.name "GitHub Actions"
-            git config user.email "actions@github.com"
-            git add news.json
-            git diff --quiet && git diff --staged --quiet || (git commit -m "Update news $(date +'%Y-%m-%d %H:%M')" && git push)
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news $(date +'%Y-%m-%d %H:%M')" && git push)
