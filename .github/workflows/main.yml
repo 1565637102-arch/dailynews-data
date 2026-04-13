@@ -2,8 +2,8 @@ name: Fetch Daily News
 
   on:
     schedule:
-      - cron: '0 23 * * *'  # 北京时间早上7点 = UTC 23点
-    workflow_dispatch:  # 允许手动触发
+      - cron: '0 23 * * *'
+    workflow_dispatch:
 
   jobs:
     fetch:
