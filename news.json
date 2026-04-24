@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-04-23T06:22:27.287372+00:00",
+  "updated_at": "2026-04-24T06:24:04.625435+00:00",
   "articles": [
     {
       "source": "BBC中文",
+      "title_original": "GDP增長超預期，消費冷感揮之不去，中國經濟「溫差」何來？",
+      "title_zh": "GDP增长超预期但消费冷感挥之不去，中国经济“温差”何来？",
+      "summary": "疫情以來，中國經濟一直困於一個公認的結構性困境：供給強於需求，外需好於內需，出口一直被視為拉動增長的最重要引擎。如今內需貢獻率驟然躍至近85%，這個結論，與近年來經濟學家的分析、外界的普遍評價，乃至普通人的體感，都不太相符。",
+      "url": "https://www.bbc.com/zhongwen/articles/c2ev9nzp99yo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa80/live/74f8f0d0-3ef4-11f1-95e9-c9f2031e3375.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T00:26:39+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "美伊霍爾木茲相互鎖喉中國「意外」受到關注，特朗普訪華會再度延期嗎？",
+      "title_zh": "美伊在霍尔木兹相互锁喉，中国意外受关注，特朗普访华会再度延期吗？",
+      "summary": "被指與中國有關聯的船舶接連成為焦點，這些船隻或嘗試突破美方封鎖後折返，或被美軍扣押。學者向BBC中文分析海灣局勢將如何影響特朗普下月的訪華行程及中美關係發展。",
+      "url": "https://www.bbc.com/zhongwen/articles/c1l962v7y22o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3599/live/98ec6400-3ef3-11f1-95e9-c9f2031e3375.jpg",
+      "category": "时政",
+      "published_at": "2026-04-23T09:32:12+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "白宮備忘錄指中國公司通過「蒸餾」活動大規模竊取美國AI技術",
+      "title_zh": "白宫备忘录指中国公司通过“蒸馏”活动大规模窃取美国AI技术",
+      "summary": "所謂的「蒸餾」活動通常來自一些公司。這些公司往往會針對特定的AI聊天機器人或工具，運作數以千計的個人帳號，使其看起來就像一般使用者。",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a85/live/6b1b6930-3f53-11f1-b55d-0f258dce1735.jpg",
+      "category": "AI",
+      "published_at": "2026-04-24T04:17:52+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "特朗普接受BBC訪問：英國國王訪美「絕對」有助修復英美關係",
+      "title_zh": "特朗普接受BBC采访：英国国王访美“绝对”有助修复英美关系",
+      "summary": "在接受BBC北美編輯的電話專訪時，這位總統談及英國國王下週的訪問行程，以及他與英國首相之間的關係。",
+      "url": "https://www.bbc.com/zhongwen/articles/cd7jq9grqqyo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg",
+      "category": "时政",
+      "published_at": "2026-04-24T03:25:30+00:00"
+    },
+    {
+      "source": "BBC中文",
       "title_original": "中國挺過了特朗普關稅，但現在伊朗戰爭的影響來了",
-      "title_zh": "中国挺过特朗普关税，但伊朗战争影响显现",
+      "title_zh": "中国挺过了特朗普关税，但现在伊朗战争的影响来了",
       "summary": "中東的衝突正對中國以出口為導向的經濟造成衝擊，為工廠訂單、成本和就業帶來壓力。",
       "url": "https://www.bbc.com/zhongwen/articles/ckg9q1zvg15o/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/411e/live/38447e10-3e73-11f1-b55d-0f258dce1735.jpg",
@@ -14,22 +54,12 @@
     {
       "source": "BBC中文",
       "title_original": "索馬利蘭: 「非洲之角」的大國博弈與台灣能源佈局背後的美中角力",
-      "title_zh": "索马里兰：大国博弈与台能源布局背后的美中角力",
+      "title_zh": "索马里兰：“非洲之角”的大国博弈与台湾能源布局背后的美中角力",
       "summary": "台灣如何藉由經貿與科技實力，與美以盟友合作，在索馬利蘭開闢新外交據點，而背後又突顯了美中台在「非洲之角」的新競逐。",
       "url": "https://www.bbc.com/zhongwen/articles/c87wv2yn5d0o/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a8d/live/54187c10-3ecb-11f1-b55d-0f258dce1735.jpg",
       "category": "时政",
       "published_at": "2026-04-23T04:18:42+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "「去看回我以前的家」  香港宏福苑首批回家執拾居民的追悼與道別",
-      "title_zh": "香港宏福苑首批居民回家收拾：追悼与告别",
-      "summary": "大火發生五個月後，宏福苑居民首度獲香港政府安排上樓執拾個人物品。BBC記錄下他們為這一天所做的準備，以及返家時的訴求和情感。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f77b/live/3ec516b0-3e22-11f1-bd52-e755d604ece4.jpg",
-      "category": "中国特大新闻",
-      "published_at": "2026-04-22T07:58:57+00:00"
     },
     {
       "source": "BBC中文",
@@ -43,13 +73,43 @@
     },
     {
       "source": "BBC中文",
+      "title_original": "億萬富豪孫宇晨指控特朗普家族旗下加密貨幣公司涉「勒索」",
+      "title_zh": "亿万富豪孙宇晨指控特朗普家族旗下加密货币公司涉“勒索”",
+      "summary": "億萬富豪投資者孫宇晨（Justin Sun）在斥資4500萬美元購入代幣後，入稟起訴特朗普家族旗下的加密貨幣項目「世界自由金融」。",
+      "url": "https://www.bbc.com/zhongwen/articles/cg407rlgpq6o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fb9/live/14ab1e50-3e5f-11f1-8887-e93160959470.jpg",
+      "category": "其他",
+      "published_at": "2026-04-23T08:33:33+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "五角大樓：美國海軍部長約翰・費蘭即時離任",
+      "title_zh": "五角大楼：美国海军部长约翰·费兰即时离任",
+      "summary": "他是近月來又一個離開政府的高級軍事領導人，他的離任正值美國與以色列和伊朗的戰爭持續，以及美方持續封鎖霍爾木茲海峽之際。",
+      "url": "https://www.bbc.com/zhongwen/articles/c30re8eq41po/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f488/live/9ec92710-3e98-11f1-a4f7-2909a7c81847.jpg",
+      "category": "军事",
+      "published_at": "2026-04-23T07:47:50+00:00"
+    },
+    {
+      "source": "BBC中文",
       "title_original": "中國一遊客死於英國村莊，警方稱「可能曾捲入衝突」",
-      "title_zh": "中国游客在英国村庄死亡，警方称可能曾卷入冲突",
+      "title_zh": "中国一游客死于英国村庄，警方称“可能曾卷入冲突”",
       "summary": "警方最初表示，相信該名男子在斯特拉斯佩弗（Strathpeffer）身亡一事屬於醫療事件。",
       "url": "https://www.bbc.com/zhongwen/articles/c3w3v1yx85po/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00a0/live/a3779360-3e29-11f1-8ba5-cfdd8d3337ac.jpg",
       "category": "其他",
       "published_at": "2026-04-23T03:36:37+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「去看回我以前的家」  香港宏福苑首批回家執拾居民的追悼與道別",
+      "title_zh": "“去看回我以前的家”——香港宏福苑首批回家执拾居民的追悼与道别",
+      "summary": "大火發生五個月後，宏福苑居民首度獲香港政府安排上樓執拾個人物品。BBC記錄下他們為這一天所做的準備，以及返家時的訴求和情感。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f77b/live/3ec516b0-3e22-11f1-bd52-e755d604ece4.jpg",
+      "category": "中国特大新闻",
+      "published_at": "2026-04-22T07:58:57+00:00"
     },
     {
       "source": "BBC中文",
@@ -64,7 +124,7 @@
     {
       "source": "BBC中文",
       "title_original": "「非洲最後一塊拼圖」：賴清德臨時取消訪問史瓦帝尼，分析指北京對台灣「空中圍堵」",
-      "title_zh": "赖清德临时取消访问斯威士兰，分析指北京对台“空中围堵”",
+      "title_zh": "“非洲最后一块拼图”：赖清德临时取消访问史瓦帝尼，分析指北京对台湾“空中围堵”",
       "summary": "史瓦帝尼是台灣在非洲的唯一邦交國，賴清德臨時取消了出訪行程，稱原因涉及中國對航道途經第三國施壓。學者分析，北京此舉是前所未見的做法，試圖「空中圍堵」並進一步孤立台灣。",
       "url": "https://www.bbc.com/zhongwen/articles/cx297dezd8jo/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dab8/live/9f9610b0-3dab-11f1-b377-d7765ac78768.jpg",
@@ -73,73 +133,23 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "戰爭陰影下的就業、通脹和消費   伊朗各行業大規模裁員",
-      "title_zh": "战争阴影下的伊朗：各行业大规模裁员与通胀",
-      "summary": "戰爭影響已波及製造業、零售業及數碼產業，外界警告若戰事再度爆發，情況恐將進一步惡化。",
-      "url": "https://www.bbc.com/zhongwen/articles/c74vkywn92yo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg",
-      "category": "经济",
-      "published_at": "2026-04-22T07:15:51+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "伊朗戰火推高油價：中國新能源車「瘋狂三月」背後的危與機",
-      "title_zh": "伊朗战火推高油价：中国新能源车“疯狂三月”的危与机",
-      "summary": "中國新能源汽車出口「受到制約的並非需求端，而是政治因素和貿易壁壘，尤其在歐洲和美國市場。」",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cd/live/5ed64190-3cab-11f1-8659-276ea07eb2ce.jpg",
-      "category": "新能源汽车",
-      "published_at": "2026-04-21T01:37:25+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "伊朗戰事迫使航班改道，機票價格飆升近25%",
-      "title_zh": "伊朗战事迫使航班改道，机票价格飙升近25%",
-      "summary": "研究顯示，伊朗戰爭衝突所引發的空域限制推高了機票的價格。",
-      "url": "https://www.bbc.com/zhongwen/articles/cde50p32wkdo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1062/live/da6149f0-3d90-11f1-92be-b5fcda70efcc.jpg",
-      "category": "经济",
-      "published_at": "2026-04-22T04:58:41+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "霍爾木茲海峽：海上封鎖真的有用嗎？",
-      "title_zh": "霍尔木兹海峡：海上封锁真的有用吗？",
-      "summary": "美國宣布的封鎖決定，使戰爭時期最古老的脅迫手段之一——切斷海上航線以削弱經濟、擾亂貿易並迫使對手改變策略或讓步——再次成為焦點。",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f68/live/4f23d930-3d30-11f1-8606-05fe34b06e1b.jpg",
-      "category": "军事",
-      "published_at": "2026-04-21T03:55:25+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "蘋果公司任命約翰·特納斯為新CEO，接替蒂姆・庫克",
-      "title_zh": "苹果公司任命约翰·特纳斯为新CEO，接替蒂姆·库克",
-      "summary": "約翰・特納斯將接掌這家科技巨頭的日常營運，庫克則將升任執行董事長。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx26zn366z7o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd24/live/5d5e1f40-3d55-11f1-879d-1b2f5c3919b8.jpg",
-      "category": "3C数码",
-      "published_at": "2026-04-21T04:41:51+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
-      "title_zh": "无烟世代：英国拟对2008年后出生者终身禁烟",
-      "summary": "這項「里程碑式」的立法旨在阻止2009年1月1日之後出生的人開始吸煙，從而創造無煙世代。",
-      "url": "https://www.bbc.com/zhongwen/articles/c98m0qd5jz7o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a0c/live/b7b82910-3de9-11f1-b55d-0f258dce1735.jpg",
-      "category": "其他",
-      "published_at": "2026-04-22T02:35:00+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "宏福苑居民災後首度「回家」執拾 ：「每一位居民都不甘心」",
-      "title_zh": "宏福苑居民灾后首度“回家”收拾：“每一位居民都不甘心”",
+      "title_zh": "宏福苑居民灾后首度“回家”执拾：“每一位居民都不甘心”",
       "summary": "香港大埔宏福苑七棟受災住宅居民，週一（4月20日）起分批返回受損單位執拾物品。這是自去年11月大火以來，居民首次獲准重返家園，每戶可停留三小時。",
       "url": "https://www.bbc.com/zhongwen/articles/c1krxz8ggxyo/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecb7/live/45f609d0-3da0-11f1-b55d-0f258dce1735.png",
       "category": "中国特大新闻",
       "published_at": "2026-04-21T15:58:05+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "四川广安千人争35岗位　福州网格员月薪两千元",
+      "title_zh": "四川广安千人争35岗位，福州网格员月薪两千元",
+      "summary": "4月中旬，四川广安一场社区网格员招聘引发关注。广安市广安区政府4月9日发布公告显示，此次共招聘94人，其中59人为定向岗位，面向社会公开招聘的岗位仅35个。按此计算，平均约30人竞争1个岗位。4月18日，有报名考生在聊天群披露，此次招聘吸引超过千人报考，竞争35个岗位。他表示，报名时才发现岗位结构差异明显，“公告写招聘94人，但很多岗位是定向的，普通考生能报的只有35个职位”。另有考生留言写道，网格员岗位薪资水平不高，“每个月大概1600元”。该薪资低于广安经开区最低月薪2200元。根据考生反映，报名人数超过1000人，在公开招聘岗位35个的情况下，初步测算竞争比例约为28至30人竞争1个岗位",
+      "url": "https://rfa.org/mandarin/shehui/2026/04/23/china-grid-workers-grassroot-control/",
+      "image_url": "https://www.rfa.org/resizer/v2/RMAZLOQLTNFXZI65442CUT4PAA.png?auth=348403205e628191b71bf433e7744ed07a0e639c416f4da8b6786bb8b7b18df4&smart=true&width=1500",
+      "category": "经济",
+      "published_at": "2026-04-23T09:25:06+00:00"
     },
     {
       "source": "自由亚洲",
@@ -162,119 +172,119 @@
       "published_at": "2026-04-21T08:22:05+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "中国发布供应链安全规定  外企“脱钩”面临限制",
-      "title_zh": "中国发布供应链安全规定，外企“脱钩”面临限制",
-      "summary": "中国国务院近期发布一项涉及外资企业的供应链规定，对企业调整供应链的行为作出限制。相关措施将针对因外部压力减少中国采购或调整供应链的企业展开调查，引发外界关注。新华社4月14日报导，中国国务院总理李强签署国务院令，公布《国务院关于产业链供应链安全的规定》。文件共18条，即日起施行。根据文件内容，第十四条及第十五条规定，国务院有关部门可对损害或可能损害中国供应链安全的外国组织和个人开展调查。调查过程中，可以询问当事人、查阅或复制相关资料，并可根据调查结果采取限制进出口、投资及相关交易等措施。文件第十六条进一步提出，对相关行为主体，可依法限制其在中国境内活动，包括出境、停留及居留等。金融学者司令接受",
-      "url": "https://rfa.org/mandarin/shangye/jingji/2026/04/20/china-foreign-companies-supply-chain/",
-      "image_url": "https://www.rfa.org/resizer/v2/XCQAOLKA7JFVNCUYH4J54CPLOI.JPG?auth=6a8848d245486588cebb7d272bd85992b461db82d24c27245bea5d1cf25efb43&smart=true&width=1500",
-      "category": "经济",
-      "published_at": "2026-04-20T08:03:02+00:00"
+      "source": "The Verge",
+      "title_original": "US arrests soldier who allegedly made $400K on Maduro Polymarket bets",
+      "title_zh": "美国逮捕一名士兵，其涉嫌在马杜罗Polymarket赌注中获利40万美元",
+      "summary": "\n\n\n\t\n\tNicolas Maduro is seen in handcuffs after landing at a Manhattan helipad on January 5, 2026 in New York City.\t\n\nWe knew someone made over $400,000 on suspicious Polymarket bets around the US operation to capture Venezuelan president Nicolas Maduro, but now we have a name: Gannon Ken Van Dyke. ",
+      "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2254194562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "军事",
+      "published_at": "2026-04-23T22:49:11+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
-      "title_zh": "特朗普“拯救”的伊朗女性：真实存在与AI篡改",
-      "summary": "\n\n\n\t\n\t\t\n\nOn Wednesday, President Donald Trump claimed to have secured the release of eight Iranian women condemned to execution for protesting the regime. \nOnly the night before, he had posted on Truth Social about the imminent executions of these women, quoting a screenshot that included a collage ",
-      "url": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2257383597.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "AI",
-      "published_at": "2026-04-23T01:53:24+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD",
-      "title_zh": "马斯克承认数百万特斯拉车辆无法获得无监督FSD",
-      "summary": "\n\n\n\t\n\t\t\n\nTesla vehicles with the company's Hardware 3 (HW3) computer actually won't receive unsupervised Full Self-Driving (FSD), CEO Elon Musk said on Wednesday's Q1 2026 earnings call. Approximately 4 million Tesla vehicles operate on the HW3 platform, meaning that a significant chunk of Tesla own",
-      "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090210/STK171_VRG_Illo_12_Normand_ElonMusk_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T22:38:31+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "X is going to let Grok curate your timeline",
-      "title_zh": "X平台将让Grok AI来管理你的信息流",
-      "summary": "\n\n\n\t\n\t\t\n\nX is putting its AI chatbot, Grok, in charge of your timeline. In an announcement on Wednesday, X product head Nikita Bier says Premium subscribers on iOS can get early access to a feature that allows users to pin specific topics to their home tab, which Grok will then use to curate the pos",
-      "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535555/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "互联网",
-      "published_at": "2026-04-22T20:49:38+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Tesla&#8217;s revenue rises again as it prepares for more AI and robotics",
-      "title_zh": "特斯拉营收再增长，加速布局AI与机器人",
-      "summary": "\n\n\n\t\n\t\t\n\nTesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics.\nTesla said it earned $477 million in net income on $22.4 billion in revenue in the quarter that en",
-      "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T20:36:17+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "title_zh": "伊丽莎白·沃伦警告：AI失误或引发下一场金融危机",
-      "summary": "\n\n\n\t\n\t\t\n\n\"I know a bubble when I see one.\"\nThat's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called",
-      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "AI",
-      "published_at": "2026-04-22T20:29:05+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "OpenAI now lets teams make custom bots that can do work on their own",
-      "title_zh": "OpenAI推出可自主工作的团队定制机器人",
-      "summary": "\n\n\n\t\n\t\t\n\nOpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "AI",
-      "published_at": "2026-04-22T20:09:02+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Alexis Ohanian shocks Washington with pro-immigration remarks",
-      "title_zh": "亚历克西斯·奥哈尼安亲移民言论震惊华盛顿",
-      "summary": "\n\n\n\t\n\tLos Angeles Golf Club owner Alexis Ohanian looks on during the match against the Jupiter Links Golf Club at SoFi Center on March 24, 2026 in Palm Beach Gardens, Florida. | Image: TGL Golf via Getty Images\t\n\nHello and welcome to Regulator, a newsletter for Verge readers about tech politics, pol",
-      "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268210802.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "时政",
-      "published_at": "2026-04-22T20:04:45+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Former MrBeast exec sues over ‘years’ of alleged harassment",
-      "title_zh": "前MrBeast高管起诉公司多年涉嫌骚扰",
-      "summary": "\n\n\n\t\n\t\t\n\nA former employee of Jimmy \"MrBeast\" Donaldson has filed a lawsuit alleging that she faced \"intentional infliction of emotional distress\" from harassment at the YouTuber's production company, was asked to work during maternity leave, and was wrongfully fired just a few weeks after returning",
-      "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2255013076.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-04-22T18:49:02+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
-      "title_zh": "Ember智能自热咖啡杯母亲节前降价超50美元",
-      "summary": "\n\n\n\t\n\tThe Mug 2 can keep coffee, tea, cocoa, and other drinks warm for as long as you’d like. | Image: Ember\t\n\nCoffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfu",
-      "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562170/ember_feb2022_benwaugh_6_EDIT_3000.jpg?quality=90&#038;strip=all&#038;crop=20.4,21.289355322339,64.2,61.619190404798",
+      "title_original": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
+      "title_zh": "泄露信息显示新Xbox Game Pass“入门版”将作为Discord Nitro的一部分",
+      "summary": "\n\n\n\t\n\t\t\n\nMicrosoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro.\nThe Starter Edition reportedly in",
+      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "3C数码",
-      "published_at": "2026-04-22T17:58:23+00:00"
+      "published_at": "2026-04-23T22:36:39+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "title_zh": "索尼精英乒乓球机器人击败顶级选手",
-      "summary": "\n\n\n\t\n\tAce is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI\t\n\nHumans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from ",
-      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "title_zh": "Claude正直接连接你的个人应用，如Spotify、Uber Eats和TurboTax",
+      "summary": "\n\n\n\t\n\t\t\n\nClaude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "AI",
-      "published_at": "2026-04-22T17:43:38+00:00"
+      "published_at": "2026-04-23T22:27:11+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
+      "title_zh": "布伦丹·卡尔对“觉醒文化”宣战，目标指向儿童电视节目",
+      "summary": "\n\n\n\t\n\t\t\n\nUnder the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexities of gender identity.\nOn Wednesday, the FCC's Media Bureau announced that it is soliciting comments from the publ",
+      "url": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2262365040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "时政",
+      "published_at": "2026-04-23T21:36:46+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Sonos’ big sale on refurbished speakers is about to end",
+      "title_zh": "Sonos翻新音箱大促即将结束",
+      "summary": "\n\n\n\t\n\tThe green model of the Move 2 shown here is sold out at Sonos’ refurbished site, but the black or white models are up for grabs. | Photo by Chris Welch / The Verge\t\n\nPortable audio and home theater upgrades can be very pricey, which is why we make a habit out of telling readers when there are ",
+      "url": "https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24929138/DSCF2948_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "3C数码",
+      "published_at": "2026-04-23T19:54:04+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Meta is laying off 10 percent of its staff",
+      "title_zh": "Meta将裁员10%",
+      "summary": "\n\n\n\t\n\tMark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images\t\n\nMeta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2235448475.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "互联网",
+      "published_at": "2026-04-23T19:41:07+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "‘We Are Xbox’: read the memo defining Microsoft’s gaming future",
+      "title_zh": "“我们是Xbox”：微软内部备忘录定义游戏未来",
+      "summary": "\n\n\n\t\n\tAsha Sharma. | Image: The Verge, Microsoft\t\n\nMicrosoft's new Xbox CEO Asha Sharma has laid out a new strategy for what she describes as a \"return of Xbox.\" In a joint memo with Xbox Chief Content Officer Matt Booty, Sharma and Booty lay out their vision for the future of Xbox that will be judg",
+      "url": "https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "3C数码",
+      "published_at": "2026-04-23T18:59:12+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
+      "title_zh": "微软新任Xbox主管正“重新评估”独占游戏策略",
+      "summary": "\n\n\n\t\n\t\t\n\nXbox CEO Asha Sharma held an all-hands meeting this morning and laid out her strategy for a \"return of Xbox\" with employees. While rebranding Microsoft Gaming back to Xbox was part of the agenda, Sharma also revealed that Xbox is looking into \"reevaluating\" Xbox exclusive games and windowed",
+      "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "3C数码",
+      "published_at": "2026-04-23T18:51:14+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Democrats want to ban ICE from turning warehouses into detention centers",
+      "title_zh": "民主党人欲禁止ICE将仓库改为拘留中心",
+      "summary": "\n\n\n\t\n\tSALT LAKE CITY, UTAH - Amid an expansion of federal immigration enforcement operations, ICE has reportedly purchased a 833,000 square foot warehouse in Salt Lake City, paying well above its assessed value, to support detention, processing, and logistical needs in the region. (Photo by Justin S",
+      "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270617775.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "时政",
+      "published_at": "2026-04-23T18:35:00+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Spirit is broken",
+      "title_zh": "精神已崩溃",
+      "summary": "\n\n\n\t\n\t\t\n\nThe bright yellow livery of Spirit Airlines may soon disappear from the skies. The country's seventh-largest airline has been in financial trouble for years: It hasn't turned a profit since 2019 and filed for bankruptcy twice in the last two years. Despite all that, its leaders predicted th",
+      "url": "https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2271952051.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-04-23T18:27:35+00:00"
+    },
+    {
+      "source": "Ars Technica",
+      "title_original": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "title_zh": "首个勒索软件家族被证实具备抗量子能力",
+      "summary": "A relatively new ransomware family is using a novel approach to hype the strength of the encryption used to scramble files—making, or at least claiming, that it is protected against attacks by quantum computers.\nKyber, as the ransomware is called, has been around since at least last September and qu",
+      "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+      "category": "AI",
+      "published_at": "2026-04-23T20:41:23+00:00"
     },
     {
       "source": "Ars Technica",
       "title_original": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-      "title_zh": "微软紧急更新应对macOS与Linux ASP.NET威胁",
+      "title_zh": "微软发布macOS和Linux ASP.NET紧急安全更新",
       "summary": "Microsoft released an emergency patch for its ASP.NET Core to fix a high-severity vulnerability that allows unauthenticated attackers to gain SYSTEM privileges on devices that use the Web development framework to run Linux or macOS apps.\nThe software maker said Tuesday evening that the vulnerability",
       "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
@@ -284,717 +294,847 @@
     {
       "source": "Ars Technica",
       "title_original": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "title_zh": "研究澄清：后量子时代AES 128加密依然安全",
+      "title_zh": "后量子时代AES-128依然安全，打破普遍迷信",
       "summary": "With growing focus on the existential threat quantum computing poses to some of the most crucial and widely used forms of encryption, cryptography engineer Filippo Valsorda wants to make one thing absolutely clear: Contrary to popular mythology that refuses to die, AES 128 is perfectly fine in a pos",
       "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
-      "category": "互联网",
+      "category": "AI",
       "published_at": "2026-04-21T12:35:20+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Hoka Coupon Codes: 30% Off | April 2026",
-      "title_zh": "Hoka优惠码：2026年4月享7折",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for April 2026.",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-      "category": "其他",
-      "published_at": "2026-04-23T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Verizon Promo Codes: $200 Verizon Gift Cards | April 2026",
-      "title_zh": "威瑞森促销码：2026年4月赠200美元礼品卡",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
+      "title_original": "Sam's Club Promo Codes: 60% Off for April 2026",
+      "title_zh": "山姆会员店促销码：2026年4月低至六折",
+      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "url": "https://www.wired.com/story/sams-club-coupon/",
+      "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
       "category": "经济",
-      "published_at": "2026-04-23T06:00:00+00:00"
+      "published_at": "2026-04-24T05:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Dermstore Promo Codes: 25% Off",
-      "title_zh": "Dermstore优惠码：全场75折",
-      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "url": "https://www.wired.com/story/dermstore-promo-code/",
-      "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "category": "其他",
-      "published_at": "2026-04-23T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Chirp Discount Codes and Deals: Save Up to 67%",
-      "title_zh": "Chirp折扣码最高省67%",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-      "category": "其他",
-      "published_at": "2026-04-23T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "15% Off Adidas Promo Code | April 2026",
-      "title_zh": "阿迪达斯2026年4月优惠码85折",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "category": "其他",
-      "published_at": "2026-04-23T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-      "title_zh": "奥特曼旗下Orb公司虚假宣传与布鲁诺·马尔斯合作",
-      "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
-      "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-      "image_url": "https://media.wired.com/photos/69e9205d27d28cd206268af9/master/pass/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg",
-      "category": "AI",
-      "published_at": "2026-04-22T22:11:15+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
-      "title_zh": "美参议院候选人承认故意在Kalshi平台内幕交易",
-      "summary": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
-      "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
-      "image_url": "https://media.wired.com/photos/69e93de8158176d33f8610e8/master/pass/mark-moran-Caught-Insider-Trading-Business.jpg",
+      "title_original": "Target Promo Code: $50 Off | April 2026",
+      "title_zh": "塔吉特促销码：2026年4月立减50美元",
+      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+      "url": "https://www.wired.com/story/target-promo-code/",
+      "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
       "category": "经济",
-      "published_at": "2026-04-22T21:49:19+00:00"
+      "published_at": "2026-04-24T05:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
-      "title_zh": "科学家给鲑鱼喂食可卡因，结果令人震惊",
-      "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
-      "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
-      "image_url": "https://media.wired.com/photos/69e92e5066ef7baae78bcd9c/master/pass/science_salmon_drugs_GettyImages-147521591.jpg",
-      "category": "其他",
-      "published_at": "2026-04-22T21:34:03+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "title_zh": "5个AI模型试图诈骗我，部分表现惊人",
-      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-      "image_url": "https://media.wired.com/photos/69e80107d6f72fef368f93fe/master/pass/AI-Lab-Headed-for-Superhuman-AI-Scams-Business.jpg",
-      "category": "AI",
-      "published_at": "2026-04-22T18:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-      "title_zh": "AI工具助朝鲜黑客窃取数百万资金",
-      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-      "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-      "image_url": "https://media.wired.com/photos/69e82a04c0cc5d8b22657c5c/master/pass/security_nk3_GettyImages-2271247827.jpg",
-      "category": "AI",
-      "published_at": "2026-04-22T16:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "New York Bans Government Employees from Insider Trading on Prediction Markets",
-      "title_zh": "纽约禁止政府雇员在预测市场进行内幕交易",
-      "summary": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
-      "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
-      "image_url": "https://media.wired.com/photos/69e7be5630f1417b945ef3f3/master/pass/NY-Ban-Insider-Trading-Business-2254839986.jpg",
-      "category": "时政",
-      "published_at": "2026-04-22T16:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "USAID Whistleblower Says It Was Even Worse Than People Knew",
-      "title_zh": "美援署举报人称情况比公众所知更糟",
-      "summary": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
-      "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
-      "image_url": "https://media.wired.com/photos/69e8011875c782c19df35a8a/master/pass/politics_usaid_whistleblower_worse.jpg",
-      "category": "时政",
-      "published_at": "2026-04-22T15:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
-      "title_zh": "2026年最佳Chromebook：多数不佳，但这几款例外",
-      "summary": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
-      "url": "https://www.wired.com/story/best-chromebooks/",
-      "image_url": "https://media.wired.com/photos/69e7df555301878a0065581e/master/pass/The-Best-Chromebooks.jpg",
-      "category": "3C数码",
-      "published_at": "2026-04-22T11:30:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Dinnerly Meal Kit Review (2026): Hearty Meals on a Budget",
-      "title_zh": "Dinnerly餐包测评（2026）：经济实惠的丰盛餐食",
-      "summary": "Martha Stewart–endorsed Dinnerly is a budget meal kit that doesn’t feel budget anymore, with interesting, far-flung flavors. Just add a little rice.",
-      "url": "https://www.wired.com/review/dinnerly-meal-kit-2026/",
-      "image_url": "https://media.wired.com/photos/69e7f8937793f14ca157546c/master/pass/Review--Dinnerly.jpg",
-      "category": "其他",
-      "published_at": "2026-04-22T11:07:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Best Apps to Help You Cancel Subscriptions (2026): Trim, Bobby, TrackMySubs, Hiatus",
-      "title_zh": "2026年最佳订阅取消助手应用：Trim、Bobby等",
-      "summary": "You may have several recurring subscriptions you've forgotten about. These apps help you keep track of them—and cancel the ones you don't need.",
-      "url": "https://www.wired.com/story/apps-cancel-subscriptions-save-money/",
-      "image_url": "https://media.wired.com/photos/5ff8e294656c0d4b056b3cd7/master/pass/Gear-Save-Money-1270998711.jpg",
-      "category": "互联网",
-      "published_at": "2026-04-22T11:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
-      "title_zh": "Beatbot Sora 30测评：中端价位，高端效果",
-      "summary": "Strong coverage and a long run time make this pool-cleaning robot a compelling alternative to pricier models.",
-      "url": "https://www.wired.com/review/beatbot-sora-30/",
-      "image_url": "https://media.wired.com/photos/69e7d758030fb91129bff2fd/master/pass/Review--Beatbot-Sora-30.jpg",
-      "category": "3C数码",
-      "published_at": "2026-04-22T10:33:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
-      "title_zh": "新建燃气数据中心温室气体排放或超部分国家总量",
-      "summary": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
-      "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
-      "image_url": "https://media.wired.com/photos/69d6c15c510ba3167cd288cf/master/pass/040826-data-center-gas-projects-emissions.jpg",
+      "title_original": "KitchenAid Promo Codes: Save Up to 20%",
+      "title_zh": "KitchenAid促销码：最高节省20%",
+      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
       "category": "经济",
-      "published_at": "2026-04-22T10:30:00+00:00"
+      "published_at": "2026-04-24T05:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-      "title_zh": "直播预告：马斯克对决奥特曼与OpenAI的未来",
-      "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-      "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-      "image_url": "https://media.wired.com/photos/69e7bb297bc055b07603a318/master/pass/livestream_q&a_MuskVSAltman-Business.jpg",
-      "category": "AI",
-      "published_at": "2026-04-22T10:00:00+00:00"
+      "title_original": "Design Within Reach Promo Codes: 30% Off | April 2026",
+      "title_zh": "Design Within Reach促销码：2026年4月七折优惠",
+      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Infinite Machine Olto Review: A Tremendously Fun Ride",
-      "title_zh": "Infinite Machine Olto测评：极致驾驶乐趣",
-      "summary": "The ebike that doesn’t look like any other ebike is a tremendously fun ride—even for two passengers—if you don’t mind the Cybertruckian design.",
-      "url": "https://www.wired.com/review/infinite-machine-olto/",
-      "image_url": "https://media.wired.com/photos/69e7f86cff22912b76bfa533/master/pass/DSC_7876.jpg",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T10:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
-      "title_zh": "检测工具称教皇AI警告系AI生成",
-      "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
-      "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
-      "image_url": "https://media.wired.com/photos/69e7e52ddbc7ae33ffd93e6a/master/pass/042126-ai-written-content.jpg",
-      "category": "AI",
-      "published_at": "2026-04-22T09:30:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "India’s app market is booming — but global platforms are capturing most of the gains",
-      "title_zh": "印度应用市场繁荣，但全球平台攫取大部分收益",
-      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-      "image_url": null,
-      "category": "互联网",
-      "published_at": "2026-04-23T04:38:45+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Shade lands $14M to let creative teams search their video libraries in plain English",
-      "title_zh": "Shade获1400万美元融资，支持英语自然语言视频库搜索",
-      "summary": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
-      "url": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-23T04:17:52+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "title_zh": "特斯拉将支出计划增至250亿美元，资金流向解析",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "image_url": null,
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T23:56:52+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Google updates Workspace to make AI your new office intern",
-      "title_zh": "谷歌更新Workspace，让AI成为办公室新助手",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T22:44:26+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-      "title_zh": "马斯克承认数百万特斯拉车主需升级才能实现完全自动驾驶",
-      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-      "image_url": null,
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T22:39:58+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Hands on with X’s new AI-powered custom feeds",
-      "title_zh": "实测X平台AI驱动的自定义信息流",
-      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T22:25:53+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
-      "title_zh": "LinkedIn CEO将离职，请暂缓发布视频悼念",
-      "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
-      "url": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
-      "image_url": null,
-      "category": "互联网",
-      "published_at": "2026-04-22T21:37:34+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
-      "title_zh": "特斯拉Q1营收增长，受电动汽车销售和FSD订阅驱动",
-      "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
-      "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
-      "image_url": null,
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T20:57:21+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
-      "title_zh": "NASA阿尔忒弥斯II任务展示地月激光通信可扩展性",
-      "summary": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
-      "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
-      "image_url": null,
+      "title_original": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+      "title_zh": "美国特种部队士兵因在Polymarket押注马杜罗突袭行动被捕",
+      "summary": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+      "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+      "image_url": "https://media.wired.com/photos/69ea98d61e4e27233017ac08/master/pass/Army-Soldier-Charged-With-Using-Classified-Intel-to-Profit-on-Polymarket-Bets-Business-2254194774.jpg",
       "category": "军事",
-      "published_at": "2026-04-22T20:09:45+00:00"
+      "published_at": "2026-04-23T23:15:21+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "title_zh": "SpaceX如何用600亿美元收购要约抢占20亿美元融资",
-      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-      "image_url": null,
-      "category": "经济",
-      "published_at": "2026-04-22T19:51:51+00:00"
+      "source": "Wired",
+      "title_original": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+      "title_zh": "新破译的破坏性恶意软件或曾针对伊朗核计划，早于震网病毒",
+      "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+      "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+      "image_url": "https://media.wired.com/photos/69ea6ad5ba58a984aa33cf3d/master/pass/Security_MalwareMayHaveTargetedIran'sNuclearProgram_03.jpg",
+      "category": "军事",
+      "published_at": "2026-04-23T22:00:00+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "France confirms data breach at government agency that manages citizens’ IDs",
-      "title_zh": "法国确认公民身份证管理政府机构数据泄露",
-      "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
-      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-      "image_url": null,
-      "category": "中国特大新闻",
-      "published_at": "2026-04-22T19:34:41+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "title_zh": "苹果修复警方用以提取iPhone已删除聊天记录的漏洞",
-      "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "image_url": null,
-      "category": "3C数码",
-      "published_at": "2026-04-22T19:13:02+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
-      "title_zh": "从舞台到未来：Startup Battlefield的校友们今何在？",
-      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
-      "url": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
-      "image_url": null,
+      "source": "Wired",
+      "title_original": "Rednote Draws a Line Between China and the World",
+      "title_zh": "小红书在中国与世界之间划清界限",
+      "summary": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+      "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+      "image_url": "https://media.wired.com/photos/69e91348580227e02a75f02d/master/pass/Made-In-China-RedNote-Separates-Its-Chinese-and-International-Audiences-Business.jpg",
       "category": "互联网",
-      "published_at": "2026-04-22T18:42:26+00:00"
+      "published_at": "2026-04-23T20:23:48+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "Google Cloud launches two new AI chips to compete with Nvidia",
-      "title_zh": "谷歌云发布两款新AI芯片以挑战英伟达",
-      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T18:39:27+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Google turns Chrome into an AI co-worker for the workplace",
-      "title_zh": "谷歌将Chrome打造成职场AI助手",
-      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T17:30:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Fusion power may not be sci-fi. Just ask the people who sunk $5B into it.",
-      "title_zh": "聚变能源或非科幻：看投入50亿美元的投资者怎么说",
-      "summary": "Fusion energy has been &#8220;20 years away&#8221; for decades, but has&#160;the science&#160;finally&#160;caught&#160;up? Private investment in fusion companies&#160;surged from&#160;$10 billion&#160;to&#160;$15&#160;billion&#160;in just months, and the money is coming from places you&#160;wouldn&#",
-      "url": "https://techcrunch.com/video/fusion-power-may-not-be-sci-fi-just-ask-the-people-who-sunk-5b-into-it/",
-      "image_url": null,
+      "source": "Wired",
+      "title_original": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+      "title_zh": "苹果下一章、SpaceX与Cursor达成交易、Palantir争议宣言",
+      "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+      "image_url": "https://media.wired.com/photos/69e9325b3ea6d24e4cfdd4c8/master/pass/Uncanny-Valley-Tim-Cook-Business-2233926826.jpg",
       "category": "其他",
-      "published_at": "2026-04-22T17:07:00+00:00"
+      "published_at": "2026-04-23T19:26:11+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "Threads is adding Live Chats to boost real-time engagement",
-      "title_zh": "Threads新增实时聊天功能以提升用户互动",
-      "summary": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
-      "url": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/",
-      "image_url": null,
+      "source": "Wired",
+      "title_original": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+      "title_zh": "在“AI科切拉”上，斯坦福学生排队向硅谷精英学习",
+      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+      "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+      "image_url": "https://media.wired.com/photos/69e7fd9ba92c502cace442f8/master/pass/Model-Behavior-AI-Coachella-Stanford-Business.jpg",
+      "category": "AI",
+      "published_at": "2026-04-23T18:24:37+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+      "title_zh": "Palantir员工开始怀疑自己是否是反派",
+      "summary": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
+      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "image_url": "https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/master/pass/GettyImages-2268833968.jpg",
       "category": "互联网",
-      "published_at": "2026-04-22T17:00:00+00:00"
+      "published_at": "2026-04-23T16:01:51+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
+      "title_zh": "Lume Cube Edge Light Go 评测（2026）：多功能便携补光灯",
+      "summary": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
+      "url": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/",
+      "image_url": "https://media.wired.com/photos/69e99dcf276e64b3ed47d28a/master/pass/Review--Lume-Cube-Edge-Light-Go-Desk-Lamp.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T12:29:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+      "title_zh": "前OnePlus工程师打造的智能眼镜暗藏隐性成本",
+      "summary": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for one year, but the company doesn't know yet how much it will charge for access after that.",
+      "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+      "image_url": "https://media.wired.com/photos/69e910416dc950127eee1571/master/pass/L_Atitude-GearPhoto2.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T12:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "title_zh": "2026年最佳泳池机器人清洁器：Beatbot、iGarden、Dreame",
+      "summary": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+      "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T11:11:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+      "title_zh": "2026年最佳Fitbit型号：适合初学者、运动员和儿童",
+      "summary": "The fitness trackers I'd recommend to beginners, athletes, and kids.",
+      "url": "https://www.wired.com/story/best-fitbit/",
+      "image_url": "https://media.wired.com/photos/69e94aa26a36ac31fa631502/master/pass/The-Best-Fitbit-Depends-on-Your-Goals.-Here's-How-to-Choose.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T11:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Best Robot Vacuum of 2026: Shark, Eufy",
+      "title_zh": "2026年最佳扫地机器人：Shark、Eufy",
+      "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+      "url": "https://www.wired.com/story/best-robot-vacuum/",
+      "image_url": "https://media.wired.com/photos/69e945ec1e791992644b1bf5/master/pass/The-Best-Robot-Vacuums.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T10:33:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "They Made D4vd a Star. Now They Want Him Convicted of Murder",
+      "title_zh": "他们捧红了歌手D4vd，如今却要求判他谋杀罪",
+      "summary": "A legion of young fans propelled the singer D4vd to viral fame. Now that he’s been charged with the murder of 14-year-old Celeste Rivas Hernandez, they say the clues were in their Discord all along.",
+      "url": "https://www.wired.com/d4vd-david-burke-celeste-rivas-hernandez-murder/",
+      "image_url": "https://media.wired.com/photos/69e95d7e6dc950127eee1be0/master/pass/Socials_TA_S0A6942.jpg",
+      "category": "其他",
+      "published_at": "2026-04-23T10:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved",
+      "title_zh": "2026年7款最佳淋浴过滤器：经WIRED测试推荐",
+      "summary": "I tested leading filtered showerheads to see how well they remove total chlorine from your water.",
+      "url": "https://www.wired.com/gallery/best-shower-water-filters/",
+      "image_url": "https://media.wired.com/photos/690e6563c1ae01185d6612e6/master/pass/The%20Best%20Shower%20Filters%20for%20Removing%20Chlorine,%20Lead,%20and%20PFAS.png",
+      "category": "其他",
+      "published_at": "2026-04-23T09:33:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos",
+      "title_zh": "一家初创公司声称在实验室培育出人类精子并用于制造胚胎",
+      "summary": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
+      "url": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
+      "image_url": "https://media.wired.com/photos/69e78ac48d70372b131da73b/master/pass/Science_It'sNowPossibletoMakeHumanSperminaLab.jpg",
+      "category": "其他",
+      "published_at": "2026-04-23T09:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "The Adidas Hyperboost Edge Is Your New Super Trainer",
+      "title_zh": "阿迪达斯Hyperboost Edge：你的新一代超级训练鞋",
+      "summary": "How do shoe companies translate superfast racing shoe tech into your daily trainers? We break it down with some of the best new running shoes on the market.",
+      "url": "https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/",
+      "image_url": "https://media.wired.com/photos/69e95c498fc01babb1f0a596/master/pass/ADIDAS_HYPERBOOST_EDGE_PRODUCT-IMAGE-5.jpg",
+      "category": "其他",
+      "published_at": "2026-04-23T09:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound",
+      "title_zh": "索尼Inzone H6 Air评测：佩戴舒适、音质出色的耳机",
+      "summary": "Sony’s new Inzone H6 Air is a departure from the typical gaming headset design, and I’m on board.",
+      "url": "https://www.wired.com/review/sony-inzone-h6-air/",
+      "image_url": "https://media.wired.com/photos/69e99c5f979299381617d8c7/master/pass/Review--Sony-Inzone-H6-Air.jpg",
+      "category": "3C数码",
+      "published_at": "2026-04-23T09:00:00+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Google makes an interesting choice with its new agent-building tool for enterprises",
-      "title_zh": "谷歌为企业推出新AI智能体构建工具，选择耐人寻味",
-      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-      "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T16:58:27+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "AI Overviews are coming to your Gmail at work",
-      "title_zh": "AI概览功能即将登陆企业版Gmail",
-      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-      "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-04-22T16:46:10+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Rivian R2 production has started despite tornado damage to factory",
-      "title_zh": "Rivian R2已启动生产，此前工厂曾遭龙卷风破坏",
-      "summary": "The company's all-important mass-market EV is just about ready to start heading to customers.",
-      "url": "https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/",
+      "title_original": "Porsche is adding an all-electric Cayenne coupe to its lineup",
+      "title_zh": "保时捷将推出纯电动Cayenne轿跑版",
+      "summary": "Porsche will start selling the Cayenne Coupe Electric in late summer.",
+      "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
       "image_url": null,
       "category": "新能源汽车",
-      "published_at": "2026-04-22T15:47:53+00:00"
+      "published_at": "2026-04-24T04:01:00+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Yuan to Surpass Yen in Currency Options Trading, LCH Says",
-      "title_zh": "LCH：人民币期权交易量将超越日元",
-      "summary": "The yuan is on track to overtake the yen as the second-most traded currency against the dollar in the foreign-exchange options market, according to London-based clearing house LCH.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/yuan-to-surpass-yen-in-global-currency-options-trading-lch-says",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiuOMfrOuzcM/v3/1200x-1.png",
+      "source": "TechCrunch",
+      "title_original": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "title_zh": "鲍勃·伊格尔离开迪士尼后重新加入Thrive Capital担任顾问",
+      "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+      "url": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "image_url": null,
       "category": "经济",
-      "published_at": "2026-04-23T04:27:11+00:00"
+      "published_at": "2026-04-24T00:11:25+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Stocks, Bonds Fall as Oil Stays Above $100 on Iran: Markets Wrap",
-      "title_zh": "股市债市双跌，伊朗局势致油价稳居100美元上方：市场综述",
-      "summary": "Lindsay Rosner, Head of Multi-Sector Fixed Income Investing at Goldman Sachs Asset Management, discussed the accelerated pace of market movements compared to the pre-COVID era, investors no longer have the luxury of time to react to major market events or geopolitical developments, as news cycles an",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/stock-market-today-dow-s-p-live-updates",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iukXIZDdaWXU/v31/1200x-1.jpg",
+      "source": "TechCrunch",
+      "title_original": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+      "title_zh": "特种兵因在马杜罗行动相关Polymarket赌注中获利40万美元被捕",
+      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
+      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+      "image_url": null,
+      "category": "时政",
+      "published_at": "2026-04-23T23:32:33+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Redwood Materials loses COO amid layoffs, restructuring",
+      "title_zh": "Redwood Materials在裁员重组中失去首席运营官",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+      "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "image_url": null,
       "category": "经济",
-      "published_at": "2026-04-22T22:18:21+00:00"
+      "published_at": "2026-04-23T22:44:12+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Oil Extends Gain as Peace Negotiations Between US and Iran Stall",
-      "title_zh": "美伊和谈停滞，油价延续涨势",
-      "summary": "Storage tanks at the Motiva Port Arthur Refinery in Port Arthur, Texas, US, on Tuesday, April 14, 2026. US natural gas futures ended lower for a fifth consecutive session, erasing earlier gains as traders weighed plunging oil prices against mixed weather outlooks.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/latest-oil-market-news-and-analysis-for-april-23",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ialDaMecIqNA/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-22T22:01:29+00:00"
+      "source": "TechCrunch",
+      "title_original": "These are the countries moving to ban social media for children",
+      "title_zh": "这些国家正推动禁止儿童使用社交媒体",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T21:33:51+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Nestlé Sales Rise as Snacks and Coffee Outweigh Recall Hit",
-      "title_zh": "零食与咖啡业务抵消召回影响，雀巢销售额增长",
-      "summary": "KitKat chocolate bars.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/nestle-sales-of-snacks-and-coffee-offset-formula-recall-impact",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilZFfEKMqJu4/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-23T05:04:22+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Stock Futures Fall, Pound Weakens on Talks Uncertainty",
-      "title_zh": "谈判不确定性致股指期货下跌、英镑走弱",
-      "summary": "",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-04-23/ftse-100-live-iran-trump-pound-usd-bonds-hormuz-what-s-moving-uk-markets-right-now-markets-today-mob25p9e",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ7eASes7eqg/v0/1200x-1.png",
-      "category": "经济",
-      "published_at": "2026-04-23T05:45:38+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Nokia Earnings Beat Estimates as AI Pivot Shows Promise",
-      "title_zh": "诺基亚财报超预期，AI转型初见成效",
-      "summary": "Nokia Oyj headquarters in Espoo, Finland. Photographer: Roni Rekomaa/Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/nokia-earnings-beat-estimates-as-data-center-pivot-shows-promise",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6N0ao468Jdw/v0/1200x-1.jpg",
+      "source": "TechCrunch",
+      "title_original": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "title_zh": "Bret Taylor的Sierra收购YC支持的AI初创公司Fragment",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "image_url": null,
       "category": "AI",
-      "published_at": "2026-04-23T05:08:43+00:00"
+      "published_at": "2026-04-23T21:00:00+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "SET President: IPO Pipeline Faces a Difficult Situation",
-      "title_zh": "泰国证交所主席：IPO渠道面临困境",
-      "summary": "Stock Exchange of Thailand President Asadej Kongsiri discussed the IPO pipeline, saying it is in a difficult situation. He also noted that the Thai exchange plans to introduce “mini-gold” futures. He spoke with Haslinda Amin on Bloomberg Insight. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/set-president-ipo-pipeline-faces-a-difficult-situation-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIz54snKegxU/v3/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-23T05:31:22+00:00"
+      "source": "TechCrunch",
+      "title_original": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
+      "title_zh": "Instagram测试新应用'Instants'用于分享阅后即焚照片",
+      "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
+      "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T20:03:53+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Indonesia Rupiah Falls Most in Seven Months on Rising Oil Prices",
-      "title_zh": "油价上涨致印尼盾创七个月最大跌幅",
-      "summary": "The Indonesian rupiah declined by the most in seven months as rising oil prices hurt sentiment for the nation’s assets, as Bank Indonesia signal that they have increased intervention efforts.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/idr-usd-indonesia-rupiah-falls-most-in-seven-months-on-rising-oil-prices",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwX5oi7DAOqk/v2/1200x-1.png",
-      "category": "经济",
-      "published_at": "2026-04-23T03:47:01+00:00"
+      "source": "TechCrunch",
+      "title_original": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "title_zh": "认识Noscroll：替你刷负面新闻的AI机器人",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "image_url": null,
+      "category": "AI",
+      "published_at": "2026-04-23T19:38:25+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Modi Seeks to Win Key India State After Voter Rolls Purged",
-      "title_zh": "选民名单清理后，莫迪寻求赢得印度关键邦选举",
-      "summary": "Mamata Banerjee in Kolkata on April 8. Photographer: Dibyangshu Sarkar/AFP/Getty Images",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/modi-stakes-prestige-on-west-bengal-2026-elections-as-voter-roll-row-grows",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQYNOT._qHm8/v0/1200x-1.jpg",
+      "source": "TechCrunch",
+      "title_original": "Trump’s pick to run US cyber agency CISA asks to drop out",
+      "title_zh": "特朗普提名的美国网安机构CISA负责人请求退出",
+      "summary": "Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.",
+      "url": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
+      "image_url": null,
       "category": "时政",
-      "published_at": "2026-04-23T01:00:00+00:00"
+      "published_at": "2026-04-23T19:33:48+00:00"
     },
     {
-      "source": "Bloomberg",
-      "title_original": "Indonesia Sells Biggest Samurai Bond Since 2024 on Firm Demand",
-      "title_zh": "需求强劲，印尼发行2024年以来最大规模武士债",
-      "summary": "Japanese 10,000-yen banknotes arranged in Kyoto, Japan, on Tuesday, Jan. 27, 2026. The yen is now hovering around its strongest level since October after comments from Japanese officials fueled speculation that the government may intervene in the market to prevent the currency from resuming its slid",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/indonesia-sells-172-1-billion-samurai-bond-on-strong-demand",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipxC_oKGfNzA/v0/1200x-1.jpg",
+      "source": "TechCrunch",
+      "title_original": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+      "title_zh": "Artisan创始人：别停止招聘人类——停止招聘错误的人",
+      "summary": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to scale.",
+      "url": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-04-23T18:49:38+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "title_zh": "OpenAI发布GPT-5.5，向AI超级应用更近一步",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "image_url": null,
+      "category": "AI",
+      "published_at": "2026-04-23T18:29:29+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Meta to cut 10% of jobs, or 8,000 employees, report says",
+      "title_zh": "Meta将裁员10%，约8000人",
+      "summary": "According to an internal memo, Meta plans to begin its sweeping layoffs on May 20.",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T18:08:16+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Bluesky now supports better-quality photos",
+      "title_zh": "Bluesky现支持更高质量图片",
+      "summary": "The max size is now 2MB and max resolution is 4000 x 4000.",
+      "url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T16:41:14+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Microsoft offers buyout for up to 7% of US employees",
+      "title_zh": "微软向美国员工提供最高7%的买断方案",
+      "summary": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout.",
+      "url": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T16:38:49+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Era raises $11M to build a software platform for AI gadgets",
+      "title_zh": "Era融资1100万美元，为AI设备构建软件平台",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "image_url": null,
+      "category": "AI",
+      "published_at": "2026-04-23T16:00:00+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Meta is revamping its cross-app management system",
+      "title_zh": "Meta正在改造其跨应用管理系统",
+      "summary": "Meta's Accounts Center will transition to the Meta Account, which is supposed to make it easier to manage your experience on various Meta apps and devices.",
+      "url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T16:00:00+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "X is shutting down Communities because of low usage and lots of spam",
+      "title_zh": "X因使用率低和垃圾信息泛滥关闭社区功能",
+      "summary": "X Communities are no more. Only a fraction of X users were using Communities, and much of that use was spam, the company said.",
+      "url": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T15:32:10+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos",
+      "title_zh": "Salmon融资1亿美元，为菲律宾无银行账户者提供数字信贷",
+      "summary": "Salmon is targeting underbanked Filipinos, with little to no credit history, as well as people unhappy with the incumbent lenders' reliability issues.",
+      "url": "https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/",
+      "image_url": null,
       "category": "经济",
-      "published_at": "2026-04-23T01:34:52+00:00"
+      "published_at": "2026-04-23T14:55:49+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Vercel says some of its customers’ data was stolen prior to its recent hack",
+      "title_zh": "Vercel称部分客户数据在近期黑客攻击前已被窃取",
+      "summary": "The app and website hosting company has found evidence of a second compromise of customer accounts after expanding its initial investigation following a breach in early April.",
+      "url": "https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-04-23T14:43:42+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+      "title_zh": "购票从速：2026年首届StrictlyVC活动一周后在旧金山开幕",
+      "summary": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+      "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-04-23T14:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Hyundai Motor Misses Estimates as Geopolitical Headwinds Hit",
-      "title_zh": "地缘政治逆风冲击，现代汽车业绩未达预期",
-      "summary": "A Hyundai Motor Co. Palisade SUV bound for export at a port near the company's plant in Ulsan, South Korea. Photographer: SeongJoon Cho/Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/hyundai-motor-misses-estimates-as-geopolitical-headwinds-hit",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTui_kX.Cwfw/v0/1200x-1.jpg",
+      "title_original": "Funders Commit $1.3 Billion to Zambia Critical-Minerals Railway",
+      "title_zh": "投资者承诺向赞比亚关键矿产铁路项目注资13亿美元",
+      "summary": "The Africa Finance Corp. and the African Development Bank committed $500 million each to a railway that will connect Zambia’s copper mines to global markets through the Angolan port of Lobito.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/funders-commit-1-3-billion-to-zambia-critical-minerals-railway",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i62kWhFyacM0/v0/1200x-1.png",
       "category": "经济",
-      "published_at": "2026-04-23T05:16:24+00:00"
+      "published_at": "2026-04-24T06:00:05+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Roche First-Quarter Sales Drop, Hurt by Copycats and Currencies",
-      "title_zh": "罗氏一季度销售额因仿制药和汇率影响下滑",
-      "summary": "The Roche Holding AG headquarters in Basel, Switzerland. Photographer: Pascal Mora/Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/roche-first-quarter-sales-drop-hurt-by-copycats-and-currencies",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i55jVO1ZCKLE/v0/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-23T05:15:44+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "JPMorgan to Add Philippine Bonds to Key EM Index in 2027",
-      "title_zh": "摩根大通将于2027年将菲律宾债券纳入关键新兴市场指数",
-      "summary": "Philippine one thousand-peso banknotes are arranged for a photograph in Manila, the Philippines, on Wednesday, Aug. 29, 2012. The Philippine peso fell for a second day and bonds advanced before a government report that economists predict will show economic growth slowed last quarter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/jpmorgan-to-add-philippine-bonds-to-key-em-index-in-2027",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilgYSpIyXlZo/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-23T03:00:21+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Big Bet on Orban’s Exit Came From Center of His Family’s Empire",
-      "title_zh": "对欧尔班下台的大笔押注来自其家族帝国的中心",
-      "summary": "Viktor Orban, Hungary's prime minister, speaks during a closing campaign rally in Budapest, Hungary, on Saturday, April 11, 2026. Orban won repeated endorsements from the administration of US President Donald Trump and emerged as the closest ally of Vladimir Putin in Europe as he sought to stymie sa",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/big-bet-on-orban-s-exit-came-from-center-of-his-family-s-empire",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iocp5NPSoSZU/v1/1200x-1.jpg",
+      "title_original": "Read Japan Finance Minister Katayama’s Full Remarks at Bloomberg New Voices",
+      "title_zh": "日本财务大臣片山在彭博新声音论坛发表完整讲话",
+      "summary": "Satsuki Katayama, Japan's finance minister, speaks during a Bloomberg New Voices event at the National Museum of Modern Art in Tokyo, Japan, on Thursday, April 23, 2026. Katayama said officials are in close contact around the clock with their US counterparts on the foreign exchange market, as Tokyo ",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/japan-finance-minister-katayama-s-remarks-at-bloomberg-new-voices-transcript",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imiO.MI0wRVQ/v0/1200x-1.jpg",
       "category": "时政",
-      "published_at": "2026-04-23T05:00:00+00:00"
+      "published_at": "2026-04-24T05:59:58+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Vietnam’s GSM Taxi Plans to Hold IPO in 2028, Founder Says",
-      "title_zh": "越南GSM出租车公司计划于2028年进行首次公开募股",
-      "summary": "Pham Nhat Vuong",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/vietnam-taxi-firm-gsm-expects-to-hold-ipo-in-2028-founder-says",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXpvv1uEXB2Y/v1/1200x-1.jpg",
+      "title_original": "Oil Gains on Iran Stalemate, Tech Stocks Advance: Markets Wrap",
+      "title_zh": "伊朗僵局推升油价，科技股上涨：市场综述",
+      "summary": "Oil rose for a fifth day as concerns grew that the US and Iran were making little progress toward resuming talks on de-escalation, keeping the Strait of Hormuz effectively closed.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/stock-market-today-dow-s-p-live-updates",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3IHnnHGnImc/v3/1200x-1.png",
       "category": "经济",
-      "published_at": "2026-04-22T03:14:16+00:00"
+      "published_at": "2026-04-23T22:15:09+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "How the Mideast War is Affecting the Trump-Xi Meeting",
-      "title_zh": "中东战争如何影响特朗普与习近平的会晤",
-      "summary": "Myron Brilliant, former Executive Vice President of the US Chamber of Commerce, says the Middle East conflict is adding uncertainty to the planned Trump-Xi meeting. Chinese officials are reportedly frustrated by the lack of progress and clear direction for the summit, and they remain concerned about",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/how-the-mideast-war-is-affecting-the-trump-xi-meeting-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSr.JB7o1Q0A/v3/1200x-1.jpg",
+      "title_original": "Full Interview: Japan’s Katayama on Constant Close Contact With US on FX",
+      "title_zh": "专访：日本财务大臣片山称与美国就汇率保持密切沟通",
+      "summary": "Japanese Finance Minister Satsuki Katayama says that she is in close communication with the US on FX. Katayama spoke exclusively with Shery Ahn at the Bloomberg New Voices 2026 event in Tokyo. (Around 5:40 and 7:30, Katayama references a currency cooperation agreement with the US in 2024. The deal w",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/japan-s-katayama-on-constant-close-contact-with-us-on-fx-video-mobppl2y",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLREq4nd8_ug/v3/1200x-1.jpg",
       "category": "时政",
-      "published_at": "2026-04-23T04:28:08+00:00"
+      "published_at": "2026-04-23T16:44:57+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Pakistan Rushes to Buy LNG From Spot Market to Ease Gas Shortage",
-      "title_zh": "巴基斯坦急于从现货市场购买液化天然气以缓解天然气短缺",
-      "summary": "LNG tankers earmarked for delivery to Pakistan turned away from Hormuz in the last few days and remain stuck in the Persian Gulf, ship-tracking data shows.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/pakistan-rushes-to-buy-lng-from-spot-market-to-ease-gas-shortage",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii2L3jjtI7wk/v0/1200x-1.png",
+      "title_original": "Stock Futures Fall and Pound Steadies as Iran Talks Stall",
+      "title_zh": "伊朗谈判停滞致股指期货下跌，英镑企稳",
+      "summary": "",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-04-24/ftse-100-live-iran-war-trump-pound-oil-prices-retail-sales-what-s-moving-uk-markets-right-now-markets-today-mochlbtn",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz2HPNkmNj8Y/v0/1200x-1.png",
       "category": "经济",
-      "published_at": "2026-04-23T04:24:43+00:00"
+      "published_at": "2026-04-24T05:45:28+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Sinking TSMC ADR Premium Offers Trading Window, UBS Desk Says",
-      "title_zh": "台积电ADR溢价缩水提供交易窗口，瑞银交易台称",
-      "summary": "The narrowing gap between Taiwan Semiconductor Manufacturing Co.’s Taiwanese shares and its US-listed stock is creating a new trading opportunity, according to a UBS Group AG client note.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/sinking-tsmc-adr-premium-offers-trading-window-ubs-desk-says",
+      "title_original": "Behind the 40,000% Stock Surge That’s Mystifying Traders in Turkey",
+      "title_zh": "揭秘土耳其股市4万倍涨幅背后的谜团",
+      "summary": "Emre Tezem",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/behind-the-40-000-stock-surge-that-s-mystifying-traders-in-turkey",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA0aWCAh_EuU/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:45:18+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "India Cranks Up Output to Cope With Enduring Cooking Gas Crisis",
+      "title_zh": "印度加大产量以应对持续的烹饪燃气危机",
+      "summary": "Buyers queue for liquefied petroleum gas at a depot in Noida, Uttar Pradesh, India. Photographer: Anindito Mukherjee/Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/india-cranks-up-output-to-cope-with-enduring-cooking-gas-crisis",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMP85dTuJEm8/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:43:44+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Oil Holds Gains as Iran Talks Impasse Adds to Uncertainty",
+      "title_zh": "伊朗谈判陷入僵局增加不确定性，油价维持涨势",
+      "summary": "Pumpjacks near Three Rivers, Texas, US, on Sunday, March 1, 2026. Oil surged by the most in four years, as the US-Israeli war against Iran plunged the global crude market into turmoil, with the effective closure of the Strait of Hormuz.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/latest-oil-market-news-and-analysis-for-april-24",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS091e.dAfNU/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-23T22:01:28+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Insight with Haslinda Amin 4/24/2026",
+      "title_zh": "彭博洞察：哈斯琳达·阿敏访谈 2026年4月24日",
+      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/insight-with-haslinda-amin-4-24-2026-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im3M0oYzrSfA/v3/1200x-1.jpg",
+      "category": "其他",
+      "published_at": "2026-04-24T05:34:27+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "ADP Cuts Stake in India’s GMR Airports in $1 Billion Deal",
+      "title_zh": "ADP以10亿美元交易减持印度GMR机场股份",
+      "summary": "Visitors walk past the departure lounge of the new Terminal 3 of Indira Gandhi International Airport in New Delhi, India, on Saturday, July 3, 2010. Indian Prime Minister Manmohan Singh today opened the terminal that will double capacity at New Delhi airport and ease travel into the world's second-m",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/adp-is-said-planning-to-reduce-stake-in-india-s-gmr-airports",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3togsf64Ew4/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-23T16:41:34+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "TSMC Shares Surge as Taiwan Lifts Single-Stock Limit for Funds",
+      "title_zh": "台积电股价飙升，台湾取消基金单一个股投资限制",
+      "summary": "Taiwan Semiconductor Manufacturing Co. shares climbed to a record after Taiwan’s financial regulator eased limits on single-stock fund holdings, a move that JPMorgan Chase &amp; Co. said could draw more than $6 billion of inflows.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/tsmc-shares-surge-as-taiwan-lifts-single-stock-limit-for-funds",
       "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icegQEWxh2RY/v2/1200x-1.png",
       "category": "经济",
-      "published_at": "2026-04-23T04:23:39+00:00"
+      "published_at": "2026-04-24T02:33:10+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Five Reasons Global Markets Are Holding Up Despite War in Iran",
-      "title_zh": "尽管伊朗爆发战争，全球市场保持韧性的五个原因",
-      "summary": "Nearly two months into the conflict in Iran, global stock markets are staging a defiant rally. From the US to Taiwan and South Korea, a disconnect has emerged: while the geopolitical tensions remain high, equities are charging back toward all-time highs.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/five-reasons-global-markets-are-holding-up-despite-war-in-iran",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWHbqS8iJwqo/v3/1200x-1.png",
-      "category": "经济",
-      "published_at": "2026-04-23T04:19:42+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Singapore Airlines Deepens Role at Air India Amid Record Losses",
-      "title_zh": "新加坡航空在印度航空创纪录亏损之际深化合作",
-      "summary": "An Airbus A320 aircraft, operated by Air India Ltd., at Indira Gandhi International Airport in New Delhi",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/singapore-airlines-deepens-role-at-air-india-amid-record-losses",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihtyv9owA7eg/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-04-23T04:03:38+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "US Navy secretary fired amid Iran blockade",
-      "title_zh": "美国海军部长在伊朗封锁事件中被解职",
-      "summary": "John Phelan ousted after clashing with defence secretary Pete Hegseth",
-      "url": "https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea52dbf1-65b3-4e79-ae7f-209c8d7d095a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "军事",
-      "published_at": "2026-04-23T00:21:12+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Iran war drives Panama Canal lane prices to record high",
-      "title_zh": "伊朗战争推动巴拿马运河航道价格创历史新高",
-      "summary": "Asian buyers seeking western crude push bids five times greater than pre-conflict levels",
-      "url": "https://www.ft.com/content/05c0e794-4ed9-4e2a-a026-fb8575f789c3",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ddd1ecd-218d-44d2-beb9-c6b650639964.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "经济",
-      "published_at": "2026-04-22T23:11:43+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Escape from Hormuz: the oil tankers running the Iranian gauntlet",
-      "title_zh": "逃离霍尔木兹海峡：穿越伊朗封锁线的油轮",
-      "summary": "How trading houses Vitol, Trafigura and Mercuria have managed to get some of their oil tankers out of the Gulf",
-      "url": "https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaa2826c-dd5b-4b0f-b8ac-ccd6821f8bd1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "军事",
-      "published_at": "2026-04-23T04:06:52+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "The secret diary of a middle power",
-      "title_zh": "一个中等强国的秘密日记",
-      "summary": "So much economic conflict, so many feelings",
-      "url": "https://www.ft.com/content/cac5870b-5507-4130-b4fd-a1c60d0ed6f3",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F63d1afc3-0662-4b4f-95df-c2532dcaf3b7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-04-23T04:00:19+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "It’s a ‘sontaku’ world — we are just living in it",
-      "title_zh": "这是一个'忖度'的世界——我们只是生活在其中",
-      "summary": "Pre-emptive interpretation of a leader’s wishes can be dangerous and reveals a vacuum where direction should be",
-      "url": "https://www.ft.com/content/2fcaac18-3c01-40d6-be15-58365a873172",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff83f9d8a-a034-47c5-860b-021980fa84fa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-04-23T04:00:19+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Tesla boosts spending plans to $25bn as Musk doubles down on AI bet",
-      "title_zh": "特斯拉将支出计划增至250亿美元，马斯克加倍押注AI",
-      "summary": "CEO warns investors to expect ‘very significant’ spending increase on self-driving taxis, trucks, robots and chip factories",
-      "url": "https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F034da79d-6560-4590-96de-9ad8fb487f5a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "AI",
-      "published_at": "2026-04-22T23:30:15+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "SpaceX and Tesla are on an inevitable collision course",
-      "title_zh": "SpaceX与特斯拉正走向不可避免的碰撞",
-      "summary": "To the extent shareholders just want exposure to Elon Musk, a single security seems like the sensible end state",
-      "url": "https://www.ft.com/content/6ca9125f-f6fa-47ed-9a3b-5202757c02e9",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1e315fdb-15ee-443e-8596-1a83e1e21c3e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-04-23T03:09:01+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Trump envoy seeks to replace Iran with Italy in football World Cup",
-      "title_zh": "特朗普特使寻求在足球世界杯中用意大利取代伊朗",
-      "summary": "Request to Fifa is pitched as effort to repair US ties with country even as Iran says it is ready to participate",
-      "url": "https://www.ft.com/content/1ff3a3fd-8d46-4eb4-9b15-0b9183925c6f",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb6057a5-7c66-4e12-95ae-44a058a05f95.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-04-22T20:59:11+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Brussels set to lure Iceland into EU with fishing policy exceptions",
-      "title_zh": "布鲁塞尔拟以渔业政策例外吸引冰岛加入欧盟",
-      "summary": "More flexibility over contentious marine issue with Reykjavik could tempt other ‘like-minded’ countries to join bloc",
-      "url": "https://www.ft.com/content/eea7f28b-2c4e-44b9-8c52-8723741b18a7",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57cb8c69-5b24-41cf-9d15-783ee86b1e71.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Iran Talks Waver Amid Trump’s Messaging Blitz",
+      "title_zh": "特朗普信息攻势下伊朗谈判摇摆不定",
+      "summary": "Bloomberg's Stephen Stapczynski and Stuart Livingstone-Wallace share the latest as the US-Iran truce approaches two weeks. They warring sides are in a standoff over how to proceed to talks to end the conflict, which has killed thousands of people, wreaked havoc across the Middle East and sent energy",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/iran-talks-waver-amid-trump-s-messaging-blitz-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ideGZ6OKCIa8/v3/1200x-1.jpg",
       "category": "时政",
-      "published_at": "2026-04-23T04:00:07+00:00"
+      "published_at": "2026-04-24T05:11:46+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Volkswagen's Cisek on China Business",
+      "title_zh": "大众汽车Cisek谈中国业务",
+      "summary": "Volkswagen is accelerating its China strategy by deepening partnerships with local technology and electric vehicle makers, including Xpeng, as it faces intensifying competition and a prolonged price war. The company is pushing greater localisation across manufacturing, R&amp;D and product developmen",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/volkswagen-s-cisek-on-china-business-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iomnCds6XoL0/v3/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:01:47+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "China’s First Special Bond Sale of the Year Draws Strong Demand",
+      "title_zh": "中国今年首批专项债券发行获强劲需求",
+      "summary": "Traffic in front of the CCTV Tower headquarters building in Beijing. Photographer: Qilai Shen/Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/china-s-special-bond-sale-draws-strong-demand-as-yields-stay-low",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEy_1vbF6.dk/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T03:48:43+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Graticule Levinson on Likely Iran Outcomes and AI Rally",
+      "title_zh": "Graticule Levinson谈伊朗局势走向与AI热潮",
+      "summary": "Adam Levinson of Graticule Asset Management Asia discussed on Insight with Haslinda Amin about possible outcomes for Iran and the outlook for AI, and how it’s time to buy the dip to catch what’s “unequivocally the greatest hardware cycle of all time.” (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/graticule-levinson-on-likely-iran-outcomes-and-ai-rally-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izRCKekp7Hu0/v3/1200x-1.jpg",
+      "category": "其他",
+      "published_at": "2026-04-24T05:00:27+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "South Africa's Karoo Region Bets on Pistachio Boom",
+      "title_zh": "南非卡鲁地区押注开心果产业繁荣",
+      "summary": "Pistachio prices have surged to multi-year highs as the war in Iran tightens supply. Now, South Africa’s Karoo region is stepping into the spotlight, as farmers bet they can carve out a place in a market long dominated by a handful of producers. Bloomberg's Jennifer Zabasajja reports.\n (Source: Bloo",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/south-africa-s-karoo-region-bets-on-pistachio-boom-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyuYIbpMkKYg/v3/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:00:07+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Pistachio Price Shock Spurs South Africa Farmers to Boost Output",
+      "title_zh": "开心果价格飙升刺激南非农民扩大产量",
+      "summary": "A Karoo Pistachios orchard in Prieska, South Africa's Northern Cape. Photographer: Cornél van Heerden/Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/pistachio-price-shock-spurs-south-africa-farmers-to-boost-output",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idRr.myP2Oog/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T05:00:00+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "KKR, Capital Group to Start Public-Private Credit Fund in Asia",
+      "title_zh": "KKR与资本集团将在亚洲启动公私信贷基金",
+      "summary": "Mike Gitlin",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/kkr-capital-group-to-start-public-private-credit-fund-in-asia",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM0_AVBQkdk4/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T04:46:02+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Seres on Impact of Middle East War",
+      "title_zh": "Seres分析中东战争影响",
+      "summary": "Seres Group President Jonn Zhang discusses how the company is managing risks to its overseas expansion plans, particularly in the Middle East. He speaks to Bloomberg's Stephen Engle at the Beijing Auto Show.  (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/seres-on-impact-of-middle-east-war-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFWkZtsqxYO4/v3/1200x-1.jpg",
+      "category": "时政",
+      "published_at": "2026-04-24T04:41:57+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "BlackRock iShares: Market Volatility Boosts ETF Use",
+      "title_zh": "贝莱德iShares：市场波动推动ETF使用",
+      "summary": "Nicholas Peach, APAC Head of iShares at BlackRock, says investors have been using ETFs to express their sentiment amid rapid market-moving news cycles. He speaks on Bloomberg's ETF IQ Asia. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/blackrock-ishares-market-volatility-boosts-etf-use-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9EILERDFuqU/v3/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-04-24T04:41:11+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Top Republican pushes party to shun $300mn AI lobby",
-      "title_zh": "共和党高层推动该党回避3亿美元的AI游说",
-      "summary": "Senator Josh Hawley warns of ‘political cost’ if Washington fails to rein in Big Tech and artificial intelligence",
-      "url": "https://www.ft.com/content/3fd0a5d9-99cd-41a1-af79-7987c73d9fd3",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F88be1709-4e57-4c59-8f38-e55e46a6fa3c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Polish PM questions whether US is ‘loyal’ to Europe’s defence",
+      "title_zh": "波兰总理质疑美国对欧洲防务是否忠诚",
+      "summary": "Donald Tusk says EU should bolster its own Article 42.7 mutual defence clause",
+      "url": "https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f6f50c7-9dd1-4a7f-8662-871e57e5edb5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-04-24T04:00:22+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Donald Trump and the remaking of America’s media order",
+      "title_zh": "特朗普与美国媒体秩序的重塑",
+      "summary": "The president once railed against the ‘fake news’ from the outside. Today, the system itself bears his imprint",
+      "url": "https://www.ft.com/content/ea10b519-a805-461e-8a8d-3ee1751939bc",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F377386b4-16f1-445a-a2cc-36aaca1d59d2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-04-24T04:00:04+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "America must guard against China’s own Mythos",
+      "title_zh": "美国须警惕中国版‘神话叙事’",
+      "summary": "The US needs to block Chinese access to the most advanced technology",
+      "url": "https://www.ft.com/content/ea8c8161-5b86-409b-93cf-5e778300d87e",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb308168f-0a3a-455a-8091-0d8c43b78c6d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-04-24T04:00:13+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Under Warsh, the Fed could embrace Bessent’s geoeconomic agenda",
+      "title_zh": "若沃什执掌美联储，或推行贝森特地缘经济议程",
+      "summary": "The Treasury secretary wants to use swap lines to lock in dollar supremacy",
+      "url": "https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa64a23d0-be90-4c0a-bd3f-ba7f74602531.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "经济",
+      "published_at": "2026-04-24T04:00:13+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Trump says Israel and Lebanon will extend ceasefire by 3 weeks",
+      "title_zh": "特朗普称以色列与黎巴嫩将延长停火三周",
+      "summary": "President says US Navy will ‘shoot and kill’ any boat laying mines in Strait of Hormuz",
+      "url": "https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F77dcdebd-2e04-44cf-afe4-edce1c91709e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-04-24T01:15:27+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "The limits on Bessent’s Treasury swap lines for allies",
+      "title_zh": "贝森特对盟友的财政部互换额度存在限制",
+      "summary": "The US provided Argentina with a $20bn swap line, but similar offerings to Gulf and Asian allies would face constraints",
+      "url": "https://www.ft.com/content/c8490305-c430-4f30-bb1d-04178a5ed27a",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a2a5953-a99a-49c1-b70f-71805fd2bb54.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "经济",
+      "published_at": "2026-04-24T04:00:22+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Meta to cut 10% of jobs to ‘offset’ Zuckerberg’s AI spending",
+      "title_zh": "Meta将裁员10%以‘抵消’扎克伯格的AI支出",
+      "summary": "Social media group plans to spend $135bn on data centres this year",
+      "url": "https://www.ft.com/content/fe875f6c-f45c-4dbd-9d18-168d1fdbfd5f",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a49162e-7d4e-458e-be52-f3ddc6eeefe0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "互联网",
+      "published_at": "2026-04-23T19:59:59+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Microsoft to offer 7% of US staff voluntary redundancy for the first time",
+      "title_zh": "微软首次向7%美国员工提供自愿离职方案",
+      "summary": "Long-serving employees given option for buyouts as it prepared to spend $140bn on AI investment this year",
+      "url": "https://www.ft.com/content/f5776fd6-22f3-43d1-806b-9858b64cfd18",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F130d6261-170f-4514-b2ba-744cda207ffa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "互联网",
+      "published_at": "2026-04-23T16:56:18+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Banks charged sharply different fees for access to Anthropic investment",
+      "title_zh": "银行对参与Anthropic投资收取的费用差异巨大",
+      "summary": "Disparate pricing raises prospect of investors earning unequal returns in the same deal on the basis of who their banker is",
+      "url": "https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1cb31e7b-6562-485d-af44-0c9bc8a59c23.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "经济",
+      "published_at": "2026-04-24T04:00:22+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "KPMG and EY demote partners in end of job-for-life model",
+      "title_zh": "毕马威与安永降级合伙人，终结终身雇佣模式",
+      "summary": "Move is a departure from the practice of simply asking underperforming senior partners to retire",
+      "url": "https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8574661-78f8-4b67-9913-54c01ca185dc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "经济",
+      "published_at": "2026-04-24T04:00:04+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Porsche Cayenne Coupe Electric is an off-road capable, 2.4s 0-60mph beauty and beast",
+      "title_zh": "保时捷卡宴Coupe电动版：兼具越野能力，0-60英里加速2.4秒",
+      "summary": "Porsche announced today that the Cayenne Coupe Electric would join the ICE and hybrid Coupe varieties. \n\n\n\nWith it some truly amazing specs for an SUV in Coupe clothing throws out up to 850 kW (1139 hp) 1106 ft.-lbs. torque with a 2.4 second 0-60mph and top speed of 162 mph. But it is also quite the",
+      "url": "https://electrek.co/2026/04/23/porsche-cayenne-coupe-electric-is-an-off-road-capable-2-4s-0-60mph-beauty-and-beast/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/5553_coupe-t_DKOS8380_edit_V01__A4_RGB.jpg?quality=82&#038;strip=all&#038;w=1499",
+      "category": "新能源汽车",
+      "published_at": "2026-04-24T04:00:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Interview: we talk home batteries with Franklin WH CEO Gary Lam",
+      "title_zh": "专访：与Franklin WH CEO Gary Lam谈家用电池",
+      "summary": "On today’s charged up episode of Quick Charge, we’ve got Franklin WH co-founder and CEO Gary Lam here to talk us through some of the benefits of a home battery system, and what it takes to make the most of one – with, or even without a home solar panel system.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/interview-we-talk-home-batteries-with-franklin-wh-ceo-gary-lam/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/solar_battery.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-24T01:07:14+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
+      "title_zh": "特斯拉声称柏林工厂产量提升20%，但数据对不上",
+      "summary": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production increase. None of that adds up.\n\n\n\nAndré Thierig, Tesla’s senior director of man",
+      "url": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Supercharger-V4-Aug-2023-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T23:11:52+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla (TSLA) maxes out $5.8 billion Chinese bank debt facility as China sales crash",
+      "title_zh": "特斯拉（TSLA）在中国销量暴跌之际，用尽58亿美元银行债务额度",
+      "summary": "Tesla has fully drawn down its China Working Capital Facility to $5.8 billion, according to its Q1 2026 10-Q filing — a 35% increase in a single quarter. The facility, which didn’t exist two years ago, now represents 64% of all Tesla’s non-recourse debt.\n\n\n\nThe company tapped every available dollar ",
+      "url": "https://electrek.co/2026/04/23/tesla-tsla-maxes-out-5-8-billion-chinese-bank-debt-facility-10q/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-Gigafactory-Shanghai-Jul-2022.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "经济",
+      "published_at": "2026-04-23T22:47:13+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "This solar farm almost stalled – Microsoft suppliers helped save it",
+      "title_zh": "这个太阳能农场差点停滞——微软供应商帮助挽救了它",
+      "summary": "A group of Microsoft suppliers just helped push a small solar farm over the finish line in North Carolina – and it shows how corporate buyers can band together and boost projects that might otherwise stall.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/solar-farm-almost-stalled-microsoft-suppliers-helped-save-it/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/DJI_0018_D.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-04-23T22:31:24+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "The EV charger buildout has a weak link – NYC is going after it",
+      "title_zh": "电动车充电桩建设存在薄弱环节——纽约市正在着手解决",
+      "summary": "New York is putting more money behind a key piece of the EV transition that often gets overlooked: the people who keep chargers running.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/the-ev-charger-buildout-has-a-weak-link-nyc-is-going-after-it/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/SmarterHelp-7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T20:25:13+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "NAVEE 34-mile G5 Pro electric scooter $560 Amazon low, meross smart electrical panel energy monitor $160, more",
+      "title_zh": "NAVEE G5 Pro电动滑板车（续航34英里）亚马逊低价560美元，meross智能电表160美元等",
+      "summary": "Today’s 9to5Toys Green Deals is headlined by meross’ recently-released 18-circuit electrical panel monitor as well as Amazon undercutting beating out the official NAVEE sale on its own 34-mile G5 Pro electric scooter. That’s just a couple of the headliners you’ll find, so continue reading to see the",
+      "url": "https://electrek.co/2026/04/23/green-deals-apr-24/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Electrek-Apr-23.webp?w=1600",
+      "category": "3C数码",
+      "published_at": "2026-04-23T18:00:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla Model YL prototype spotted on US roads for the first time",
+      "title_zh": "特斯拉Model Y长轴距版原型车首次在美国道路上被发现",
+      "summary": "A Tesla Model YL test mule has been spotted driving on Interstate 280 in the San Francisco Bay Area, marking the first time the longer-wheelbase, 6-seat SUV has been photographed on American roads.\n\n\n\nThe sighting comes despite CEO Elon Musk’s suggestion that the Model YL might never come to the US ",
+      "url": "https://electrek.co/2026/04/23/tesla-model-yl-prototype-spotted-us-roads-first-time/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-YL-spotted-US.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T12:12:56+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "EV fast charging is stabilizing in the US – here’s what changed",
+      "title_zh": "美国电动汽车快充网络趋于稳定——以下是变化所在",
+      "summary": "US EV fast-charging networks are heading into 2026 looking… steady, with reliability up, pricing stable, and utilization holding in a tight range even as more chargers come online.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/ev-fast-charging-is-stabilizing-in-the-us-heres-what-changed/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/10/IONNA_x_CASEYS_press_image_2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T12:00:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "This new ‘pedal-by-wire’ e-bike motor wants to revolutionize electric bikes",
+      "title_zh": "这款新型‘线控踏板’电动自行车电机欲革新电动自行车",
+      "summary": "A new e-bike drive system in development is aiming to do something pretty radical: get rid of the mechanical connection between your pedals and the rear wheel entirely and replace it with a copper wire. Or more accurately, a few copper wires.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/this-new-pedal-by-wire-e-bike-motor-wants-to-revolutionize-electric-bikes/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/niche-motor-header-electric-recumbent-trike.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T11:04:41+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla (TSLA) quietly discloses $2 billion AI hardware company acquisition buried in filing",
+      "title_zh": "特斯拉（TSLA）在文件中悄悄披露以20亿美元收购一家AI硬件公司",
+      "summary": "Tesla agreed to acquire an unnamed AI hardware company for up to $2 billion in stock and equity awards, according to a single sentence buried in its Q1 2026 10-Q filing. The company never mentioned the deal in its shareholders’ letter or during last night’s earnings call.\n\n\n\nThe disclosure appeared ",
+      "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Optimus-robot-4680-battery-cell.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "AI",
-      "published_at": "2026-04-23T04:00:19+00:00"
+      "published_at": "2026-04-23T10:57:03+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla announces HW4 Plus with doubled memory — will HW4 follow HW3 to the grave?",
+      "title_zh": "特斯拉发布HW4 Plus，内存翻倍——HW4会步HW3后尘吗？",
+      "summary": "During Tesla’s Q1 2026 earnings call, CEO Elon Musk revealed that Tesla is planning an “AI4.1 or AI4 Plus” upgrade to its self-driving computer that doubles the RAM from 16 gigabytes to 32 gigabytes per chip — taking the total system memory to 64 gigabytes.\n\n\n\nThe announcement came on the same call ",
+      "url": "https://electrek.co/2026/04/23/tesla-hw4-plus-upgrade-will-hw4-follow-hw3/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&#038;strip=all&#038;w=1587",
+      "category": "AI",
+      "published_at": "2026-04-23T09:33:22+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
+      "title_zh": "特斯拉确认Cybercab已开始生产，尽管无人驾驶仍有延迟",
+      "summary": "CEO Elon Musk confirmed during Tesla’s Q1 2026 earnings call that Cybercab production has officially begun at Giga Texas.\n\n\n\nVP of Vehicle Engineering Lars Moravy confirmed that the Cybercab will not be subject to NHTSA’s 2,500-vehicle annual production cap for autonomous vehicles.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Cybercab-production.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-04-23T07:09:26+00:00"
     },
     {
       "source": "Electrek",
       "title_original": "Tesla pushes Optimus V3 reveal later this year – again",
-      "title_zh": "特斯拉再次推迟Optimus V3机器人发布时间至今年晚些时候",
+      "title_zh": "特斯拉再次推迟Optimus V3的发布至今年晚些时候",
       "summary": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that Optimus robot production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May.\n\n\n\nMusk warned, however, that initial output will be “quite slow,” calling it",
       "url": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500",
@@ -1004,7 +1144,7 @@
     {
       "source": "Electrek",
       "title_original": "China shipped a record 68 GW of solar in March – here’s why it matters",
-      "title_zh": "中国3月太阳能出口创纪录达68吉瓦，意义何在",
+      "title_zh": "中国3月太阳能出货量创纪录达68吉瓦——原因在此",
       "summary": "China’s solar exports surged to unprecedented levels in March as a global energy shock is pushing countries to rapidly pivot away from fossil fuels.\n\n\n\n more…",
       "url": "https://electrek.co/2026/04/22/china-shipped-a-record-68-gw-of-solar-in-march-heres-why-it-matters/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTEyNTUyMDk4NzEtaW1hZ2UuanBn.webp?w=1024",
@@ -1014,7 +1154,7 @@
     {
       "source": "Electrek",
       "title_original": "Tesla will build factories just to retrofit millions of HW3 cars it said could do FSD",
-      "title_zh": "特斯拉将建新工厂，为百万辆HW3车型改装FSD",
+      "title_zh": "特斯拉将建厂专门改造其声称能实现FSD的数百万辆HW3汽车",
       "summary": "There are millions of Tesla vehicles on the road today which were sold on the promise of full autonomy, but without hardware capable of doing so.\n\n\n\nTesla CEO Elon Musk just proposed the company could build “microfactories” in urban areas in order to upgrade the computers and cameras in those videos",
       "url": "https://electrek.co/2026/04/22/tesla-will-build-factories-just-to-retrofit-hw3-cars-it-said-could-do-fsd-but-cant/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-1500.jpg?quality=82&#038;strip=all&#038;w=1500",
@@ -1024,7 +1164,7 @@
     {
       "source": "Electrek",
       "title_original": "Elon Musk pushes Tesla Roadster unveil again — now ‘maybe in a month or so’",
-      "title_zh": "马斯克再次推迟特斯拉Roadster发布，或在一个月后",
+      "title_zh": "埃隆·马斯克再次推迟特斯拉Roadster发布——现在‘大概一个月左右’",
       "summary": "Elon Musk has once again pushed back the Tesla Roadster unveiling. During yesterday’s Q1 2026 earnings call, the CEO said the car might debut “in a month or so” — blowing past the late April timeline he had set just weeks ago.\n\n\n\nIt marks at least the eighth time Musk has moved the goalposts on the ",
       "url": "https://electrek.co/2026/04/22/tesla-roadster-unveil-delayed-again-earnings-call/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-Gen-2-Roadster.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1034,17 +1174,17 @@
     {
       "source": "Electrek",
       "title_original": "Elon Musk pushes unsupervised FSD for consumer Teslas — again",
-      "title_zh": "马斯克再次推动特斯拉向消费者开放无监督FSD",
+      "title_zh": "埃隆·马斯克再次推动为消费者版特斯拉推出无监督FSD",
       "summary": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that unsupervised Full Self-Driving for consumer vehicles won’t arrive until Q4 2026 at the earliest — pushing the timeline yet again after years of broken promises.\n\n\n\nWhen asked directly when FSD unsupervised would reach customer ",
       "url": "https://electrek.co/2026/04/22/tesla-elon-musk-unsupervised-fsd-consumer-cars-q4-delay-again/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "新能源汽车",
+      "category": "AI",
       "published_at": "2026-04-22T22:23:24+00:00"
     },
     {
       "source": "Electrek",
       "title_original": "Tesla seems to say Robotaxi launch will be pushed back in 5 US cities",
-      "title_zh": "特斯拉Robotaxi在美五城市发布或推迟",
+      "title_zh": "特斯拉似乎表示Robotaxi将在美国5个城市推迟推出",
       "summary": "Tesla has released quarterly earnings, and the announcement was accompanied by what seems to be a backpedaling on availability of Robotaxis in 5 of the 8 cities Tesla has announced availability in.\n\n\n\n more…",
       "url": "https://electrek.co/2026/04/22/tesla-seems-to-say-robotaxi-launch-will-be-pushed-back-in-5-us-cities/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1054,142 +1194,12 @@
     {
       "source": "Electrek",
       "title_original": "Tesla (TSLA) pulled questionable levers to make Q1 2026 financials look good",
-      "title_zh": "特斯拉被指在2026年Q1财报中使用可疑手段美化数据",
+      "title_zh": "特斯拉（TSLA）为美化2026年第一季度财报采取了可疑手段",
       "summary": "Tesla’s Q1 2026 earnings beat looks impressive on the surface — 21.1% gross margin, 136% operating income growth, $0.41 non-GAAP EPS. But dig into the shareholders’ letter and a pattern emerges: Tesla pulled every accounting and financial lever available to make a stagnant quarter look like a turnar",
       "url": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-one-time-benefits-warranty-tariff-refunds-margins/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-charging-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "经济",
       "published_at": "2026-04-22T21:19:19+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla (TSLA) releases Q1 2026 financial results: slight beat on earnings",
-      "title_zh": "特斯拉发布2026年Q1财报：盈利略超预期",
-      "summary": "Tesla (TSLA) released its financial results and shareholders’ letter for the first quarter (Q1) 2026 after market close today.\n\n\n\nWe are updating this post with all the details from the financial results, shareholders’ letter, and the conference call later tonight. Refresh for the latest information",
-      "url": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Q2-2025-earnings-hero.png?w=1600",
-      "category": "经济",
-      "published_at": "2026-04-22T20:06:41+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Bluetti’s 2,048Wh power station dual solar panel combo now $1,050 off, beastly 80-mile Hiboy Titan PRO scooter hits $1,300, more",
-      "title_zh": "Bluetti 2048Wh电站+双太阳能板套装降1050美元，Hiboy Titan PRO电动滑板车降至1300美元",
-      "summary": "Today’s 9to5Toys Green Deals has some fresh markdowns for you to scope out. A couple of noteworthy mentions include $1,050 off Bluetti’s 2,048Wh AC200L power station with two 200W solar panels alongside the beastly Hiboy beastly Titan PRO electric scooter with up to an 80-mile range at up to $500 of",
-      "url": "https://electrek.co/2026/04/22/green-deals-apr-22/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Electrek-Apr-22-3.webp?w=1600",
-      "category": "3C数码",
-      "published_at": "2026-04-22T18:00:00+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "BMW unveils the new i7 with nearly 450 miles of range and Neue Klasse style [Images]",
-      "title_zh": "宝马发布新i7，续航近450英里并采用Neue Klasse设计",
-      "summary": "BMW gave its flagship electric sedan an overhaul for the 2027 model year. The new BMW i7 offers nearly 450 miles of range, advanced new tech, and an updated Neue Klasse design.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/bmw-unveils-new-i7-450-miles-range-neue-klasse-style-images/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/BMW-new-i7-EV-range.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T17:49:11+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "CATL is launching sodium-ion batteries in EVs in 2026, aiming for 370+ miles range",
-      "title_zh": "宁德时代将于2026年在电动汽车上推出续航370英里以上的钠离子电池",
-      "summary": "CATL’s new sodium-ion batteries will begin launching in passenger EVs later this year, offering a more efficient and sustainable solution.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/catl-launching-sodium-ion-batteries-evs-2026/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/02/World-first-sodium-ion-battery-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T16:25:05+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Rivian (RIVN) starts R2 production days after tornado hit factory, deliveries this spring",
-      "title_zh": "Rivian工厂遭龙卷风袭击后数日启动R2生产，今春交付",
-      "summary": "Rivian officially started production of its R2 electric SUV at its Normal, Illinois plant today, marking the most critical milestone in the company’s history.\n\n\n\nThe production launch comes just five days after an EF-1 tornado ripped through the same facility, collapsing a section of the roof in Bui",
-      "url": "https://electrek.co/2026/04/22/rivian-r2-starts-production-tornado-deliveries-spring/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-White-Hero.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T15:30:31+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Xpeng is actually building this electric flying car — I visited the factory",
-      "title_zh": "小鹏正在建造电动飞行汽车——我参观了工厂",
-      "summary": "Xpeng’s flying car division Aridge invited media to tour its massive new factory in Guangzhou, and it’s clear the Chinese automaker is pouring serious resources into making manned electric aircraft a commercial reality.\n\n\n\nI saw about 20 aircraft at various stages of production inside the plant — fr",
-      "url": "https://electrek.co/2026/04/22/xpeng-aridge-flying-car-factory-visit/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Xpeng-Aridge-flying-car.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T14:52:10+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Kia’s electric sports car concept looks like a Lambo from the future [Images]",
-      "title_zh": "起亚电动跑车概念车亮相，造型似未来版兰博基尼",
-      "summary": "It looks like a futuristic Lamborghini and is expected to arrive as an electric successor to the Kia Stinger. Kia unveiled the Vision Meta Turismo concept, a preview of its “futuristic approach to a new era of electric mobility.”\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/kias-ev-sports-car-concept-looks-like-futuristic-lambo-images/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-Vision-Meta-Turismo-EV-side.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T14:20:31+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Court blocks another republican attempt to raise your energy costs",
-      "title_zh": "法院再次阻止共和党提高能源成本的企图",
-      "summary": "A US District court ruled against republican attempts to block deployment of wind and solar projects that could help to reduce US electricity costs as energy prices spike worldwide.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/court-blocks-another-republican-attempt-to-raise-your-energy-costs/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/01/EDP-Riverstart-IV.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "时政",
-      "published_at": "2026-04-22T14:00:00+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Segway just sold 1 million of a single e-scooter model – and that’s a bigger deal than it sounds",
-      "title_zh": "Segway单款电动滑板车销量破百万，影响深远",
-      "summary": "Segway has announced a milestone that might be easy to gloss over at first glance, but that actually says a lot about where micromobility is headed: the company has now sold more than 1 million units of its Ninebot E2 series electric scooters worldwide. \n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/segway-just-sold-1-million-of-a-single-e-scooter-model-and-thats-a-bigger-deal-than-it-sounds/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/segway-scooter-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "3C数码",
-      "published_at": "2026-04-22T13:00:00+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "This new EV charger hits 600 kW – and it fits where others can’t",
-      "title_zh": "新型EV充电桩功率达600kW，安装更灵活",
-      "summary": "ChargePoint just unveiled a 600 kW EV charger – and it claims it’s the world’s fastest standalone unit.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/chargepoint-new-express-solo-600kw-charger-ev-fast-charging/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/ChargePoint-600kW-charger-Express-Solo.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T12:00:00+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Amazon taps Einride to scale electric semi truck fleet capacity, NOW",
-      "title_zh": "亚马逊携手Einride立即扩大电动半挂卡车车队规模",
-      "summary": "In a bid to ramp up its heavy-duty fleet in a hurry, Amazon has tapped zero-emissions logistics firm Einride to deploy 75 fully electric semi trucks across five US locations.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/04/22/amazon-taps-einride-to-scale-electric-semi-truck-fleet-capacity/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/06/einride-peterbilt.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "经济",
-      "published_at": "2026-04-22T11:46:42+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "AITO joins BMW, Mercedes-Benz charging JV in China as equal partner",
-      "title_zh": "AITO以平等合作伙伴身份加入宝马、奔驰在华充电合资企业",
-      "summary": "SERES Group’s Huawei-powered AITO brand is joining IONCHI, the premium charging joint venture between BMW and Mercedes-Benz in China, as an equal 33.3% shareholder. The deal restructures what was a 50:50 German partnership into a three-way collaboration with one of China’s fastest-growing luxury EV ",
-      "url": "https://electrek.co/2026/04/22/seres-aito-joins-bmw-mercedes-ionchi-charging-jv-china/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/IONCHI.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T08:21:22+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "GM suspends next-gen electric truck indefinitely as it retreats to gas",
-      "title_zh": "通用汽车无限期暂停下一代电动卡车，回归燃油车",
-      "summary": "General Motors has indefinitely suspended plans to refresh its full-size electric truck and SUV lineup, putting the future of the Chevrolet Silverado EV, GMC Sierra EV, Hummer EV, and Cadillac Escalade IQ in limbo beyond the current generation.\n\n\n\nThe move marks yet another retreat from GM’s once-am",
-      "url": "https://electrek.co/2026/04/21/gm-suspends-next-gen-electric-truck-refresh-indefinitely/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/silverado_ev.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "新能源汽车",
-      "published_at": "2026-04-22T01:13:11+00:00"
     }
   ]
 }
