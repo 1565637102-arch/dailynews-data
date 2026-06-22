@@ -1,25 +1,65 @@
 {
-  "updated_at": "2026-06-20T23:59:04.232761+00:00",
+  "updated_at": "2026-06-22T00:03:37.306543+00:00",
   "articles": [
     {
       "source": "BBC中文",
-      "title_original": "中國「後地產時代」：地方政府從「賣地」到「做股東」的轉型成功了嗎？",
-      "title_zh": "中国“后地产时代”：地方政府从“卖地”到“做股东”的转型成功了吗？",
-      "summary": "地方政府正在從「賣地者」變成「投資者」，從「地主」變成「股東」。但這場轉身並不那麼容易。",
-      "url": "https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0f0/live/a1f381c0-6b97-11f1-b0cc-3d3aa508c8b5.jpg",
-      "category": "经济",
-      "published_at": "2026-06-19T10:27:51+00:00"
+      "title_original": "協議剛簽談判在即海峽再度封航 美國質疑伊朗吹噓",
+      "title_zh": "协议刚签谈判在即，海峡再度封航，美国质疑伊朗吹嘘",
+      "summary": "伊朗海軍以黎巴嫩仍遭以色列轟擊為由，在瑞士談判前夕再度宣佈封鎖霍爾木茲海峽。美軍反駁稱區內船舶正常航行。",
+      "url": "https://www.bbc.com/zhongwen/articles/cy8dkpmn570o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg",
+      "category": "时政",
+      "published_at": "2026-06-21T00:05:05+00:00"
     },
     {
       "source": "BBC中文",
-      "title_original": "倫敦香港經貿辦案判刑：衛志樑監禁十年、袁松彪八年",
-      "title_zh": "伦敦香港经贸办案判刑：卫志樑监禁十年、袁松彪八年",
-      "summary": "衛志樑、袁松彪上月被裁定有罪，法官批評兩名香港出身被告人的行為威脅到英國主權。",
-      "url": "https://www.bbc.com/zhongwen/articles/c0lyn1zep14o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9c1/live/321b5880-4a2e-11f1-91d3-69962f9a0625.jpg",
+      "title_original": "施紀賢仍想繼續穩坐英國首相寶座，可他的支持者正「迅速蒸發」",
+      "title_zh": "施纪贤仍想稳坐英首相宝座，但支持者正迅速流失",
+      "summary": "BBC週日政論節目主持昆斯伯格說，大曼城市長貝安德在國會補選中旗開得勝後，首相施紀賢爵士的支持者正離他而去。",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2wnvlqn9go/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6079/live/e4af7040-6bed-11f1-b1db-af71d47507d6.jpg",
       "category": "时政",
-      "published_at": "2026-06-18T16:14:45+00:00"
+      "published_at": "2026-06-21T03:51:00+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「我們想贏，但我們鄙視伊斯蘭共和國」——一些伊朗足球迷面臨的兩難",
+      "title_zh": "“我们想赢，但鄙视伊斯兰共和国”——伊朗足球迷的两难",
+      "summary": "有些伊朗球迷認為這支球隊是他們所批評的伊斯蘭政權的延伸；有些球迷則認為世界盃是戰爭帶來的痛苦中的一絲歡樂。",
+      "url": "https://www.bbc.com/zhongwen/articles/cp36kl4xxwqo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/551f/live/d7fe7860-6bbf-11f1-8e5f-879143928516.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T23:15:41+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "日本流行女團XG：從殘酷五年練習生蛻變成全球流行巨星",
+      "title_zh": "日本女团XG：从五年残酷练习生到全球流行巨星",
+      "summary": "這支日本流行音樂組合在青少年時期就被發掘，如今已成為全球巨星。",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ypq29xx9o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T04:35:33+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "陰莖能給男性健康發出哪些警號？",
+      "title_zh": "阴茎能发出哪些男性健康警号？",
+      "summary": "勃起功能障礙可能是心臟病發、中風、糖尿病及認知障礙症的早期警號。",
+      "url": "https://www.bbc.com/zhongwen/articles/clywz301jm0o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0ae/live/29d7ed00-6bb7-11f1-b1db-af71d47507d6.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T02:00:35+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "世界盃品牌大戰：Nike對決Adidas",
+      "title_zh": "世界杯品牌大战：耐克对决阿迪达斯",
+      "summary": "令人瞠目結舌的預算早已不是什麼新鮮事，但今年耐克和阿迪達斯為了爭奪世界盃的關注度，都採取了比以往任何時候都更加大膽和鋪張的策略。",
+      "url": "https://www.bbc.com/zhongwen/articles/cy06w2yk6pgo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59d9/live/8675a180-6bd8-11f1-b1db-af71d47507d6.png",
+      "category": "其他",
+      "published_at": "2026-06-21T08:24:47+00:00"
     },
     {
       "source": "BBC中文",
@@ -33,33 +73,43 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "伊朗—美國和平協議影響你財務的五種可能",
-      "title_zh": "伊朗—美国和平协议影响你财务的五种可能",
-      "summary": "鑑於燃料和天然氣價格有所回落，BBC透過五張圖表，分析伊朗、美國與以色列之間敵對行動結束可能對你帶來的影響。",
-      "url": "https://www.bbc.com/zhongwen/articles/cr7xzm1kpv5o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0d6/live/f590fde0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg",
-      "category": "经济",
-      "published_at": "2026-06-19T04:37:29+00:00"
+      "title_original": "莫斯科煉油廠遇襲，俄烏戰爭離俄羅斯本土從此更近一步",
+      "title_zh": "莫斯科炼油厂遇袭，俄乌战争离俄罗斯本土更近一步",
+      "summary": "史蒂夫・羅森伯格寫道，莫斯科的生活有時感覺完全正常——但周四早上並非如此。",
+      "url": "https://www.bbc.com/zhongwen/articles/c8j21k3gll4o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
+      "category": "军事",
+      "published_at": "2026-06-21T02:43:44+00:00"
     },
     {
       "source": "BBC中文",
-      "title_original": "英國首相競逐蓄勢待發　「北部王」貝安德其人其事",
-      "title_zh": "英国首相竞选蓄势待发，“北部王”贝安德其人其事",
-      "summary": "大曼徹斯特市長貝安德當選國會下議院議員，為第三次挑戰工黨黨魁兼英國首相大位拉開帷幕。",
-      "url": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9449/live/ba9c0f00-4e17-11f1-b55d-0f258dce1735.jpg",
-      "category": "时政",
-      "published_at": "2026-06-19T11:25:54+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "「『上帝之手』固然經典，但馬拉多納的第二個入球呢？』」",
-      "title_zh": "“上帝之手”固然经典，但马拉多纳的第二个进球呢？",
-      "summary": "那是BBC記者洛德絲·赫萊迪亞（Lourdes Heredia）首次現場觀看足球比賽，而這場世界盃賽事恰好成為體壇史上最具爭議事件之一。",
-      "url": "https://www.bbc.com/zhongwen/articles/c3wyd6l1wjno/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ee2/live/9b80b940-64ec-11f1-a1ac-711fb29896f6.jpg",
+      "title_original": "「精子姊妹」：我們直到二十多歲才發現擁有同一位捐精父親",
+      "title_zh": "“精子姐妹”：我们二十多岁才发现有同一位捐精父亲",
+      "summary": "娜塔莎、傑瑪和海倫表示，找到彼此就像一場「童話故事」。",
+      "url": "https://www.bbc.com/zhongwen/articles/c892p8qvy3go/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1feb/live/89287ec0-6962-11f1-9f4a-21531e88e991.jpg",
       "category": "其他",
-      "published_at": "2026-06-18T11:51:13+00:00"
+      "published_at": "2026-06-21T02:04:38+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "中國「後地產時代」：地方政府從賣地轉型到做股東成功了嗎？",
+      "title_zh": "中国后地产时代：地方政府从卖地转型做股东成功了吗？",
+      "summary": "地方政府正在從「賣地者」變成「投資者」，從「地主」變成「股東」。但這場轉身並不那麼容易。",
+      "url": "https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0f0/live/a1f381c0-6b97-11f1-b0cc-3d3aa508c8b5.jpg",
+      "category": "经济",
+      "published_at": "2026-06-19T10:27:51+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
+      "title_zh": "“他把单点菜单藏了起来”：谁该为第一次约会付钱？",
+      "summary": "有些人堅持應該各自分攤費用，有人認為由提出邀請的一方付錢，而不少人仍將男性埋單視為是浪漫的表現。",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ky3d5ggpmo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png",
+      "category": "其他",
+      "published_at": "2026-06-19T07:18:38+00:00"
     },
     {
       "source": "BBC中文",
@@ -73,13 +123,13 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
-      "title_zh": "“他把单点菜单藏了起来”：谁应该为第一次约会付钱？",
-      "summary": "有些人堅持應該各自分攤費用，有人認為由提出邀請的一方付錢，而不少人仍將男性埋單視為是浪漫的表現。",
-      "url": "https://www.bbc.com/zhongwen/articles/c0ky3d5ggpmo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png",
-      "category": "其他",
-      "published_at": "2026-06-19T07:18:38+00:00"
+      "title_original": "英國首相競逐蓄勢待發　「北部王」貝安德其人其事",
+      "title_zh": "英国首相竞逐蓄势待发，“北部王”贝安德其人其事",
+      "summary": "大曼徹斯特市長貝安德當選國會下議院議員，為第三次挑戰工黨黨魁兼英國首相大位拉開帷幕。",
+      "url": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9449/live/ba9c0f00-4e17-11f1-b55d-0f258dce1735.jpg",
+      "category": "时政",
+      "published_at": "2026-06-19T11:25:54+00:00"
     },
     {
       "source": "BBC中文",
@@ -93,48 +143,8 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "日菲啓動劃界談判　中國海警東進：北京對台「近海治理」成功？",
-      "title_zh": "日菲启动划界谈判，中国海警东进：北京对台“近海治理”成功？",
-      "summary": "日菲啟動太平洋專屬經濟區劃界談判引發中國強烈反制，北京宣稱已實現「近海治理」。專家指出，北京已將「灰色地帶」戰術施壓從台灣海峽擴展至東岸。",
-      "url": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66f3/live/59caf2d0-6aba-11f1-94e1-496848b1b769.png",
-      "category": "时政",
-      "published_at": "2026-06-18T02:16:41+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」",
-      "title_zh": "接种HPV疫苗年轻女性，宫颈癌死亡率降至“接近零”",
-      "summary": "英國一項新的研究發現，自 2008 年為學齡女孩提供 HPV 疫苗以來，數百人的生命得以挽救。",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gy2e4p74zo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/baa4/live/3b93ba90-6add-11f1-8e1d-bbbb1017d210.jpg",
-      "category": "其他",
-      "published_at": "2026-06-18T09:55:18+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "小泉進次郎接受BBC專訪：日本加強防衛「對防止戰爭至關重要」",
-      "title_zh": "小泉进次郎接受BBC专访：日本加强防卫“对防止战争至关重要”",
-      "summary": "小泉進次郎表示，日本需要重新檢視自第二次世界大戰以來一直主導其發展的和平主義立場。",
-      "url": "https://www.bbc.com/zhongwen/articles/ceqdrqpxrvgo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2069/live/d976b510-6a41-11f1-9742-4f68b41a569d.jpg",
-      "category": "时政",
-      "published_at": "2026-06-18T07:17:35+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "美國與伊朗正式簽署協議　包含哪些內容？",
-      "title_zh": "美国与伊朗正式签署协议，包含哪些内容？",
-      "summary": "這份包含14段的備忘錄內容包括：停止戰鬥、伊朗承諾永不擁有核武器，以及一項為伊朗提供3000億美元重建資金的計劃。",
-      "url": "https://www.bbc.com/zhongwen/articles/c17y54xx749o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a4e/live/e6e42e70-6ad8-11f1-8e1d-bbbb1017d210.jpg",
-      "category": "时政",
-      "published_at": "2026-06-18T06:18:49+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "經濟制裁、西方代表迴避：國際論壇現場的俄羅斯經濟挑戰",
-      "title_zh": "经济制裁、西方代表回避：国际论坛现场的俄罗斯经济挑战",
+      "title_zh": "经济制裁、西方代表回避：国际论坛上的俄罗斯经济挑战",
       "summary": "烏克蘭六月初的無人機攻擊為普京在聖彼得堡舉辦的年度國際經濟論壇蒙上陰影。BBC俄羅斯事務編輯史蒂夫·羅森伯格帶觀眾走進論壇現場。在那裡，俄羅斯因戰爭承受的經濟壓力已經開始顯現衝擊。",
       "url": "https://www.bbc.com/zhongwen/articles/cx2de9z1m34o/trad?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7540/live/e6fa5930-6bc2-11f1-8e1d-bbbb1017d210.jpg",
@@ -142,39 +152,69 @@
       "published_at": "2026-06-19T10:25:14+00:00"
     },
     {
-      "source": "BBC中文",
-      "title_original": "「昨安葬父親，今告別母親」：伊波拉疫下死者日增 改變守喪文化",
-      "title_zh": "“昨安葬父亲，今告别母亲”：埃博拉疫下死者日增，改变守丧文化",
-      "summary": "伊波拉病毒最具傳染性的階段，就是患者死亡之時，如何處理遺體成為防控疫情的關鍵。疫情爆發期間，葬禮被證實與大規模傳播有關，安全安葬小組因而成立，成為防疫的重要一環。BBC記者在剛果東北部實地採訪疫下死者的安葬儀式，觀察這波致命疫情如何改變當地傳統文化。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx26rl3231lo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad1e/live/7e440360-6afe-11f1-b1db-af71d47507d6.jpg",
+      "source": "The Verge",
+      "title_original": "Bose thinks it can be a media company for some reason",
+      "title_zh": "Bose试图转型为媒体公司，原因不明",
+      "summary": "\n\n\n\t\n\t\t\n\nThe history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the media",
+      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/bosequietcomfortultraheadphonessecondgeneration.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "3C数码",
+      "published_at": "2026-06-21T18:53:50+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+      "title_zh": "Cold Court首张EP：感染性十足的故障风格混搭",
+      "summary": "\n\n\n\t\n\t\t\n\nCold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily w",
+      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Cold-Court-Hands-Up-EP-Art-by-Gabriel-Good-large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-06-18T10:28:39+00:00"
+      "published_at": "2026-06-21T17:00:33+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "赖清德：愿和中国交流合作 台湾不接受统一不应被视为挑衅",
-      "title_zh": "赖清德：愿和中国交流合作，台湾不接受统一不应被视为挑衅",
-      "summary": "台湾的赖清德总统18日呼吁，中国当局放弃在南海、东海及台海扩军，也放弃武力攻打台湾。在对等尊严的原则下，台湾愿意和中国进行交流合作，促进和平共荣发展。赖清德18日和台湾的国际媒体会面，他强调，台湾守护国家安全，维护民主自由的生活方式，“不接受统一，也不接受中国共产党的统治，不应该被视为对中国的挑衅，或区域的麻烦制造者。” 赖清德认为，其实中国在东海、南海、台海扩军势力已经进到西太平洋。各种胁迫的方式持续增强，中国才是改变台海现状及印太区域和平稳定的的扩张者。赖清德：日菲划界谈判不影响台湾权益 唯一风险是扩张的中国 近期，由于日本跟菲律宾之间针对重叠专属经济海域（EEZ）展开谈判，中国方面借此宣",
-      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/06/18/china-taiwan-laichingte/",
-      "image_url": "https://www.rfa.org/resizer/v2/VXSLFDAUCRC7ZGKT4IF7ITAPJM.JPG?auth=08871645f7693b3c9e2985c619c641911222b20f558ca79cea1dd9823b1d4a21&smart=true&width=1500",
-      "category": "时政",
-      "published_at": "2026-06-18T08:51:51+00:00"
+      "source": "The Verge",
+      "title_original": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+      "title_zh": "Polymarket被曝花钱雇人发布虚假下注视频",
+      "summary": "\n\n\n\t\n\t\t\n\nAccording to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed th",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB384_POLYMARKET_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "互联网",
+      "published_at": "2026-06-21T14:19:46+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "华中危废中心落户武昌  居民抗议多人被抓",
-      "title_zh": "华中危废中心落户武昌，居民抗议多人被抓",
-      "summary": "武汉武昌华中危险废物实验室工地近日引发居民抗议。6月10日起，施工现场周边持续出现维权行动。多段视频显示，公安到场驱散人群，多人被警察抓走。当地居民说，他们反对项目落户住宅密集区，担心废气、废水及危险废物样品管理影响周边环境。6月10日至16日晚，武昌区危险废物实验室施工现场周边持续出现居民集体维权行动。多段现场视频显示，晚间抗议人数较多，现场聚集者达数百人规模，公安和辅警人数众多，部分时段可见数十人列队戒备。12日晚，居民在现场高唱《义勇军进行曲》。视频中，有人喊：“警察打人啦，打人啦。”在昏暗的街灯下，白衣男子被两名警察推着走，女子与警察拉扯中倒地，年轻女子疑似被打后在现场哭泣。涉事项目为",
-      "url": "https://rfa.org/mandarin/shehui/2026/06/18/china-wuhan-protest-laboratory/",
-      "image_url": "https://www.rfa.org/resizer/v2/DY3QAFQKG5FBJK5JHW7DMQOW5U.jpg?auth=cf18ce848b1d7661638b52a20b792b564c21e74843c909f5fe856b2b373ea2e7&smart=true&width=1500",
-      "category": "时政",
-      "published_at": "2026-06-18T05:40:40+00:00"
+      "source": "The Verge",
+      "title_original": "How Roomba started a robot revolution",
+      "title_zh": "Roomba如何开启机器人革命",
+      "summary": "\n\n\n\t\n\t\t\n\nIf you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. Yo",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Roomba_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "AI",
+      "published_at": "2026-06-21T12:29:01+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Electric air taxis are stuck in the courtroom",
+      "title_zh": "电动空中出租车陷入法庭僵局",
+      "summary": "\n\n\n\t\n\tJoby flight at JFK airport. | Image: The Verge\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sund",
+      "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC01507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T12:00:00+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "title_zh": "索尼Xperia 1 VIII仍是粉丝向手机",
+      "summary": "\n\n\n\t\n\tThe 1 VIII doesn’t look much like any Xperia that’s come before.\t\n\nThe Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's ",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "3C数码",
+      "published_at": "2026-06-21T11:00:00+00:00"
     },
     {
       "source": "The Verge",
       "title_original": "The Atlantic created a searchable database of the music used to train AI",
-      "title_zh": "《大西洋月刊》创建可搜索数据库，记录训练AI所用的音乐",
+      "title_zh": "《大西洋月刊》创建可搜索数据库，记录训练AI所用音乐",
       "summary": "\n\n\n\t\n\t\t\n\nAtlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant",
       "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
@@ -198,13 +238,13 @@
       "summary": "\n\n\n\t\n\t\t\n\nFrom its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in yea",
       "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_29ae5f53fd3adf1b47aea2b3810690a889b06db1.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "3C数码",
+      "category": "其他",
       "published_at": "2026-06-20T14:00:00+00:00"
     },
     {
       "source": "The Verge",
       "title_original": "Toy Story has the right take on tech",
-      "title_zh": "《玩具总动员》对科技的看法很到位",
+      "title_zh": "《玩具总动员》对科技的看法很正确",
       "summary": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Sam Bankman-Fried and PE Gu",
       "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-133.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
@@ -212,94 +252,64 @@
       "published_at": "2026-06-20T12:00:00+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "SwitchBot’s Standing Circulator Fan is worth fighting for",
-      "title_zh": "SwitchBot立式循环风扇值得入手",
-      "summary": "\n\n\n\t\n\tI’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot.\nAs the name indicates, the SwitchBot fan is a 3D circulat",
-      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1636.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Wired",
+      "title_original": "Wooting 60HE v2: Peak Keyboard Perfection",
+      "title_zh": "Wooting 60HE v2：键盘的巅峰之作",
+      "summary": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
+      "url": "https://www.wired.com/review/review-wooting-60he-v2/",
+      "image_url": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/master/pass/Wooting-60HE-v2-.jpg",
       "category": "3C数码",
-      "published_at": "2026-06-20T07:00:00+00:00"
+      "published_at": "2026-06-21T11:01:00+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
-      "title_zh": "Nothing因内存价格过高取消今年CMF手机",
-      "summary": "\n\n\n\t\n\t\t\n\nNothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year:\n\nWe were working on a successor but with memory prices where they are right ",
-      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Wired",
+      "title_original": "The Best NAS Devices for Your Home After Months of Testing",
+      "title_zh": "经数月测试，最佳家用NAS设备推荐",
+      "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
+      "url": "https://www.wired.com/story/best-nas-devices/",
+      "image_url": "https://media.wired.com/photos/6a17d5a46c30c214d6076c82/master/pass/Best%20NAS%20Storage%20top%20art%20052026%20SOURCE%20Amazon.jpg",
       "category": "3C数码",
-      "published_at": "2026-06-19T21:28:39+00:00"
+      "published_at": "2026-06-21T10:30:00+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
-      "title_zh": "NASA选定埃里克·施密特的火箭公司执行2028年火星任务",
-      "summary": "\n\n\n\t\n\tRelativity Space’s CEO is former Google executive Eric Schmidt. | Image: Alexander Tamargo / Getty Images\t\n\nRelativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a n",
-      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2245341683.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "军事",
-      "published_at": "2026-06-19T18:41:48+00:00"
+      "source": "Wired",
+      "title_original": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "title_zh": "28条技巧，让你的ChatGPT提示词更上一层楼",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "image_url": "https://media.wired.com/photos/641df3ef11b9b75446f8f278/master/pass/11-Creative-ChatGPT-Prompts-Gear-GettyImages-1433912783.jpg",
+      "category": "AI",
+      "published_at": "2026-06-21T10:30:00+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-      "title_zh": "Hue有线墙控模块将非智能灯接入其生态系统",
-      "summary": "\n\n\n\t\n\tThe new Wired Wall Switch Modules fit behind existing switches. | Image: Signify\t\n\nSmart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also a",
-      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/philips-hue-wandschalter-modul.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "3C数码",
-      "published_at": "2026-06-19T17:24:45+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "title_zh": "NTS电台播放器将最佳网络电台带入高保真音响",
-      "summary": "\n\n\n\t\n\tHave I found my Chromecast Audio replacement? | Image: NTS Radio\t\n\nNTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "3C数码",
-      "published_at": "2026-06-19T14:53:53+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "The film about Sam Altman has been dropped by Amazon MGM",
-      "title_zh": "亚马逊米高梅放弃制作山姆·奥特曼传记片",
-      "summary": "\n\n\n\t\n\t\t\n\nLuca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. Th",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Wired",
+      "title_original": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+      "title_zh": "如果你在找新煎锅，考虑不锈钢材质",
+      "summary": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
+      "url": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
+      "image_url": "https://media.wired.com/photos/6a2ff7a5f6151b9749aa4dad/master/pass/31766_HES_HN9_Triple%20Pack_SS_Lifestyle%20copy.jpg",
       "category": "其他",
-      "published_at": "2026-06-19T14:15:29+00:00"
+      "published_at": "2026-06-21T10:30:00+00:00"
     },
     {
-      "source": "Ars Technica",
-      "title_original": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "title_zh": "微软发现窃取加密货币的新型轻量级后门",
-      "summary": "Microsoft says it has detected new self-propagating malware that spreads through USB drives in search of cryptocurrency credentials, which it then sends to attacker-controlled servers.\nThe company named the worm Crypto Clipper because it monitors the contents of device clipboards for patterns consis",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
-      "category": "互联网",
-      "published_at": "2026-06-18T23:28:52+00:00"
-    },
-    {
-      "source": "Ars Technica",
-      "title_original": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-      "title_zh": "苹果修复Beats Studio Buds高危窃听漏洞",
-      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.\nThe vulnerability, CVE-2025-20701, allowed improper authentication in the firmware running on the Bluetooth-related chips, enabling people ",
-      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg",
+      "source": "Wired",
+      "title_original": "Buying a Used iPhone Makes More Sense Than Ever",
+      "title_zh": "购买二手iPhone比以往更划算",
+      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
+      "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+      "image_url": "https://media.wired.com/photos/6a3322aebc63986040a4a6ba/master/pass/GettyImages-2210156582.jpg",
       "category": "3C数码",
-      "published_at": "2026-06-18T19:41:35+00:00"
+      "published_at": "2026-06-21T10:00:00+00:00"
     },
     {
-      "source": "Ars Technica",
-      "title_original": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "title_zh": "SpaceX上市前，中国投资者秘密收购其股份",
-      "summary": "A businessman with ties to Chinese military contractors was among the overseas investors who acquired stakes in SpaceX while it was still a private company. An entity linked to the Qatari royal family also took a stake.\nThe new details come from a private investor list obtained by ProPublica that sh",
-      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
-      "category": "经济",
-      "published_at": "2026-06-18T17:42:18+00:00"
+      "source": "Wired",
+      "title_original": "A Critical Deadline Is Approaching for Windows and Linux Security",
+      "title_zh": "Windows和Linux安全的关键期限即将到来",
+      "summary": "The cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.",
+      "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+      "image_url": "https://media.wired.com/photos/6a342b0819ec74e5dcd4e6ca/master/pass/GettyImages-1091064696.jpg",
+      "category": "互联网",
+      "published_at": "2026-06-21T09:00:00+00:00"
     },
     {
       "source": "Wired",
@@ -314,7 +324,7 @@
     {
       "source": "Wired",
       "title_original": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-      "title_zh": "我找到了29个值得现在购买的Prime Day早期优惠（2026）",
+      "title_zh": "我找到了29个值得现在购买的早期Prime Day优惠（2026年）",
       "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
       "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
       "image_url": "https://media.wired.com/photos/6a31e4e303c0be2f1d7e861f/master/pass/Launorma_EarlyPrimeDayDeal.png",
@@ -324,7 +334,7 @@
     {
       "source": "Wired",
       "title_original": "16 Best Greens Powders (2026): Taste-Tested for Months",
-      "title_zh": "16款最佳绿色粉末保健品（2026）：数月口味测试",
+      "title_zh": "16款最佳绿色粉末补充剂（2026年）：经数月口味测试",
       "summary": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick.",
       "url": "https://www.wired.com/gallery/best-greens-powders/",
       "image_url": "https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png",
@@ -354,7 +364,7 @@
     {
       "source": "Wired",
       "title_original": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
-      "title_zh": "科学家发明超声波萃取浓缩咖啡法，无需热水",
+      "title_zh": "科学家发明超声波萃取浓缩咖啡法——无需热水",
       "summary": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy.",
       "url": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
       "image_url": "https://media.wired.com/photos/6a31a3f517ccc179550789a8/master/pass/cafespresso.jpg",
@@ -374,7 +384,7 @@
     {
       "source": "Wired",
       "title_original": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
-      "title_zh": "2026年最佳iPad选购指南：Air、Pro、Mini对比",
+      "title_zh": "2026年最佳iPad选购指南（及应避免的型号）：对比Air、Pro、Mini",
       "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
       "url": "https://www.wired.com/gallery/the-best-ipad/",
       "image_url": "https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg",
@@ -384,7 +394,7 @@
     {
       "source": "Wired",
       "title_original": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
-      "title_zh": "2026年最佳Mesh Wi-Fi系统：网件、华硕、亚马逊等",
+      "title_zh": "最佳Mesh Wi-Fi系统（2026年）：Netgear、华硕、亚马逊等",
       "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
       "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
       "image_url": "https://media.wired.com/photos/69d41d1bf10fbfdc2dc2e429/master/pass/The-Best-Mesh-Wi-Fi-Systems-for-WFH,-Gaming,-and-Streaming.jpg",
@@ -404,7 +414,7 @@
     {
       "source": "Wired",
       "title_original": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
-      "title_zh": "Z世代单身族试图将“独身最大化”打造为理想生活",
+      "title_zh": "Z世代单身族正将‘独身最大化’视为理想生活",
       "summary": "For young people, the trend removes the stigma of being unmarried and alone, and recasts it as something to aim for, not avoid.",
       "url": "https://www.wired.com/story/solomaxxing/",
       "image_url": "https://media.wired.com/photos/6a31cd8f74c1325e70b41278/master/pass/GenZ-Solomaxxing-Culture.jpg",
@@ -424,7 +434,7 @@
     {
       "source": "Wired",
       "title_original": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
-      "title_zh": "Pump.Fun的赏金平台沦为循环骗局黑洞",
+      "title_zh": "Pump.Fun的赏金平台沦为循环欺诈黑洞",
       "summary": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
       "url": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
       "image_url": "https://media.wired.com/photos/6a32e323b8962246cc7eece9/master/pass/Culture_CryptoBountyHunters-v1.jpg",
@@ -442,69 +452,59 @@
       "published_at": "2026-06-19T10:01:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "This World Cup, Bigger Might Not Really Be Better",
-      "title_zh": "本届世界杯：规模更大未必更好",
-      "summary": "The biggest World Cup ever is pushing fans, players, and host cities to their limits—and experts say this is only the beginning.",
-      "url": "https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/",
-      "image_url": "https://media.wired.com/clips/6a3152d700a8d83a0988a040/master/pass/FIFABig_Lead.mp4",
+      "source": "TechCrunch",
+      "title_original": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "title_zh": "育碧联合创始人克劳德·吉勒莫特在飞机失事中遇难",
+      "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+      "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-06-19T10:00:00+00:00"
+      "published_at": "2026-06-21T18:34:31+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
-      "title_zh": "霍尔木兹海峡开放无法一夜解决油价问题",
-      "summary": "Even if peace holds up between the US and Iran, oil prices aren’t going back down to where they were any time soon.",
-      "url": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
-      "image_url": "https://media.wired.com/photos/6a348e5ee9f4ad598314d35d/master/pass/hormuz_open_gas_prices.jpg",
-      "category": "经济",
-      "published_at": "2026-06-19T09:30:00+00:00"
+      "source": "TechCrunch",
+      "title_original": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "title_zh": "Polymarket据称付费让创作者发布虚假投注的误导视频",
+      "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "image_url": null,
+      "category": "互联网",
+      "published_at": "2026-06-21T16:35:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
-      "title_zh": "预测市场哲学家如愿以偿，却并不开心",
-      "summary": "Getting the future right is now big business. But at a festival in Berkeley, forecasters worry that sports markets could take the whole industry down.",
-      "url": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/",
-      "image_url": "https://media.wired.com/photos/6a3168136e4db4ba69b6e137/master/pass/Business_ThePredictionMarketsPhilosopherKings-v1.jpg",
-      "category": "其他",
-      "published_at": "2026-06-19T09:30:00+00:00"
+      "source": "TechCrunch",
+      "title_original": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "title_zh": "TechCrunch Mobility：新自动驾驶出租车评分卡显示中国主导地位",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "image_url": null,
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T16:05:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Canada Missed Chances to Inspect Titan Before Fatal Implosion",
-      "title_zh": "加拿大错失多次检查“泰坦”号的机会，最终导致致命内爆",
-      "summary": "A new report shows that government agencies failed to communicate and includes recommendations for stronger oversight in a bid to avert future disasters.",
-      "url": "https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/",
-      "image_url": "https://media.wired.com/photos/6a32ea41c9d6ea1d2578c14e/master/pass/science_oceangate_GettyImages-1259004909.jpg",
+      "source": "TechCrunch",
+      "title_original": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "title_zh": "特朗普政府打击Anthropic，谁会受益？",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "image_url": null,
       "category": "时政",
-      "published_at": "2026-06-19T09:00:00+00:00"
+      "published_at": "2026-06-21T15:28:17+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Pseudoscientific Cancer ‘Treatment’ Involves Gassing Naked People in Plastic Bags With Bleach",
-      "title_zh": "伪科学癌症“疗法”：用漂白剂气体熏蒸裸体者",
-      "summary": "A London clinic owner has claimed he is treating people with stage 4 cancer by sealing them into a plastic bag while they're naked from the waist down and gassing them with chlorine dioxide.",
-      "url": "https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/",
-      "image_url": "https://media.wired.com/photos/6a3313c8992fdbbcd96568a4/master/pass/061726-cancer-patients-bleach-1.jpg",
-      "category": "其他",
-      "published_at": "2026-06-19T07:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Rover Promo Codes and Referral Deals for June 2026",
-      "title_zh": "2026年6月Rover促销码与推荐优惠",
-      "summary": "Score your Rover promo code for 2026.",
-      "url": "https://www.wired.com/story/rover-promo-code/",
-      "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "category": "其他",
-      "published_at": "2026-06-19T05:00:00+00:00"
+      "source": "TechCrunch",
+      "title_original": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "title_zh": "超越Siri：iOS 27即将为iPhone带来的实用AI功能",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "image_url": null,
+      "category": "AI",
+      "published_at": "2026-06-21T14:40:28+00:00"
     },
     {
       "source": "TechCrunch",
       "title_original": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "title_zh": "Signal总裁提醒：AI聊天机器人不是你的朋友",
+      "title_zh": "Signal的梅雷迪思·惠特克提醒你：AI聊天机器人‘不是你的朋友’",
       "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
       "image_url": null,
@@ -514,7 +514,7 @@
     {
       "source": "TechCrunch",
       "title_original": "In the Weights is your new AI-centric vanity search",
-      "title_zh": "In the Weights：以AI为中心的虚荣搜索新工具",
+      "title_zh": "In the Weights：你的全新AI中心化虚荣搜索工具",
       "summary": "So ... what's your In the Weights score?",
       "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "image_url": null,
@@ -524,7 +524,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Founders Fund’s outlier bet on humanely killed fish",
-      "title_zh": "Founders Fund押注人道宰鱼技术",
+      "title_zh": "Founders Fund押注人道宰杀鱼类，出人意料",
       "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
       "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
       "image_url": null,
@@ -534,7 +534,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "title_zh": "诺贝尔奖得主John Jumper离开DeepMind加入对手Anthropic",
+      "title_zh": "诺贝尔奖得主约翰·江珀离开DeepMind转投竞争对手Anthropic",
       "summary": "Jumper isn't the only big name leaving Google DeepMind.",
       "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "image_url": null,
@@ -544,7 +544,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Every new iOS 27 feature that’s worth knowing about",
-      "title_zh": "iOS 27所有值得关注的新功能",
+      "title_zh": "iOS 27所有值得了解的新功能一览",
       "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
       "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
       "image_url": null,
@@ -554,7 +554,7 @@
     {
       "source": "TechCrunch",
       "title_original": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "title_zh": "他让你的免费视频播放器流畅运行，现在他为机器人做同样的事",
+      "title_zh": "他曾让你的免费视频播放器流畅运行，如今为机器人做同样的事",
       "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
       "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
       "image_url": null,
@@ -574,7 +574,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
-      "title_zh": "Go公司瞄准Robotaxi和收购，完成日本2026年最大IPO",
+      "title_zh": "Go公司瞄准自动驾驶出租车和收购，继日本2026年最大IPO之后——原因在此",
       "summary": "Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan's shortage of drivers.",
       "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
       "image_url": null,
@@ -584,8 +584,8 @@
     {
       "source": "TechCrunch",
       "title_original": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "title_zh": "Aura惊艳电子墨水相框：看起来完全不像是数码产品",
-      "summary": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digita",
+      "title_zh": "Aura惊艳的电子墨水相框，看起来完全不像是数码产品",
+      "summary": "All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos.",
       "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
       "image_url": null,
       "category": "3C数码",
@@ -594,7 +594,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Every fusion startup that has raised over $100M",
-      "title_zh": "所有融资超1亿美元的核聚变初创公司",
+      "title_zh": "融资超1亿美元的核聚变初创公司一览",
       "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
       "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
       "image_url": null,
@@ -604,7 +604,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "title_zh": "美国政府封禁Anthropic是否反助品牌？",
+      "title_zh": "美国政府封禁Anthropic是否意外帮了该品牌？",
       "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
       "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
       "image_url": null,
@@ -614,7 +614,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Billionaire Ambani wants AI in every call, app, and home",
-      "title_zh": "亿万富翁安巴尼欲将AI融入每通电话、每个应用和每个家庭",
+      "title_zh": "亿万富翁安巴尼想让AI进入每通电话、每个应用和每个家庭",
       "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
       "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
       "image_url": null,
@@ -623,8 +623,8 @@
     },
     {
       "source": "TechCrunch",
-      "title_original": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "title_zh": "Allbirds新AI业务CEO有计划但无团队",
+      "title_original": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
+      "title_zh": "Allbirds新AI业务CEO有规划，但需要“全新团队”",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "image_url": null,
@@ -634,7 +634,7 @@
     {
       "source": "TechCrunch",
       "title_original": "The US says ASML’s top chip tool may be in China, but how?",
-      "title_zh": "美国称ASML顶级芯片设备或在中国，但如何做到的？",
+      "title_zh": "美国称ASML顶级芯片工具可能在中国，但如何做到的？",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
       "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "image_url": null,
@@ -644,7 +644,7 @@
     {
       "source": "TechCrunch",
       "title_original": "Telegram ban in India sparks a rush to VPNs, rival apps",
-      "title_zh": "印度封禁Telegram引发VPN和竞品应用热潮",
+      "title_zh": "印度封禁Telegram引发VPN和竞品应用使用热潮",
       "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
       "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
       "image_url": null,
@@ -652,54 +652,124 @@
       "published_at": "2026-06-19T01:01:00+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "title_zh": "消息称Elastic同意以8500万美元收购CRV支持的Deductive AI",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-19T00:51:11+00:00"
+      "source": "Bloomberg",
+      "title_original": "US, Iran Meet in Switzerland as Trump Threatens Iran",
+      "title_zh": "美伊在瑞士会晤，特朗普威胁伊朗",
+      "summary": "The US and Iran began talks in Switzerland on a peace deal to settle the issue of the Islamic Republic’s nuclear program as President Donald Trump once again threatened strikes if Hezbollah keeps attacking Israel. Bloomberg's Wendy Benjaminson has the latest. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/us-iran-meet-in-switzerland-as-trump-threatens-iran-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDv0wM6rJXRE/v3/1200x-1.jpg",
+      "category": "时政",
+      "published_at": "2026-06-21T23:43:00+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "title_zh": "AI推理初创公司Baseten据称在上一轮巨额融资后数月再筹15亿美元",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-18T21:20:13+00:00"
+      "source": "Bloomberg",
+      "title_original": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
+      "title_zh": "特朗普在和平谈判期间警告伊朗，金价延续跌势",
+      "summary": "Gold held a decline after US President Donald Trump issued a fresh threat to strike Iran, raising tensions during high-level talks to find a permanent resolution to the war that’s roiled global markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/gold-holds-decline-after-trump-warns-iran-during-peace-talks",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK0BAxVqGoh0/v3/1200x-1.png",
+      "category": "经济",
+      "published_at": "2026-06-21T23:37:35+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "title_zh": "Snap因成本压力将AI视频团队分拆为新公司Dotmo",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-18T20:30:00+00:00"
+      "source": "Bloomberg",
+      "title_original": "Eileen Gu on Values That Define Success",
+      "title_zh": "谷爱凌谈定义成功的价值观",
+      "summary": "Skiing synthetizes all of the values and reflects back to me those values I judge myself by,” Olympic gold medalist Eileen Gu tells Bloomberg in an exclusive interview in Hong Kong. The freestyle skier also describes what a week trailing her would look like, if someone can keep pace. (Source: Bloomb",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/eileen-gu-on-values-that-define-success-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGC_dNUO3aLE/v3/1200x-1.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T23:23:58+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "title_zh": "OpenAI为IPO引入多位重磅人物",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-18T19:59:22+00:00"
+      "source": "Bloomberg",
+      "title_original": "Oil Climbs, US Futures Dip on Tense US-Iran Talks: Markets Wrap",
+      "title_zh": "美伊谈判紧张，油价上涨、美股期货下跌",
+      "summary": "US stock futures fell and oil climbed on Monday as talks between Washington and Tehran over a peace deal were clouded by a renewed threat from President Donald Trump to strike Iran.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/us-futures-slip-oil-climbs-on-renewed-iran-threat-markets-wrap",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVzflEPwt63w/v2/1200x-1.png",
+      "category": "经济",
+      "published_at": "2026-06-21T22:08:56+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "The 11 standout startups from YC’s Demo Day, according to VCs",
-      "title_zh": "YC演示日上VC评选的11家突出初创公司",
-      "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
-      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-18T19:52:19+00:00"
+      "source": "Bloomberg",
+      "title_original": "Trump Ally Wins Initial Count in Colombian Presidential Vote",
+      "title_zh": "特朗普盟友在哥伦比亚总统选举初步计票中领先",
+      "summary": "Abelardo de la Espriella at a polling station during the runoff presidential election in Barranquilla, Colombia, on June 21. Photographer: Carlos Parra Rios/Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/trump-backed-conservative-leads-in-colombia-presidential-runoff",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEMWc9AUE4uc/v0/1200x-1.jpg",
+      "category": "时政",
+      "published_at": "2026-06-21T21:49:29+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
+      "title_zh": "美伊和平谈判启动，特朗普再发威胁后油价攀升",
+      "summary": "A pipeline runs toward oil Southbow storage tanks at the Cushing crude oil storage terminal in Cushing, Oklahoma, US, on Thursday, June 18, 2026. Inventories at the US's largest commercial crude oil storage hub in Cushing, Oklahoma, have fallen to the lowest since 2014, to about 20 million barrels, ",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/latest-oil-market-news-and-analysis-for-june-22",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioDbpCYElj04/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T22:02:25+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Singapore Dollar Set to Gain Despite Hawkish Fed, Analysts Say",
+      "title_zh": "分析师称尽管美联储鹰派，新加坡元仍将走强",
+      "summary": "A vendor counts Singapore dollar banknotes at a street market stall in Singapore, on Monday, Feb. 2, 2026. Singapore's tourism receipt rose by 6.5% year-on-year in the first three quarters of 2025 to a record S$23.9 billion ($18.8 billion) , on track to exceed its full-year projection of S$29 billio",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/singapore-dollar-set-to-gain-despite-hawkish-fed-analysts-say",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioVGOGjrjfEI/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T22:00:00+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+      "title_zh": "【今早5条】工作前必读精选新闻",
+      "summary": "US President Donald Trump arrives for a Medal of Honor ceremony in the East Room of the White House in Washington, DC, US, on Thursday, June 18, 2026. President Trump awarded the highest military award to two individuals, one posthumously.",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-21/TH02G2RKV32600",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJG_0mNmcakU/v1/1200x-1.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T21:02:26+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Renault Pushback on Nissan Board Picks Targets Creditor Mizuho",
+      "title_zh": "雷诺反对日产董事会人选，矛头指向债权人瑞穗",
+      "summary": "Nissan Motor Co.'s Ariya electric crossover sport utility vehicles (SUV) are assembled by robots using the Universal Powertrain Mounting System on the production line during a demonstration of the Nissan Intelligent Factory initiative at the company's plant in Kaminokawa, Tochigi Prefecture, Japan, ",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/renault-pushback-on-nissan-board-picks-targets-creditor-mizuho",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMELw1g7cGh8/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T21:00:00+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Germany, KNDS Family Owners Agree on Stake Sale Ahead of IPO",
+      "title_zh": "德国与KNDS家族股东达成IPO前股权出售协议",
+      "summary": "A Jaguar armored vehicle from KNDS NV at the Brussels European Defense Exhibition and Conference (BEDEX) in Brussels, Belgium, on Thursday, March 12, 2026. The US and Israel's war on Iran forced world governments to intervene to shore up energy supplies, even as President Donald Trump once again sai",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/germany-knds-family-owners-agree-on-stake-sale-ahead-of-ipo",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqY0zUiHtA8Y/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T18:17:21+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says",
+      "title_zh": "CRH接近达成收购Arcosa的史上最大交易",
+      "summary": "Workers on cherry picker cranes inside the NeuConnect Interconnector convertor station construction site on the Isle of Grain, UK, on Wednesday, Nov. 5, 2025. The European Investment Bank will provide 400 million euros ($406 million) to help finance an interconnector that will link German and UK ele",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/crh-near-biggest-ever-deal-for-arcosa-financial-times-says",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3BVKT2DLvtQ/v0/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T19:55:45+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
+      "title_zh": "美联储政策转向令债券交易员受损，目光转向通胀指标和油价",
+      "summary": "Kevin Warsh, chairman of the US Federal Reserve, departs following a news conference following a Federal Open Market Committee (FOMC) meeting in Washington, DC, US, on Wednesday, June 17, 2026. Federal Reserve officials left interest rates unchanged and were split over whether they expect to raise r",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/bond-traders-burned-by-fed-s-pivot-look-to-prices-gauge-oil",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwV.2aba8w9U/v1/1200x-1.jpg",
+      "category": "经济",
+      "published_at": "2026-06-21T19:00:00+00:00"
     },
     {
       "source": "Bloomberg",
@@ -713,299 +783,229 @@
     },
     {
       "source": "Bloomberg",
-      "title_original": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
-      "title_zh": "银行丑闻后巴西卢拉仍领先博索纳罗",
-      "summary": "Luiz Inacio Lula da Silva and Flavio Bolsonaro Photographer: Sean Gallup/Getty Images; Shelby Tauber/Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inBG_m6suB64/v0/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T16:30:41+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Pointed News Quiz | Bonds, Streaming, Yogurt",
-      "title_zh": "尖锐新闻问答：债券、流媒体、酸奶",
-      "summary": "David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/pointed-news-quiz-bonds-streaming-yogurt-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5PzjchSa5wM/v3/1200x-1.jpg",
+      "title_original": "Bloomberg This Weekend 6/21/2026",
+      "title_zh": "彭博本周末 2026年6月21日",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Associated Press International Correspondent Philip Crowther, ABC News State Department Reporte",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/bloomberg-this-weekend-6-21-2026-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyMRPX6JarnY/v3/1200x-1.jpg",
       "category": "其他",
-      "published_at": "2026-06-20T16:17:09+00:00"
+      "published_at": "2026-06-21T17:28:44+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "History Repeating Itself in America",
-      "title_zh": "美国历史正在重演",
-      "summary": "As the nation prepares to celebrate its 250th anniversary, we can look back and see the recurring themes and lessons in American history. Host of the podcast History That Doesn't Suck and professor at Utah Valley University's Center for Constitutional Studies Greg Jackson joins Bloomberg This Weeken",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/history-repeating-itself-in-america-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8UJ2yYROxCk/v3/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T16:12:21+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Iran Sanctions Losing Efficacy",
-      "title_zh": "伊朗制裁效力减弱",
-      "summary": "In 2015, sanctions played a key role in bringing Iran to the negotiating table but now warfare has been the primary tool. Oliver Wyman Partner and Global Anti-Financial Crime Practice Leader Daniel Tannebaum explains to David Gura and Christina Ruffini on Bloomberg This Weekend how even if sanctions",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/iran-sanctions-losing-efficacy-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTNXENytTQi0/v3/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T15:50:04+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Rep. Warnock: Wall Street vs Main Street",
-      "title_zh": "众议员沃诺克：华尔街与主街之争",
-      "summary": "Senator Raphael Warnock (D-GA) tells David Gura on Bloomberg This Weekend that the focus of the country should be on how local Main Streets are doing, not on well Wall Street is doing. Watch part one of Senator Warnock's interview now and tune in to Bloomberg This Weekend tomorrow for part two. (Sou",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/rep-warnock-wall-street-vs-main-street-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_hWdlO4kvgk/v3/1200x-1.jpg",
+      "title_original": "Hungary Names OTP’s Tardos as Debt Chief in Charge of Cost Cuts",
+      "title_zh": "匈牙利任命OTP银行高管Tardos为债务主管，负责削减成本",
+      "summary": "The city skyline beyond a monument in Budapest, Hungary, on Friday, April 10, 2026. Hungarians will hold parliamentary elections on Sunday with stakes that extend far beyond the European Union’s nation of 10 million. Photographer: Akos Stiller/Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/hungary-names-otp-s-tardos-as-debt-chief-in-charge-of-cost-cuts",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVdRcK8UR.S4/v0/1200x-1.jpg",
       "category": "经济",
-      "published_at": "2026-06-20T15:26:45+00:00"
+      "published_at": "2026-06-21T16:28:44+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Netanyahu Faces MOU Blow",
-      "title_zh": "内塔尼亚胡面临谅解备忘录打击",
-      "summary": "While the United States and Iran have a new Memorandum of Understanding (MOU), Israel has been sidelined from the talks. Bloomberg News' Jerusalem reporter Dan Williams explains the embarrassing situation for Prime Minister Netanyahu to David Gura and Christina Ruffini on Bloomberg This Weekend. (So",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/netanyahu-faces-mou-blow-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irP1.B3zMf8Q/v3/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T15:09:42+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "South Africa’s Kganyago Warns Inflation Expectations Are Rising",
-      "title_zh": "南非央行行长警告通胀预期上升",
-      "summary": "Lesetja Kganyago",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/south-africa-central-bank-warns-it-must-act-on-rising-price-expectations",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwrX1gn5b6_g/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-06-20T14:50:07+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Lawrence, Kansas Embraces Algerian World Cup Team",
-      "title_zh": "堪萨斯州劳伦斯市欢迎阿尔及利亚世界杯球队",
-      "summary": "The Algerian national soccer team was assigned to Lawrence, Kansas for training and practice during the World Cup and have been met with an enthusiastic reception from local residents. Mayor of Lawrence Brad Finkeldei shares with David Gura and Christina Ruffini on Bloomberg This Weekend the joys of",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/lawrence-kansas-embraces-algerian-world-cup-team-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imkH1jeMH7CI/v3/1200x-1.jpg",
+      "title_original": "Fatherhood Books Are Failing to Reflect Modern Dads",
+      "title_zh": "育儿书籍未能反映现代父亲形象",
+      "summary": "On Father's Day, Kevin Maguire, author of \"The New Fatherhood,\" joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the evolving role of fathers and the shortcomings of current fatherhood literature. Maguire emphasized that existing parenting books often reinforce outdated g",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/fatherhood-books-failing-to-reflect-modern-dads-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO6sBX8deDCM/v3/1200x-1.jpg",
       "category": "其他",
-      "published_at": "2026-06-20T14:45:37+00:00"
+      "published_at": "2026-06-21T16:22:45+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "The Reindustrialize Summit: 'Build, Baby, Build'",
-      "title_zh": "再工业化峰会：'建设，宝贝，建设'",
-      "summary": "At the Reindustrialize Summit in Detroit, industrial leaders, White House officials, and major investors convened to emphasize the critical role of manufacturing in reinforcing national and military strength. Axios Defense reporter Colin Demarest joins David Gura and Christina Ruffini on Bloomberg T",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/the-reindustrialize-summit-build-baby-build-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibNS2mu6JudQ/v3/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-06-20T14:39:32+00:00"
+      "title_original": "FDA to Review Easing Restrictions on Peptides",
+      "title_zh": "美国FDA将审查放宽肽类物质限制",
+      "summary": "This summer the FDA will consider loosening restrictions on certain peptide injections, with encouragement from RFK Jr. and the Trump administration. Bloomberg Businessweek senior reporter Amanda Mull explains to hosts David Gura and Christina Ruffini how peptides are popular among wellness enthusia",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/fda-to-review-easing-restrictions-on-peptides-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV9Y0yVo67vk/v3/1200x-1.jpg",
+      "category": "其他",
+      "published_at": "2026-06-21T16:17:14+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "MOU Gives US and Iran Breathing Room",
-      "title_zh": "谅解备忘录为美伊提供喘息空间",
-      "summary": "Georgetown University School of Foreign Service Adjunct Professor Ali Vaez joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains his cautious optimism for the recent Memorandum of Understanding (MOU) involving the US, Israel, and Iran. While Vaez acknowledges a deal within th",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/mou-gives-us-and-iran-breathing-room-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipiXP90USDeQ/v3/1200x-1.jpg",
+      "title_original": "Iran Avoids Shared US Photo at Summit",
+      "title_zh": "伊朗在峰会上回避与美国合影",
+      "summary": "Iran’s delegation briefly entered the Lake Lucerne Summit meeting room before leaving, reflecting Tehran’s reported refusal to participate in a joint photograph with US officials amid sensitive diplomatic negotiations. Bloomberg News' Bastian Benrath-Wright' joins Bloomberg This Weekend to explain t",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/iran-avoids-shared-us-photo-at-summit-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is6JZ84xHD3M/v3/1200x-1.jpg",
       "category": "时政",
-      "published_at": "2026-06-20T14:07:22+00:00"
+      "published_at": "2026-06-21T15:49:03+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "SpaceX IPO Sparks Anticipation for OpenAI and Anthropic",
-      "title_zh": "SpaceX IPO引发对OpenAI和Anthropic的期待",
-      "summary": "The capital influx from the SpaceX IPO, which ended its first week of trading up 37% from its IPO price, highlights strong investor enthusiasm. Bloomberg Radio host of \"Masters in Business\" Barry Ritholtz comes on Bloomberg This Weekend to discuss the potential impact of this enthusiasm on the upcom",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/spacex-ipo-sparks-anticipation-for-openai-and-anthropic-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivLMmJNcqCQA/v3/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-06-20T13:36:49+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Burnham May Yet Rewrite UK Fiscal Playbook If He Becomes PM",
-      "title_zh": "伯纳姆若成为首相或改写英国财政规则",
-      "summary": "Andy Burnham moved closer to power after winning a by-election in Makerfield this week. Photographer: Mary Turner/Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/burnham-may-yet-rewrite-uk-fiscal-rules-if-he-becomes-premier",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTVYxR6mPZ0Y/v0/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T06:00:00+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Trump Seeks Iran Offramp",
-      "title_zh": "特朗普寻求伊朗问题出路",
-      "summary": "President and Founder of Eurasia Group and GZERO Media Ian Bremmer joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss how in the face of the United States failing to achieve any of the war goals given at the beginning of the conflict, President Trump is looking to put Iran b",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/trump-seeks-iran-offramp-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRWVbM9thR0Q/v3/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T12:33:08+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "US-Iran Delegations Expected in Switzerland",
-      "title_zh": "美伊代表团预计在瑞士会晤",
-      "summary": "Three days after President Trump signed an agreement with Iran, Switzerland is playing host for diplomatic talks with the United States, Iran, Pakistan, and Qatar in attendance. The Associated Press's International Correspondent Philip Crowther joins Bloomberg This Weekend with hosts David Gura and ",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBq8_PASAxLg/v3/1200x-1.jpg",
-      "category": "时政",
-      "published_at": "2026-06-20T12:20:07+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Iraq Tells Oil Fields to Start Lifting Output After US-Iran Deal",
-      "title_zh": "伊拉克要求油田在美伊协议后增产",
-      "summary": "BASRA, IRAQ - APRIL 29: A general view of the Nahr Bin Umar refinery, which has a daily production capacity of approximately 45,000 barrels of crude oil and 1,800 barrels of condensate, in Basra, Iraq on April 29, 2026. As part of a project carried out by Basra Gas Company (BGC), natural gas extract",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/iraq-tells-oil-fields-to-start-lifting-output-after-us-iran-deal",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjK5qM6g.Bc/v1/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-06-20T12:05:15+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Ships Told They Can Use South Hormuz Route With Signals On",
-      "title_zh": "船只被告知可开启信号使用南霍尔木兹航线",
-      "summary": "Ships can consider transiting the Strait of Hormuz along the southern route at any time of day with their signals on, a key naval information group said, as energy traders and shipowners look for clues about how quickly and safely Hormuz traffic can return to normal.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ships-can-use-hormuz-southern-route-with-signals-on-jmic-says",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilhUGaw4fjdY/v3/1200x-1.png",
-      "category": "时政",
-      "published_at": "2026-06-20T04:26:19+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "<strong>How Substack Creators Are Covering This Strange Markets Era</strong>",
-      "title_zh": "Substack创作者如何报道这个奇怪的市场时代",
-      "summary": "Traders work on the floor of the American Stock Exchange (AMEX) at the New York Stock Exchange (NYSE) in New York, US, on Monday, June 1, 2026. A renewed rally in oil drove bonds lower while stocks fluctuated as a report that Iran will halt talks with the US cast doubt on a ceasefire renewal. Photog",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1lGzBqaCCFs/v0/1200x-1.jpg",
-      "category": "经济",
-      "published_at": "2026-06-20T08:00:15+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Odd Lots: How Substack Creators Are Thinking About AI (Podcast)",
-      "title_zh": "Odd Lots播客：Substack创作者如何看待AI",
-      "summary": "We closed out our New York live show on May 28 with a panel that featured three of our favorite Substackers: James van Geelen of Citrini Research, Sam Ro, founder of The TKer, and journalist Jasmine Sun. They’ve all been Odd Lots guests before, and we wanted to get them together to discuss how journ",
-      "url": "https://www.bloomberg.com/news/audio/2026-06-20/odd-lots-how-substack-creators-are-thinking-about-ai-podcast",
-      "image_url": null,
-      "category": "AI",
-      "published_at": "2026-06-20T08:00:00+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Europe’s Stocks Are Back in the Lead as Stagflation Risks Ease",
-      "title_zh": "欧洲股市重拾领先地位，滞胀风险缓解",
-      "summary": "The prospect of peace in the Middle East is setting up European stocks for a standout second half, as investors bet on stronger economic growth and easing inflation.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/europe-s-stocks-are-back-in-the-lead-as-stagflation-risks-ease",
-      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNTuqLqVkAsk/v3/1200x-1.png",
-      "category": "经济",
-      "published_at": "2026-06-20T07:00:00+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
-      "title_zh": "伊朗称在以色列与真主党交火后关闭霍尔木兹海峡",
-      "summary": "Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic",
-      "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7679214-6fa5-4aee-9218-9c9925ad28d6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Esper: Hezbollah is 'Spoiler' for US-Iran Deal",
+      "title_zh": "美前防长：真主党是美伊协议的破坏者",
+      "summary": "Former US Defense Secretary Mark Esper joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains how Hezbollah remains a key spoiler to any lasting Iran deal because the group continues attacking Israeli forces and communities, giving Israel justification to keep responding milit",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/esper-hezbollah-is-spoiler-for-us-iran-deal-video",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5W2bYbiIqMQ/v3/1200x-1.jpg",
       "category": "军事",
-      "published_at": "2026-06-20T20:39:55+00:00"
+      "published_at": "2026-06-21T15:27:09+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Oil Keeps Flowing Through Hormuz Despite Iran Saying It’s Shut",
+      "title_zh": "尽管伊朗声称关闭霍尔木兹海峡，石油仍在运输",
+      "summary": "Millions of barrels of oil continued to flow through the Strait of Hormuz this weekend even after Iran claimed to have closed the waterway again, as Washington and Tehran offer contrasting narratives over the status of the world’s most important shipping chokepoint.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/three-indian-tankers-reemerge-pointing-to-hormuz-traffic-uptick",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibs5y75gmQ_Y/v3/1200x-1.png",
+      "category": "经济",
+      "published_at": "2026-06-21T07:25:18+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
-      "title_zh": "拉姆·伊曼纽尔称特朗普在糟糕停火协议中被伊朗‘教训’",
-      "summary": "Possible Democratic presidential candidate describes war as historic ‘American national security mess’",
-      "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73179c80-f9f6-44c7-87d3-d476191aa449.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "US and Iran conduct tense peace talks in Switzerland",
+      "title_zh": "美伊在瑞士举行紧张和平谈判",
+      "summary": "Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon",
+      "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6908c0c3-56f1-4288-b99c-7c754f2b54f5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "时政",
-      "published_at": "2026-06-20T17:07:11+00:00"
+      "published_at": "2026-06-21T23:48:58+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Big Tech is stoking unrest in the UK. Why?",
-      "title_zh": "大型科技公司为何在英国煽动不安？",
-      "summary": "Elon Musk’s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone",
-      "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb47a4db-17ac-47cf-b775-9e2c30ac192b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "互联网",
-      "published_at": "2026-06-20T04:00:38+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "The window for peace in Ukraine won’t be open forever",
-      "title_zh": "乌克兰和平窗口不会永远敞开",
-      "summary": "There is an opportunity to freeze the conflict, but Putin’s fantasy of total victory could get in the way",
-      "url": "https://www.ft.com/content/7b1ff72b-5a67-46b9-81c6-9e3855b99a34",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4e1095e-bc38-47fa-9b2f-4793f2cf0322.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Why Giorgia Meloni turned on Donald Trump",
+      "title_zh": "意大利总理梅洛尼为何与特朗普翻脸",
+      "summary": "Italian premier’s fallout with US president comes as she gears up for re-election battle",
+      "url": "https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa71967c1-c9a9-4820-b75e-68007c5bc926.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "时政",
-      "published_at": "2026-06-20T04:00:38+00:00"
+      "published_at": "2026-06-21T12:48:32+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Why dignity is the measure that matters",
-      "title_zh": "为何尊严是重要的衡量标准",
-      "summary": "From litter-pickers to cage fighters, the signs of a society’s health are often hidden in plain sight",
-      "url": "https://www.ft.com/content/4b57127a-357a-46ef-a0ee-4da37a624e3a",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679899d3-89ea-4388-948e-d6718a98db00.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Back-stabbing myths are driving the US and Europe further apart",
+      "title_zh": "背刺迷思正使美欧渐行渐远",
+      "summary": "Competing narratives of abandonment — from Iran to Greenland — could lead to Nato’s permanent unravelling",
+      "url": "https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F489a8da6-17d1-4141-b105-628a04d9c1bd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-06-21T15:00:08+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Sorry, Elon, the far right is still the far right",
+      "title_zh": "抱歉，马斯克，极右翼仍是极右翼",
+      "summary": "And on some issues, it’s further to the right than before",
+      "url": "https://www.ft.com/content/313f78c7-8959-4188-a3d2-dc9132ef0ba3",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c16d0a6-a1e5-4458-9621-6ffbc2c70a32.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-06-21T04:00:17+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Wars trigger $12bn venture capital rush into defence tech",
+      "title_zh": "战争引发120亿美元风投资本涌入国防科技",
+      "summary": "Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle",
+      "url": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe24938f6-a6af-4cd7-8701-30388915e765.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "军事",
+      "published_at": "2026-06-21T18:00:01+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Rightwing populist ‘El Tigre’ wins Colombia election",
+      "title_zh": "右翼民粹主义者“老虎”赢得哥伦比亚大选",
+      "summary": "Trump-loving political outsider Abelardo de la Espriella narrowly beats leftist continuity candidate",
+      "url": "https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1bcfc6bf-9f00-4900-bcfd-1d3641d80a6c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-06-21T23:47:07+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Building materials group CRH nears its biggest-ever deal to buy Arcosa",
+      "title_zh": "建材集团CRH接近达成史上最大收购案",
+      "summary": "Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn",
+      "url": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14bf481f-5238-493b-b932-4fbcf3b6f606.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "经济",
+      "published_at": "2026-06-21T19:31:29+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Philippines fears China may move to seize full control of disputed atoll",
+      "title_zh": "菲律宾担忧中国可能完全控制争议环礁",
+      "summary": "Defence secretary warns of heightened Chinese military activity around Scarborough Shoal",
+      "url": "https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F103d3b1a-f3c3-4aef-8d88-02b617692e05.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "时政",
+      "published_at": "2026-06-21T20:19:30+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Electric cars win at Pike’s Peak as the Super Mustang Mach-E gets its revenge",
+      "title_zh": "电动车称霸派克峰，超级野马Mach-E复仇成功",
+      "summary": "After a tough 2025 race where it won its class but only came in 2nd place overall, Ford brought its Super Mustang Mach-E back for revenge and managed to beat every gas car up the hill at the world’s toughest road race event.",
+      "url": "https://electrek.co/2026/06/21/electric-cars-win-at-pikes-peak-as-the-super-mustang-mach-e-gets-its-revenge/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/01/ford-super-mustang-mach-e-pikes-peak-2026-e1768603930566.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T23:19:55+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "This zinc mine needed a truck no one made, so they made it themselves",
+      "title_zh": "锌矿需要无人能造的卡车，于是他们自己造了一辆",
+      "summary": "Zijin Mining couldn’t find an ultra-class electric haul truck that could get the job done at its Wulagen mine in Wuqia County, Xinjiang, so they designed their own: a 140-ton BEV haul truck with a huge, 770 kWh swappable battery pack.\nThen they built 290 of them. (!)",
+      "url": "https://electrek.co/2026/06/21/this-zinc-mine-needed-a-truck-no-one-made-so-they-made-their-own/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Zijin-Mining-mine.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "其他",
-      "published_at": "2026-06-20T04:00:38+00:00"
+      "published_at": "2026-06-21T21:57:22+00:00"
     },
     {
-      "source": "FT",
-      "title_original": "Pedro Sánchez’s wife ordered to face corruption trial and surrender passport",
-      "title_zh": "西班牙首相妻子被令接受腐败审判并上交护照",
-      "summary": "Spanish prime minister’s office accuses judge of over-reach after shock decision",
-      "url": "https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5feba160-efbf-4d8a-915f-5c52737c8531.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "时政",
-      "published_at": "2026-06-20T14:40:11+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Tens of thousands of Albanians join ‘Flamingo Revolution’ protest",
-      "title_zh": "数万阿尔巴尼亚人参加‘火烈鸟革命’抗议",
-      "summary": "Demonstrations against government corruption were sparked by a real estate development proposal by Jared Kushner",
-      "url": "https://www.ft.com/content/68048f2c-9f87-415f-849d-175690c72487",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ed55473-0158-42b3-8c1a-f724c4b3f174.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "时政",
-      "published_at": "2026-06-20T18:29:41+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Zelenskyy returns Polish state medal in escalating dispute with ally",
-      "title_zh": "泽连斯基归还波兰国家勋章，与盟友争端升级",
-      "summary": "Ukrainian president calls on Warsaw to show more respect in row dating back to second world war",
-      "url": "https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29ede047-d168-4b0d-b1e1-37724c4598cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "时政",
-      "published_at": "2026-06-20T18:33:11+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Did Anthropic talk its way into an AI export ban?",
-      "title_zh": "Anthropic是否因言论导致AI出口禁令？",
-      "summary": "FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year",
-      "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fafac7aac-e667-4444-80ba-65703afb5ff5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "source": "Electrek",
+      "title_original": "Tesla plans to sell modular AI data center hardware called ‘Megapod’",
+      "title_zh": "特斯拉计划销售名为“Megapod”的模块化AI数据中心硬件",
+      "summary": "Tesla wants to sell modular AI data center hardware, according to a new trademark application for a product called “Megapod.”\nThe filing describes a complete, self-contained computing system for AI workloads — and it lands less than a year after Tesla killed Dojo, its only in-house AI training compu",
+      "url": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.10.03-PM.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "AI",
-      "published_at": "2026-06-20T11:00:09+00:00"
+      "published_at": "2026-06-21T14:26:22+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "From labs to logistics: China tests sodium batteries in HD trucks",
+      "title_zh": "从实验室到物流：中国在重型卡车上测试钠电池",
+      "summary": "Made from more affordable and more abundant materials than li-ion, sodium batteries promise more abundant and more affordable electric vehicles – but will sodium batteries be practical for commercial trucks? Chinese truck brand FAW Jiefang is working to find out.",
+      "url": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/CHINA_TRUCKS.jpg?quality=82&#038;strip=all&#038;w=1520",
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T13:27:38+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
+      "title_zh": "等待结束：皇家恩菲尔德首款电动摩托车开始交付",
+      "summary": "Royal Enfield’s long-awaited entry into the electric motorcycle market has officially begun. The company’s dedicated EV sub-brand, Flying Flea, has started customer deliveries of its first electric motorcycle, the FF.C6, with initial handovers taking place in Bengaluru, India.",
+      "url": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T11:47:46+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla driver says it was on Autopilot before fatal Texas home crash",
+      "title_zh": "特斯拉司机称事故时车辆处于自动驾驶模式",
+      "summary": "A driver told Harris County investigators that his Tesla was on Autopilot before it left a residential road in Katy, Texas, crashed through the brick wall of a home, and killed a 76-year-old woman inside.\nThe crash happened around 8 p.m. Friday in the 21300 block of Rose Hollow Lane, according to th",
+      "url": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Tesla-fatal-crash-autopilot-texas.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "新能源汽车",
+      "published_at": "2026-06-21T01:47:23+00:00"
     },
     {
       "source": "Electrek",
       "title_original": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
-      "title_zh": "比亚迪豪华SUV获创纪录15万订单，即将出海",
+      "title_zh": "比亚迪豪华SUV获15万订单创纪录，即将出海",
       "summary": "The Great Tang is the largest, most luxurious SUV to launch under the BYD brand. After a hot start in China, racking up a record 150,000 orders ahead of launch, BYD is bringing the flagship electric SUV overseas, including Europe, by the end of 2026.",
       "url": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BYD-luxury-SUV-overseas-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
+      "category": "中国特大新闻",
       "published_at": "2026-06-19T21:13:27+00:00"
     },
     {
       "source": "Electrek",
       "title_original": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
-      "title_zh": "播客：Aptera太阳能车试驾，特斯拉Cybercab规格曝光，Lucid Cosmos设计泄露等",
-      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Jamie’s first drive in Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leak, and more.",
+      "title_zh": "播客：Aptera太阳能车试驾、特斯拉Cybercab规格曝光、Lucid Cosmos设计泄露等",
+      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Jamie’s first drive in Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leak, and more.\n",
       "url": "https://electrek.co/2026/06/19/podcast-we-drive-apteras-solar-car-tesla-cybercab-specs-revealed-lucid-cosmos-design-leaks-and-more/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "新能源汽车",
@@ -1014,7 +1014,7 @@
     {
       "source": "Electrek",
       "title_original": "One giant US power line, enough wind power for 1 million homes",
-      "title_zh": "美国一条巨型输电线路，可输送足够100万户家庭使用的风电",
+      "title_zh": "美国一条巨型输电线路，可为100万户家庭提供风电",
       "summary": "SunZia, an $11 billion wind-and-power-line project and one of the largest US clean energy transmission projects ever built, is officially online.",
       "url": "https://electrek.co/2026/06/19/sunzia-one-giant-us-power-line-wind-power-for-1-million-homes/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/SunZia-transmission.jpg?quality=82&#038;strip=all&#038;w=1500",
@@ -1024,7 +1024,7 @@
     {
       "source": "Electrek",
       "title_original": "Hyundai is giving the Kona EV a complete overhaul, and it already looks like an upgrade",
-      "title_zh": "现代Kona EV全面改款，外观已显升级",
+      "title_zh": "现代Kona EV全面改款，升级效果显著",
       "summary": "The Kona EV is making a comeback, but it will look much different this time with Hyundai’s new design and latest infotainment setup.",
       "url": "https://electrek.co/2026/06/19/hyundai-giving-kona-ev-complete-overhaul/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Hyundai-Kona-EV-overhaul.jpeg?quality=82&#038;strip=all&#038;w=1400",
@@ -1034,7 +1034,7 @@
     {
       "source": "Electrek",
       "title_original": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
-      "title_zh": "400马力奔驰VLE 300，兼具豪华轿车与宽敞腿部空间",
+      "title_zh": "400马力奔驰VLE 300：豪华加长与宽敞腿部空间",
       "summary": "The newest Mercedes-Benz VLE 300 electric MPV combines 800V battery tech with limousine-level luxury, top-shelf infotainment options, room for eight, and enough rear legroom to make an S-Class feel like a mini Cooper.",
       "url": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/2027-VLE_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1044,7 +1044,7 @@
     {
       "source": "Electrek",
       "title_original": "Aventon Aventure smart e-bikes at new lows, Yozma IN 10 dirt bike exclusive new $879 low, Jackery power stations, Segway, more",
-      "title_zh": "Aventon智能电动自行车新低价，Yozma IN 10越野车独家低价，Jackery电站等",
+      "title_zh": "Aventon智能电动自行车降价、Yozma IN 10越野车新低879美元、Jackery电站等",
       "summary": "We’re closing out this week’s Green Deals with a bang! Leading the charge of Early Prime deals is Aventon’s newly launched 4th of July Sale with new and returning smart e-bike low prices, like the Aventure 3 All-Terrain e-bikes at a new $1,749 low + the Aventure M Mid-Drive All-Terrain e-bike at a n",
       "url": "https://electrek.co/2026/06/19/aventon-e-bikes-yozma-in-10-dirt-bike-jackery-power-stations-segway-more/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Aventon-Yozma-Jackery-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1054,7 +1054,7 @@
     {
       "source": "Electrek",
       "title_original": "BMW can’t wait: i3 orders open months early as buyers rush in",
-      "title_zh": "宝马迫不及待：i3订单提前数月开放，买家蜂拥而至",
+      "title_zh": "宝马i3订单提前数月开放，买家蜂拥而至",
       "summary": "The new i3 is arriving sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
       "url": "https://electrek.co/2026/06/19/bmw-opens-i3-orders-months-early-demand-surges/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400",
@@ -1064,7 +1064,7 @@
     {
       "source": "Electrek",
       "title_original": "Jeep’s off-road EV goes on sale for $67,000, but its range is a bit disappointing",
-      "title_zh": "Jeep越野电动SUV售价6.7万美元，续航略显失望",
+      "title_zh": "Jeep越野电动车售价6.7万美元，续航令人失望",
       "summary": "Jeep’s first real off-road EV is finally here. The 2026 Jeep Recon EV is now on sale, starting at $67,000, but its driving range comes up a bit short of expectations.",
       "url": "https://electrek.co/2026/06/19/jeeps-off-road-ev-on-sale-for-67000-range-comes-up-short/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Jeep-Recon-EV-range.jpeg?quality=82&#038;strip=all&#038;w=1356",
@@ -1084,7 +1084,7 @@
     {
       "source": "Electrek",
       "title_original": "Maserati boosts Folgore EV range by up to 85 km in 2026 refresh",
-      "title_zh": "玛莎拉蒂2026年改款Folgore EV续航提升达85公里",
+      "title_zh": "玛莎拉蒂2026年改款Folgore EV续航提升85公里",
       "summary": "Maserati revealed updates to its Folgore electric lineup, with the GranTurismo Folgore now claiming over 540 km (335 miles) of WLTP range — an improvement of roughly 85 km over the previous version thanks to new energy management algorithms.\nThe range gains come as Maserati fights for relevance amid",
       "url": "https://electrek.co/2026/06/19/maserati-folgore-ev-range-improvement-2026-refresh/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/maserati-folgore-ev-lineup-2026.jpg?quality=82&#038;strip=all&#038;w=1200",
@@ -1094,7 +1094,7 @@
     {
       "source": "Electrek",
       "title_original": "Meet Honda’s new $25,000 electric hot hatch",
-      "title_zh": "本田新款2.5万美元电动掀背车亮相",
+      "title_zh": "本田推出2.5万美元电动掀背车",
       "summary": "Honda launched the Super-N, a “fun” electric hot hatch in the UK, starting at just $25,000.",
       "url": "https://electrek.co/2026/06/19/honda-launches-super-n-electric-hot-hatch-for-25000/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Honda-electric-hot-hatch-price.jpeg?quality=82&#038;strip=all&#038;w=1400",
@@ -1104,7 +1104,7 @@
     {
       "source": "Electrek",
       "title_original": "Portable power: new Mitsubishi eK Cross pairs 1500 W plug with sub-$12K price",
-      "title_zh": "便携电源：新款三菱eK Cross配1500瓦插座，售价不到1.2万美元",
+      "title_zh": "三菱eK Cross便携电源版：1500瓦插座，售价不到1.2万美元",
       "summary": "Mitsubishi’s Kei-class eK Cross gets a mild facelift for the 2027 model year that combines a body-color front fascia and updated interior tech to give it a fresh look – but the big news is a new 100 V AC power outlet that can draw up to 1500 Watts.",
       "url": "https://electrek.co/2026/06/19/portable-power-new-mitsubishi-ek-cross-pairs-1500-w-plug-with-sub-12k-price/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/backup_mitusbishi.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1114,7 +1114,7 @@
     {
       "source": "Electrek",
       "title_original": "Wheel-E Podcast: New Gazelle, Specialized e-bikes, Ukrainian e-motos, more",
-      "title_zh": "Wheel-E播客：新款Gazelle、Specialized电动自行车，乌克兰电动摩托车等",
+      "title_zh": "Wheel-E播客：新Gazelle、Specialized电动自行车、乌克兰电动摩托车等",
       "summary": "This week on Electrek’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bike models from several premium brands, Bosch gets into hub motors, Vinfast excels on two wheels, Ukraine dou",
       "url": "https://electrek.co/2026/06/19/wheel-e-podcast-new-gazelle-specialized-e-bikes-ukrainian-e-motos-more/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600",
@@ -1128,68 +1128,8 @@
       "summary": "In a major win for Latin American air quality, the new 750 mile Ruta-E electric truck corridor will connect Bogotá and Cartagena with charging infrastructure built to support the more than 1,000 commercial EVs set to hit Colombia’s roads by 2032.",
       "url": "https://electrek.co/2026/06/19/colombia-announces-750-mile-electric-truck-corridor-linking-bogota-to-cartagena/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/byd-truck_no-door-logo-web1-scaled-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "经济",
+      "category": "其他",
       "published_at": "2026-06-19T12:09:38+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Volvo just made public EV charging a lot less annoying",
-      "title_zh": "沃尔沃让公共电动车充电不再烦人",
-      "summary": "Volvo EX90 drivers in the US can now charge at public charging networks, including Superchargers and IONNA DC fast chargers, without opening an app or pulling out a credit card.",
-      "url": "https://electrek.co/2026/06/18/volvo-public-ev-charging-ex90-ex60/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Volvo-2026-EX90-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-06-18T22:46:06+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla HW3 claim grows to 7,000 owners, gets law firm backing for collective action",
-      "title_zh": "特斯拉HW3车主索赔增至7000人，获律所支持集体诉讼",
-      "summary": "The Dutch collective claim against Tesla over broken “Full Self-Driving” promises on Hardware 3 vehicles has reached nearly 7,000 verified participants and secured backing from law firm Kennedy Van der Laan for a formal legal action.\nThe initiative, which launched in April with 3,000 signups in its ",
-      "url": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/10/Tesla-Robotaxi-hero.png?w=1600",
-      "category": "AI",
-      "published_at": "2026-06-18T22:17:38+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Subaru announces 2027 Solterra EV prices remain under $40,000 after a major upgrade",
-      "title_zh": "斯巴鲁2027款Solterra EV大幅升级后售价仍低于4万美元",
-      "summary": "After a complete overhaul in 2026, the 2027 Subaru Solterra will go on sale at the same price, starting at under $40,000.",
-      "url": "https://electrek.co/2026/06/18/subaru-announces-2027-solterra-ev-prices-remain-under-40000/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/2027-Subaru-Solterra-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-06-18T21:00:28+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "California solar is crushing natural gas this year",
-      "title_zh": "今年加州太阳能发电量超越天然气",
-      "summary": "California’s utility-scale solar plants are generating more electricity than natural gas for most days of the year in 2026, according to new data from the US Energy Information Administration (EIA).",
-      "url": "https://electrek.co/2026/06/18/california-solar-is-crushing-natural-gas-this-year/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/08/arevon-eland-solar-plus-storage-drone-photo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "经济",
-      "published_at": "2026-06-18T20:14:39+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Honda and QuantumScape (QS) team up to make ‘game-changing’ solid-state batteries",
-      "title_zh": "本田与QuantumScape合作开发‘颠覆性’固态电池",
-      "summary": "Honda and QuantumScape (QS) announced a new partnership to commercialize solid-state batteries for EVs and more.",
-      "url": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Honda-Insight-35000-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "新能源汽车",
-      "published_at": "2026-06-18T18:10:44+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
-      "title_zh": "Heybike电动自行车最高优惠1000美元，Anker SOLIX电站限时闪购等",
-      "summary": "We’ve got a mix of our top four Green Deal categories included in this week’s Thursday edition, starting with Heybike’s Father’s Day Sale that is lasting through Prime Day week with up to $1,000 e-bike savings, like the Hero Carbon Fiber All-Terrain e-bikes (rear or mid-drive motors) at their lows f",
-      "url": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Heybike-Anker-SOLIX-Hiboy-EGO-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "3C数码",
-      "published_at": "2026-06-18T18:00:00+00:00"
     }
   ]
 }
