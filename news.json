@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-31T01:55:14.835865+00:00",
+  "updated_at": "2026-11-01T01:38:04.299084+00:00",
   "articles": [
+    {
+      "source": "BBC中文",
+      "title_original": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
+      "title_zh": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
+      "summary": "自2020年以來，泰國已有294人因涉嫌違反冒犯君主罪而被起訴，刑期最長達50年。",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T07:55:00+00:00"
+    },
     {
       "source": "BBC中文",
       "title_original": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
@@ -23,13 +33,33 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
-      "title_zh": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
-      "summary": "兩家分析公司已將事件歸咎於「TraderTraitor」。人工智能調查公司TRM Labs在一份報告中稱，幣安攻擊事件的多個要素與早前和朝鮮有關的事件相似，包括2025年Bybit交易所創紀錄的15億美元黑客攻擊。另一家加密分析公司Chainalysis也表示，「高度確信」該朝鮮組織與這次黑客攻擊有關。",
-      "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7b7/live/358b5900-d446-11f1-b441-2b33b063138f.jpg",
+      "title_original": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
+      "title_zh": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
+      "summary": "姆巴佩有關一名「中國領導人」的言論引發眾怒，但網絡審查令許多人仍不清楚事件究竟是怎麼回事。",
+      "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg",
       "category": "其他",
-      "published_at": "2026-10-30T09:56:31+00:00"
+      "published_at": "2026-10-30T00:23:04+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
+      "title_zh": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
+      "summary": "日本許多人會開始因為購買打折的「事故物件」（凶宅），他們稱毫不介意與幽靈同住。",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
+      "category": "其他",
+      "published_at": "2026-11-01T00:03:15+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "朝鮮「精英」黑客組織是誰？為何成為幣安63億美元盜竊案的頭號嫌疑者？",
+      "title_zh": "朝鮮「精英」黑客組織是誰？為何成為幣安63億美元盜竊案的頭號嫌疑者？",
+      "summary": "如果有關指控屬實，這宗破紀錄的盜竊案顯示，涉嫌來自朝鮮的黑客如今已擁有多麼強大的能力。",
+      "url": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T07:02:07+00:00"
     },
     {
       "source": "BBC中文",
@@ -40,16 +70,6 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg",
       "category": "其他",
       "published_at": "2026-10-30T03:52:26+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
-      "title_zh": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
-      "summary": "姆巴佩有關一名「中國領導人」的言論引發眾怒，但網絡審查令許多人仍不清楚事件究竟是怎麼回事。",
-      "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg",
-      "category": "其他",
-      "published_at": "2026-10-30T00:23:04+00:00"
     },
     {
       "source": "BBC中文",
@@ -93,46 +113,6 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
-      "title_zh": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
-      "summary": "自1948 年建國以來，該國一直由聯合政府執政，但下一屆政府是否會包括現任總理內塔尼亞胡？",
-      "url": "https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97af/live/979b5b40-d225-11f1-b8e4-17c9744a7f8e.jpg",
-      "category": "其他",
-      "published_at": "2026-10-29T07:36:21+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
-      "title_zh": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
-      "summary": "印中關係原本正處於謹慎的復甦階段，直到一位邊境官員的言論引發了人們對實際情況的新疑慮。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70ef/live/56e7aaf0-d1f2-11f1-b360-61fb5d34dc08.jpg",
-      "category": "其他",
-      "published_at": "2026-10-29T00:23:07+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
-      "title_zh": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
-      "summary": "因在節目中以「獨裁者」形容已故中國領導人毛澤東，法國足球明星基利安·姆巴佩（麥巴比）近日在中國引發爭議，多家中國大型品牌先後宣佈終止與其合作。姆巴佩發表道歉聲明也不被中國網民接納。",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e832/live/1cd37e80-d282-11f1-8e81-a194fdb2a7ba.jpg",
-      "category": "其他",
-      "published_at": "2026-10-28T05:27:37+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？",
-      "title_zh": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？",
-      "summary": "中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5997/live/fdfeb670-d293-11f1-a701-fddedf244c16.jpg",
-      "category": "其他",
-      "published_at": "2026-10-28T02:45:08+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "習近平之後，中國將走向何方？",
       "title_zh": "習近平之後，中國將走向何方？",
       "summary": "隨著習近平打破傳統任期慣例，未來的權力繼承路徑與接班陣容充滿變數。權力交接、接班人選，以及習近平未來角色的討論，正在成為中國政治最受關注、也最難回答的問題之一。習近平之後，中國會走向何方？",
@@ -140,6 +120,26 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2171/live/c80ebef0-d439-11f1-b441-2b33b063138f.jpg",
       "category": "其他",
       "published_at": "2026-10-30T09:28:01+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
+      "title_zh": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
+      "summary": "距離台灣「九合一」地方選舉不足一個月，在台北，中國國民黨籍現任市長蔣萬安將與台灣執政民進黨候選人沈伯洋出席首場電視辯論會。",
+      "url": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d942/live/48316f80-d52d-11f1-a701-fddedf244c16.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T13:20:00+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "台北市长辩论 蒋万安、沈伯洋交锋“双城论坛”议题",
+      "title_zh": "台北市长辩论 蒋万安、沈伯洋交锋“双城论坛”议题",
+      "summary": "台湾台北市长选举首场电视辩论会10月31日登场，争取连任的国民党籍市长蒋万安与民进党参选人沈伯洋首次正面交锋。台北上海“双城论坛”要不要办？在什么情况下办？連同其涉及的两岸与国家安全问题，也成为辩论焦点之一。这场辩论由台湾TVBS与三立两家电视台联合举办，分为政见申论、交叉诘问、媒体提问及结论四个阶段。辩论中双方绝大多数时间都针对都市更新、交通、育儿、教育、食安、儿虐及酒毒驾等市政议题展开攻防。直到交叉诘问期间，蒋万安列出沈伯洋过去多项发言，包括“双城论坛是渗透破口”、“中国飞弹打过来对我们有帮助”，以及普发新台币一万元涉及中共“穷台策略”等说法，要求沈伯洋说明立场。沈伯洋回应，其中多数属于中",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/10/31/taipei-mayor-election-debate/",
+      "image_url": "https://www.rfa.org/resizer/v2/KQQXXQU2GVCUJDUMMVBXQX6ESE.png?auth=ef1aaf89f26f2fd2fe6951d303acf427b44dc1d7709750b78b7323ef9f887ec0&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-10-31T08:39:58+00:00"
     },
     {
       "source": "自由亚洲",
@@ -182,134 +182,104 @@
       "published_at": "2026-10-29T06:25:42+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "美国清理孔子学院后继组织  由台湾填补华语教育空缺？",
-      "title_zh": "美国清理孔子学院后继组织  由台湾填补华语教育空缺？",
-      "summary": "美国戰爭部长赫格塞斯（Pete Hegseth）近日宣布，将孔子学院及其所称的“潜伏组织”列为国家安全威胁，并称美国戰爭部已针对30所大学内约80个相关组织采取行动。赫格塞斯10月23日在一段影片中表示，美国国会限制孔子学院后，部分组织改用不同名称及章程继续在大学校园运作。他指控这些组织试图窃取知识产权，并影响美国学生的思想。赫格塞斯形容，美国30所大学内出现约80个“宣传细胞”，戰爭部已在过去两个月内“系统性拆除”这些组织。不过，他在讲话中没有公布相关机构名称，也没有提出孔子学院涉及窃取知识产权的具体案例。美国戰爭部8月17日曾要求30所大学全面审查与外国机构的合作，包括与《国防授权法》第1",
-      "url": "https://rfa.org/mandarin/yataibaodao/2026/10/28/us-confucius-institutes/",
-      "image_url": "https://www.rfa.org/resizer/v2/VV3IV2LKB5DUJOYTRD33PLVCYE.jpg?auth=822ee2ec77e33f8ea3518dd49a10f557ef89913171d43c1fdbd7e1a5c82dec76&smart=true&width=1500",
+      "source": "The Verge",
+      "title_original": "Get in the spirit with these horrors from YouTube",
+      "title_zh": "Get in the spirit with these horrors from YouTube",
+      "summary": "\n\n\n\t\n\t\t\n\nRather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surr",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-28T10:57:37+00:00"
-    },
-    {
-      "source": "自由亚洲",
-      "title_original": "美太平洋陆军司令：“戴维森窗口”仍有意义  2027年是美军战备节点",
-      "title_zh": "美太平洋陆军司令：“戴维森窗口”仍有意义  2027年是美军战备节点",
-      "summary": "美国太平洋陆军司令罗纳德·克拉克（Gen. Ronald P. Clark）表示，中国可能在2027年前具备攻台能力的“戴维森窗口”仍然有意义，美军必须以这一时间点为目标完成战备。但美国情报部门今年的评估同时指出，北京目前没有在2027年攻打台湾的既定计划。夏威夷时间10月27日，克拉克在檀香山举行的2026年印太战区网路资讯大会（TechNet Indo-Pacific 2026）发表主题演说。据《星条旗报》报道，克拉克被问及“戴维森窗口”是否仍具参考意义时表示：“对美国太平洋陆军来说，答案是肯定的。”所谓“戴维森窗口”，源自时任美国印太司令部司令戴维森（Philip Davidson）20",
-      "url": "https://rfa.org/mandarin/yataibaodao/2026/10/28/davidson-window-taiwan-strait/",
-      "image_url": "https://www.rfa.org/resizer/v2/A5AV6AETLBCMPM54UZBIXTDJFI.jpg?auth=1a2dcd1a5153339c34e43d7466d998e12661c6b4e5b339ed92e20f4d944c3ac8&smart=true&width=1500",
-      "category": "其他",
-      "published_at": "2026-10-28T10:50:15+00:00"
-    },
-    {
-      "source": "自由亚洲",
-      "title_original": "姆巴佩称毛泽东独裁者  中国举国声讨",
-      "title_zh": "姆巴佩称毛泽东独裁者  中国举国声讨",
-      "summary": "10月26日，法国足球明星、皇家马德里前锋基利安·姆巴佩的一段访谈视频在中国网络流传。视频中，主持人问姆巴佩，哪张以他为主角的网络表情包最令他发笑。姆巴佩提到一张将自己的面孔与“中国历史人物”合成的图片，并使用“中国独裁者”的说法。这段视频来自法国足球访谈节目《The Bridge》。姆巴佩表示，自己与朋友在线玩游戏时经常使用这张图片。节目画面显示，合成图片涉及中国前领导人毛泽东，但姆巴佩没有直接说出毛泽东的名字。东鹏饮料证实撤下姆巴佩宣传内容据《The Bridge》节目方声明，这段视频于今年4月录制，本周在中国社交平台传播，引发中国舆论对姆巴佩的声讨和抵制。本周二（27日），东鹏饮料集团及",
-      "url": "https://rfa.org/mandarin/shehui/2026/10/28/china-mbappe-mao-zedong-football-patriotism/",
-      "image_url": "https://www.rfa.org/resizer/v2/HAJ5XMXECNAC5MJQLDCMRJ7DWQ.png?auth=f5d9870e017519cd5e6428f109962afd3f5ea22f0ad1c819797c15a62fcc1068&smart=true&width=1500",
-      "category": "其他",
-      "published_at": "2026-10-28T04:52:39+00:00"
+      "published_at": "2026-10-31T21:06:58+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "title_zh": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "summary": "\n\n\n\t\n\t\t\n\nApple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release schedu",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Keyboards of The Verge",
+      "title_zh": "Keyboards of The Verge",
+      "summary": "\n\n\n\t\n\t\t\n\nWhat is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyb",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T22:32:53+00:00"
+      "published_at": "2026-10-31T19:30:00+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Exclusive details about Akai’s MPC Sample Key",
-      "title_zh": "Exclusive details about Akai’s MPC Sample Key",
-      "summary": "\n\n\n\t\n\t\t\n\nAkai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "title_zh": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "summary": "\n\n\n\t\n\t\t\n\nAfter hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and t",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T21:01:32+00:00"
+      "published_at": "2026-10-31T18:40:32+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "title_zh": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "\n\n\n\t\n\t\t\n\nAsked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman sa",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Happy Pikmin Day Eve",
+      "title_zh": "Happy Pikmin Day Eve",
+      "summary": "\n\n\n\t\n\t\t\n\nThis morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T20:48:43+00:00"
+      "published_at": "2026-10-31T17:50:12+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "The biggest names in AI are backing a new way to opt out of scraping",
-      "title_zh": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "\n\n\n\t\n\t\t\n\nOpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "I built an AI Tamagotchi before Meta could",
+      "title_zh": "I built an AI Tamagotchi before Meta could",
+      "summary": "\n\n\n\t\n\t\t\n\nMark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $5",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
       "category": "其他",
-      "published_at": "2026-10-30T20:26:10+00:00"
+      "published_at": "2026-10-31T16:05:00+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "title_zh": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "summary": "\n\n\n\t\n\t\t\n\nGoogle's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "title_zh": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "summary": "\n\n\n\t\n\t\t\n\nThe latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. \nThe search improvements are quite comprehensive. You can ",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T18:21:38+00:00"
+      "published_at": "2026-10-31T15:12:19+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "title_zh": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "\n\n\n\t\n\t\t\n\nStarbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized d",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "title_zh": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "summary": "\n\n\n\t\n\tWe got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nWhile the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a ",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T17:38:04+00:00"
+      "published_at": "2026-10-31T15:00:00+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "The delightfully messy state of Apple gadgets",
-      "title_zh": "The delightfully messy state of Apple gadgets",
-      "summary": "\n\n\n\t\n\t\t\n\nThe iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try",
-      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Vic Mensa can’t live without the Voice Memos app",
+      "title_zh": "Vic Mensa can’t live without the Voice Memos app",
+      "summary": "\n\n\n\t\n\tNo lies detected. | Photo: Onda\t\n\nVic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his ho",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T17:25:20+00:00"
+      "published_at": "2026-10-31T15:00:00+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Rivian’s autonomy gamble faces its first real test",
-      "title_zh": "Rivian’s autonomy gamble faces its first real test",
-      "summary": "\n\n\n\t\n\tRivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images\t\n\nDuring an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about t",
-      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Touchscreens everywhere!",
+      "title_zh": "Touchscreens everywhere!",
+      "summary": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.)\nThis week, I was in the Smoky Mountains in Tennessee on a family vacatio",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T17:16:09+00:00"
+      "published_at": "2026-10-31T12:00:00+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "title_zh": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "summary": "\n\n\n\t\n\tWalmart’s inexpensive Vizio produces a nice, bright image, though its black levels aren’t that deep. | Photo: John Higgins / The Verge\t\n\nModern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent up",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "title_zh": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "summary": "\n\n\n\t\n\t\t\n\n\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\"\n\"Who's working to elect James Talarico? Marxists.\"\n\"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\"\n\"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a qui",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-10-30T17:01:07+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "title_zh": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "summary": "\n\n\n\t\n\t\t\n\nAs the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the y",
-      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-10-30T15:29:02+00:00"
+      "published_at": "2026-10-31T12:00:00+00:00"
     },
     {
       "source": "Ars Technica",
@@ -320,6 +290,126 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
       "category": "其他",
       "published_at": "2026-10-30T21:09:54+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "title_zh": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "image_url": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "title_zh": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "summary": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+      "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "image_url": "https://media.wired.com/photos/6ae4f146e0310df801ec3341/master/pass/My%20Favorite%20Affordable%20Smart%20String%20Lights%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "title_zh": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "summary": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+      "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "image_url": "https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Backup by Biolite Review: A Cool Idea",
+      "title_zh": "Backup by Biolite Review: A Cool Idea",
+      "summary": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+      "url": "https://www.wired.com/review/backup-by-biolite/",
+      "image_url": "https://media.wired.com/photos/6ae2c94850875d11b16a4a53/master/pass/Review%20Backup%20by%20BioLite%20102026%20top%20art%20SOURCE%20BioLite.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T10:33:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "title_zh": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "image_url": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T10:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "title_zh": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "image_url": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T10:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "title_zh": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+      "url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "image_url": "https://media.wired.com/photos/6ae4c869b2b1587e7c6da348/master/pass/Bose%20Headphone%20Deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T10:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "title_zh": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+      "url": "https://www.wired.com/review/keurig-alta-brewer/",
+      "image_url": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/master/pass/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T09:35:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "title_zh": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "summary": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+      "url": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+      "image_url": "https://media.wired.com/photos/6ae09b5cfd6437553a9fb6ee/master/pass/Qualia%20Eating%20Memory%20cr-Lisett%20Ledo%CC%81n-Lede.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T09:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "title_zh": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+      "url": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "image_url": "https://media.wired.com/photos/6ae4fa24ff45389e1b5f1706/master/pass/Sunrise%20Alarms%20102026%20top%20art%20SOURCE%20Hatch-Amazon.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T09:01:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "title_zh": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "summary": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+      "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "image_url": "https://media.wired.com/photos/6ae4f2b6964b916949bd5905/master/pass/2026-10-16T090008Z_1895378929_RC2IYNATEQ2X_RTRMADP_3_SPACE-STAR.jpg",
+      "category": "其他",
+      "published_at": "2026-10-31T09:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Wayfair Coupons: Up to 80% Off November 2026",
+      "title_zh": "Wayfair Coupons: Up to 80% Off November 2026",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "image_url": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "category": "其他",
+      "published_at": "2026-10-31T05:00:00+00:00"
     },
     {
       "source": "Wired",
@@ -402,124 +492,74 @@
       "published_at": "2026-10-30T11:00:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
-      "title_zh": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
-      "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
-      "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
-      "image_url": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
+      "source": "TechCrunch",
+      "title_original": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_zh": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:45:00+00:00"
+      "published_at": "2026-10-31T21:41:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "The Best Handheld Translators for Work and Travel (2026)",
-      "title_zh": "The Best Handheld Translators for Work and Travel (2026)",
-      "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
-      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
-      "image_url": "https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg",
+      "source": "TechCrunch",
+      "title_original": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title_zh": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:30:00+00:00"
+      "published_at": "2026-10-31T21:36:07+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Male Insecurity Over Penis Size Is a Booming Business",
-      "title_zh": "Male Insecurity Over Penis Size Is a Booming Business",
-      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
-      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-      "image_url": "https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg",
+      "source": "TechCrunch",
+      "title_original": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title_zh": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:30:00+00:00"
+      "published_at": "2026-10-31T21:17:03+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
-      "title_zh": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
-      "summary": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
-      "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
-      "image_url": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/master/pass/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
+      "source": "TechCrunch",
+      "title_original": "OpenAI reportedly lowers funding target for new round",
+      "title_zh": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:15:00+00:00"
+      "published_at": "2026-10-31T16:12:55+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Samsung S95H OLED TV Review (2026)",
-      "title_zh": "Samsung S95H OLED TV Review (2026)",
-      "summary": "It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.",
-      "url": "https://www.wired.com/review/samsung-s95h/",
-      "image_url": "https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
+      "source": "TechCrunch",
+      "title_original": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "title_zh": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:00:00+00:00"
+      "published_at": "2026-10-31T15:41:57+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
-      "title_zh": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
-      "summary": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
-      "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
-      "image_url": "https://media.wired.com/photos/6ae4b5c0d55a0e2bc0a8d62b/master/pass/GettyImages-567391969.jpg",
+      "source": "TechCrunch",
+      "title_original": "I took two iPhones on vacation. The Duo won me over.",
+      "title_zh": "I took two iPhones on vacation. The Duo won me over.",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T10:00:00+00:00"
+      "published_at": "2026-10-31T14:00:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "title_zh": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "url": "https://www.wired.com/story/gifts-for-friends/",
-      "image_url": "https://media.wired.com/photos/6ae3c65712651ae6c2d7998a/master/pass/Best%20Gifts%20for%20Friends%20102026%20top%20art%20SOURCE%20shop.com.jpg",
+      "source": "TechCrunch",
+      "title_original": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "title_zh": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "summary": "The money behind the money is thrilled, mostly.",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T09:33:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
-      "title_zh": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
-      "summary": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
-      "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
-      "image_url": "https://media.wired.com/photos/6ae2b955645fdd4f7481a1a0/master/pass/Leaf%20Blower%20Power+%20880%20CFM%20sale%20102026%20top%20art%20SOURCE%20Lowes.jpg",
-      "category": "其他",
-      "published_at": "2026-10-30T09:01:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
-      "title_zh": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
-      "summary": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
-      "url": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
-      "image_url": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/master/pass/102916-Iran%20War%20US.jpg",
-      "category": "其他",
-      "published_at": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "What to Know About China’s Top-Secret Spaceplane",
-      "title_zh": "What to Know About China’s Top-Secret Spaceplane",
-      "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "url": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "image_url": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg",
-      "category": "其他",
-      "published_at": "2026-10-29T20:45:36+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "title_zh": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "image_url": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/master/pass/GettyImages-2259602081.jpg",
-      "category": "其他",
-      "published_at": "2026-10-29T19:51:56+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "title_zh": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "image_url": "https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "category": "其他",
-      "published_at": "2026-10-29T19:41:36+00:00"
+      "published_at": "2026-10-31T04:16:50+00:00"
     },
     {
       "source": "TechCrunch",
@@ -652,384 +692,264 @@
       "published_at": "2026-10-30T16:03:45+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "title_zh": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "Bloomberg",
+      "title_original": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+      "title_zh": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+      "summary": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T14:00:25+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "title_zh": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T14:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "title_zh": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T13:54:25+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "title_zh": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "title_zh": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "title_zh": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T07:01:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "title_zh": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T01:20:48+00:00"
+      "published_at": "2026-11-01T00:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-      "title_zh": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-      "summary": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+      "title_original": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+      "title_zh": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+      "summary": "Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection board, as chief of Turkey’s market regulator to help deal with an investment fund crisis that rocked financial markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-29T22:07:56+00:00"
+      "published_at": "2026-10-31T21:50:23+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Chocolate Price Spook Families for Halloween",
-      "title_zh": "Chocolate Price Spook Families for Halloween",
-      "summary": "Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bl",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+      "title_original": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+      "title_zh": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+      "summary": "Secretary of State Marco Rubio defended the US decision to include Russia in this year’s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T22:21:45+00:00"
+      "published_at": "2026-10-31T20:41:04+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Crypto Hack Reignites Regulatory Debate",
-      "title_zh": "Crypto Hack Reignites Regulatory Debate",
-      "summary": "A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vulnerabilities at an individual firm rather than a failure of underlying blockchain technology. He is also calling for the",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+      "title_original": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
+      "title_zh": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
+      "summary": "Senegalese lawmakers have again rejected the government’s revised 2026 finance law, prolonging a standoff that threatens to delay approval of a crucial International Monetary Fund program.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T22:08:41+00:00"
+      "published_at": "2026-10-31T12:27:56+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
-      "title_zh": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
-      "summary": "Lonnie Ali, Muhammad Ali's wife & Executive Producer of The Greatest, joins Marc Rosen of Authentic Brands to discuss the first authorized scripted series to take a more intimate look at Muhammad Ali beyond his boxing career. The two speak with Romaine Bostick on \"The Close\" on October 29, 2026. (So",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+      "title_original": "Final Countdown to Midterm Elections, Tech Stocks Tank",
+      "title_zh": "Final Countdown to Midterm Elections, Tech Stocks Tank",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Medical Historian and “Sleuth-Hound” Author Lindsey Fitzharris, European Commission Vice-President and F",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T22:05:55+00:00"
+      "published_at": "2026-10-31T16:13:35+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Bloomberg Screentime: Streaming, AI & Creators",
-      "title_zh": "Bloomberg Screentime: Streaming, AI & Creators",
-      "summary": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+      "title_original": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "title_zh": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T22:05:47+00:00"
+      "published_at": "2026-10-31T15:22:56+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "PacSun CEO: Brands Mean a Lot to Young People Today",
-      "title_zh": "PacSun CEO: Brands Mean a Lot to Young People Today",
-      "summary": "Brieane Olson, CEO of PacSun, says that the retailer’s core customer is 16 to 24, while it is also tracking differences between Gen Z and Gen Alpha. Drawing on a PacSun Youth Report conducted with GlobalData and surveying 6,000 young people, Olson said mental health ranks as their top priority. She ",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+      "title_original": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+      "title_zh": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+      "summary": "With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T22:01:02+00:00"
+      "published_at": "2026-10-31T15:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "New Balance CEO Joe Preston on NYC Marathon Partnership",
-      "title_zh": "New Balance CEO Joe Preston on NYC Marathon Partnership",
-      "summary": "Joe Preston, New Balance President and CEO, discussed the company’s long-running partnership with the New York City Marathon, which he described as a key part of the brand. More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo, where",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
+      "title_original": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
+      "title_zh": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
+      "summary": "Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T21:59:01+00:00"
+      "published_at": "2026-10-31T14:11:01+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Ice Cube on Big3 League: In a Great Position To Scale",
-      "title_zh": "Ice Cube on Big3 League: In a Great Position To Scale",
-      "summary": "Ice Cube, CEO & Co-Founder of the Big3 basketball league, says audiences want more basketball in the summer and argues that the league has helped professionalize three-on-three play. He describes basketball as a globally beloved sport and say the league is well positioned to grow, noting that it is ",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
+      "title_original": "Stadiums Rethink the Women’s Restroom",
+      "title_zh": "Stadiums Rethink the Women’s Restroom",
+      "summary": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicati",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T21:55:31+00:00"
+      "published_at": "2026-10-31T13:48:28+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Burger King US President on Sales Turnaround",
-      "title_zh": "Burger King US President on Sales Turnaround",
-      "summary": "Burger King US and Canada President Tom Curtis discussed the chain’s comparable-sales growth, cited in the conversation as 8.4%, against an estimate of 6.2%. Curtis said growth is being driven largely by customers who had stopped visiting and are now returning, drawn by a renewed connection to the b",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+      "title_original": "Haunted Attractions Help Revive Neighborhoods",
+      "title_zh": "Haunted Attractions Help Revive Neighborhoods",
+      "summary": "Journalist Elizabeth Yuko tells Bloomberg This Weekend how haunted attractions are drawing visitors and investment to struggling neighborhoods, including Baltimore’s Old Town and former industrial districts in Kansas City and Salt Lake City. Speaking with hosts David Gura and Lisa Mateo, Yuko explai",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T21:51:18+00:00"
+      "published_at": "2026-10-31T13:34:43+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Investor Looks to Bid on Club Pilates-Owner Xponential",
-      "title_zh": "Investor Looks to Bid on Club Pilates-Owner Xponential",
-      "summary": "Fund 1 Investments LLC, the third-largest shareholder in Xponential Fitness Inc., the owner of Club Pilates and Pure Barre brands, said it’s pushing for a take-private and is looking to buy the company itself.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
+      "title_original": "EU Foreign Policy Chief Warns Against Normalizing Russia",
+      "title_zh": "EU Foreign Policy Chief Warns Against Normalizing Russia",
+      "summary": "EU foreign policy chief Kaja Kallas tells Bloomberg This Weekend that Russia is escalating its war in Ukraine and is not serious about peace, criticizing Russian Foreign Minister Sergei Lavrov’s statements at the G20 foreign ministers’ meeting in Atlanta and warning against normalizing Moscow on the",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T13:58:32+00:00"
+      "published_at": "2026-10-31T13:15:03+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Rich Steinmeier on a Career in Management",
-      "title_zh": "Rich Steinmeier on a Career in Management",
-      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice.\n (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
+      "title_original": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+      "title_zh": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+      "summary": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T21:21:38+00:00"
+      "published_at": "2026-10-31T13:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
-      "title_zh": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
-      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+      "title_original": "By The Way: Headlines You May Have Missed",
+      "title_zh": "By The Way: Headlines You May Have Missed",
+      "summary": "Spirit Halloween's best year, America's love for the giant skeleton decoration, the Cheesecake Factory says the look is the point, and Cheerios introducing a ziploc-sealed bag: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines you may have missed, but gotta see. (Source: Bloomb",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T21:14:16+00:00"
+      "published_at": "2026-10-31T12:50:53+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
-      "title_zh": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
-      "summary": "Brazilian authorities summoned Argentina’s top envoy in the country on Friday to explain President Javier Milei’s role in helping Flávio Bolsonaro flee Brazil following his election defeat.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+      "title_original": "Russia Extends Ban on Most Diesel Exports Through January",
+      "title_zh": "Russia Extends Ban on Most Diesel Exports Through January",
+      "summary": "Russia’s government has extended a general ban on diesel exports by producers until the end of January while still allowing some volumes to flow to the global market.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T20:59:39+00:00"
+      "published_at": "2026-10-31T12:13:37+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Wall Street Boom to Cut New York State Budget Deficit in Half",
-      "title_zh": "Wall Street Boom to Cut New York State Budget Deficit in Half",
-      "summary": "New York projected the budget deficit will narrow by $3.5 billion next year as the state expects a boom in trading and borrowing to deliver record profits to Wall Street and stronger bonus payments to boost revenue.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
+      "title_original": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
+      "title_zh": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
+      "summary": "As lawyers for Mercuria Energy Group presented the commodity giant’s case against the Baltic Exchange this week, a group of smartly dressed Norwegian businessmen listened intently to the arguments from the back of a packed London courtroom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T20:55:32+00:00"
+      "published_at": "2026-10-31T11:30:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
-      "title_zh": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
-      "summary": "In the span of three weeks, Brazilian hedge-fund managers went from celebrating some of their biggest gains in years to nursing steep losses and issuing mea culpas to their clients.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
+      "title_original": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+      "title_zh": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+      "summary": "Wall Street expects Democrats to win at least one of the houses of Congress in the US midterm elections on Tuesday, setting the stage for a potentially volatile ride in the stock and bond markets with artificial intelligence oversight, defense spending and crypto legislation on the table.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T14:29:42+00:00"
+      "published_at": "2026-10-30T11:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
-      "title_zh": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
-      "summary": "Hedge funds this week amassed the largest-ever short position on US natural gas on expectations that an unusually warm winter will slash demand for the furnace and power-plant fuel.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+      "title_original": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+      "title_zh": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+      "summary": "Angola, sub-Saharan Africa’s second-largest oil producer, plans to cut spending on fuel subsidies in 2027 without significant increases in pump prices, relying instead on other measures to reduce costs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-10-30T20:40:59+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
-      "title_zh": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
-      "summary": "Equity investors are meting out some of the harshest punishments ever for companies that miss expectations, just as strategists sound the alarm that earnings growth has likely peaked.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T12:30:02+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Latest Oil Market News and Analysis for Oct. 30",
-      "title_zh": "Latest Oil Market News and Analysis for Oct. 30",
-      "summary": "Oil climbed as traders gauged Washington’s appetite for renewed military escalation against Iran, adding fresh risk to supplies in the Middle East.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-29T22:02:17+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
-      "title_zh": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
-      "summary": "The deep selloff in technology stocks delivered a painful reckoning to those who remained all-in on the AI trade as the companies at the center of it tumbled, one after another, and investors rushed back to the defensive stocks they had swept out of vogue.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T20:30:15+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
-      "title_zh": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
-      "summary": "Bambusa Therapeutics Inc. shares slipped 6.3% in its trading debut after the early-stage biotech focused on dermatology and autoimmune diseases raised $168.9 million in a US initial public offering.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-10-30T15:37:00+00:00"
+      "published_at": "2026-10-31T09:39:45+00:00"
     },
     {
       "source": "FT",
-      "title_original": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-      "title_zh": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-      "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-      "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb0a4f7a-a03d-4737-ba5d-3eb711685c42.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "title_zh": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+      "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28148ebf-75f7-42b7-a37e-83a7f80efe78.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-31T00:05:08+00:00"
+      "published_at": "2026-10-31T14:00:02+00:00"
     },
     {
       "source": "FT",
-      "title_original": "US tech stocks tumble as concerns over AI spending intensify",
-      "title_zh": "US tech stocks tumble as concerns over AI spending intensify",
-      "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
-      "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d64a054-78be-4195-86f5-cac8dbf05b63.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Donald Trump’s endgame",
+      "title_zh": "Donald Trump’s endgame",
+      "summary": "What will the US president’s last two years in Washington look like?",
+      "url": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48f90755-588b-4fea-a73c-2fcc59740653.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T21:13:50+00:00"
+      "published_at": "2026-10-31T05:00:20+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "title_zh": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcdf503a6-24d6-4928-be14-84d1f7328774.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "title_zh": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+      "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb17b7ef8-bc15-4382-8c12-ca725df7b048.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T18:19:08+00:00"
+      "published_at": "2026-10-31T05:00:31+00:00"
     },
     {
       "source": "FT",
-      "title_original": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-      "title_zh": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-      "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-      "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F837e2bce-aec9-4d67-8c76-45f618d013a7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "The right to be apolitical",
+      "title_zh": "The right to be apolitical",
+      "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+      "url": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bca4a2e-bf59-4962-ba0b-105f8b898404.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T22:17:15+00:00"
+      "published_at": "2026-10-31T05:01:09+00:00"
     },
     {
       "source": "FT",
-      "title_original": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
-      "title_zh": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
-      "summary": "Voters want lower prices. The US president has other things on his mind, such as backsides and the Nobel Peace Prize",
-      "url": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3fcee617-7696-4c4c-8440-64e1c88e77f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Michigan feud threatens Democratic unity in key Senate race",
+      "title_zh": "Michigan feud threatens Democratic unity in key Senate race",
+      "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+      "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85283dea-7aac-46cc-afdc-a2efb2b4f81c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T05:00:13+00:00"
+      "published_at": "2026-10-31T23:57:07+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
-      "title_zh": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
-      "summary": "Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way",
-      "url": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4bf1f53f-e788-47c2-9803-e176f34420a7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+      "title_zh": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+      "summary": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
+      "url": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89de0225-18ff-4b1a-a4b0-092d67040323.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T16:37:08+00:00"
+      "published_at": "2026-10-31T12:00:01+00:00"
     },
     {
       "source": "FT",
-      "title_original": "How North Korea became a hacking superpower",
-      "title_zh": "How North Korea became a hacking superpower",
-      "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-      "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4f68b7ce-f6f0-4a0d-865e-a670900e3a80.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+      "title_zh": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+      "summary": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
+      "url": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52baab06-101d-46d2-a4a5-704069d34fc2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T11:20:19+00:00"
+      "published_at": "2026-10-31T13:38:29+00:00"
     },
     {
       "source": "FT",
-      "title_original": "CD&R pursues buyout of $40bn card processor Global Payments",
-      "title_zh": "CD&R pursues buyout of $40bn card processor Global Payments",
-      "summary": "Deal for US company would rank among largest buyouts in history",
-      "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd97f9232-3443-46bd-97cf-abfee9c52ca3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Tusk vows to press on with overhaul of Poland’s judiciary",
+      "title_zh": "Tusk vows to press on with overhaul of Poland’s judiciary",
+      "summary": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
+      "url": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff01bab3e-5314-40e7-9e04-8e214738691b.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T17:10:22+00:00"
+      "published_at": "2026-10-31T22:51:11+00:00"
     },
     {
       "source": "FT",
-      "title_original": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
-      "title_zh": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
-      "summary": "Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as  relations deteriorated between the countries",
-      "url": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3d6efac-6d4a-4dd1-aa6b-cb3649706a07.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
+      "title_zh": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
+      "summary": "Archion chief says repair network offers competitive strength  after Thai floods bring service quality to fore",
+      "url": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13149cf2-e9bc-4a3c-a6f8-6531ebb78ebc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-10-30T21:28:58+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Russia observes rare Ukraine ceasefire to allow evacuations",
-      "title_zh": "Russia observes rare Ukraine ceasefire to allow evacuations",
-      "summary": "Hundreds of residents from Russian-occupied Oleshky to be repatriated to Ukraine via Russia and Belarus",
-      "url": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa78f5e19-46d3-4bad-9dfd-e08e1d945f68.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-10-30T16:13:29+00:00"
-    },
-    {
-      "source": "FT",
-      "title_original": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
-      "title_zh": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
-      "summary": "Co-managing partner decided in August not to take over as law firm’s chair",
-      "url": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F430dc992-cdc8-4694-9c95-f2a3c291478b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "category": "其他",
-      "published_at": "2026-10-30T12:42:57+00:00"
+      "published_at": "2026-11-01T01:00:06+00:00"
     },
     {
       "source": "Electrek",
