@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-08T01:56:37.536387+00:00",
+  "updated_at": "2026-11-09T02:12:32.872545+00:00",
   "articles": [
+    {
+      "source": "BBC中文",
+      "title_original": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "title_zh": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+      "category": "其他",
+      "published_at": "2026-11-09T01:37:14+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "銷量急挫，Labubu熱潮正在退燒嗎？",
+      "title_zh": "銷量急挫，Labubu熱潮正在退燒嗎？",
+      "summary": "隨著人們對這些收藏玩具的興趣減弱，其母公司泡泡瑪特（Pop Mart）的收入也隨之下降。",
+      "url": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T07:35:18+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "title_zh": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "summary": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。",
+      "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png",
+      "category": "其他",
+      "published_at": "2026-11-09T00:20:25+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "title_zh": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "summary": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
+      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d77/live/6acdd880-db5e-11f1-b441-2b33b063138f.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:31:39+00:00"
+    },
     {
       "source": "BBC中文",
       "title_original": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
@@ -10,6 +50,36 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f64c/live/aa7ca7c0-b8ba-11f1-b6e4-571e60ca6955.jpg",
       "category": "其他",
       "published_at": "2026-11-06T10:21:19+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
+      "title_zh": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
+      "summary": "市場正對美國期中選舉後可能加強審查數據中心建設及人工智慧產業的前景作出反應。",
+      "url": "https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "category": "其他",
+      "published_at": "2026-11-06T05:19:09+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
+      "title_zh": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
+      "summary": "匈牙利正將其完整的國家安全紀錄檔案庫上載至網上，這些檔案可能揭示在1989年前長達40年的共產主義統治期間，誰曾監視鄰居、同事、朋友和親屬。",
+      "url": "https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57da/live/1d6c20c0-d77f-11f1-a391-ad4d37bef273.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T13:42:01+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
+      "title_zh": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
+      "summary": "這位前脫歐談判代表表示，歐盟國家將拒絕英國任何「單點」選擇遵守經濟規則的企圖。",
+      "url": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:03:03+00:00"
     },
     {
       "source": "BBC中文",
@@ -33,56 +103,6 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
-      "title_zh": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
-      "summary": "香港民主派活動人士黃之鋒原有望於數月內獲釋，但最新的10年判刑使他要繼續服刑到2036年，出獄時或已年屆40歲。法律學者分析，案件反映《香港國安法》或可被「反覆動用」，令特定政治犯持續留在獄中。",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d27/live/882ecf10-d848-11f1-b870-55415e6a9944.jpg",
-      "category": "其他",
-      "published_at": "2026-11-05T16:26:38+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
-      "title_zh": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
-      "summary": "最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的定性並不相同。",
-      "url": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/744d/live/a1131d00-d8e9-11f1-8a29-751f921d505b.jpg",
-      "category": "其他",
-      "published_at": "2026-11-06T00:21:23+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
-      "title_zh": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
-      "summary": "市場正對美國期中選舉後可能加強審查數據中心建設及人工智慧產業的前景作出反應。",
-      "url": "https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "category": "其他",
-      "published_at": "2026-11-06T05:19:09+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-      "title_zh": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-      "summary": "一些共和黨人告訴BBC，特朗普只顧自己的政治遺產，漠視選民關注的問題，令共和黨付出了代價。",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
-      "category": "其他",
-      "published_at": "2026-11-05T02:36:32+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "歐洲航空業虛假炸彈威脅：誰是幕後黑手？",
-      "title_zh": "歐洲航空業虛假炸彈威脅：誰是幕後黑手？",
-      "summary": "其中一條線索，是羅馬機場當局收到的一封恐嚇電郵，寄件者自稱是「男性國家戰士」（Fighters of the Male State）。",
-      "url": "https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
-      "category": "其他",
-      "published_at": "2026-11-06T11:14:01+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
       "title_zh": "塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
       "summary": "塞爾維亞公共廣播機構於武契奇敗選後直播道歉，承認多年偏頗報導、視而不見。新聞室內部不滿累積十年，編輯與高層請辭，反對派聲音開始出現，但分析指此舉象徵意義大於結構性改革。",
@@ -103,16 +123,6 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-      "title_zh": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-      "summary": "程萬軍隨後在網上發布影片，指控台灣執法人員在遣返過程中使用暴力。移民署則稱，他在登機時激烈抗拒並有自傷行為，執法人員為維護飛航安全採取必要措施。BBC中文無法獨立核實雙方的說法。",
-      "url": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3261/live/8be2d1f0-d8ee-11f1-8a7f-8f03d11e3e4f.jpg",
-      "category": "其他",
-      "published_at": "2026-11-05T08:26:48+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "政治人物「大改造」？從台灣「九合一」選舉看候選人「形象工程」",
       "title_zh": "政治人物「大改造」？從台灣「九合一」選舉看候選人「形象工程」",
       "summary": "在現代選舉中，形象經營已是不可或缺的一環。隨台灣「九合一」地方選舉將登場，台北市長候選人沈伯洋與蔣萬安的個人形象與公眾人設，也成為選戰攻防話題。",
@@ -120,6 +130,16 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7bb/live/8dd61df0-d9d4-11f1-a701-fddedf244c16.jpg",
       "category": "其他",
       "published_at": "2026-11-06T11:24:32+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "波蘭克拉科夫「極右翼」槍擊案致六人死亡",
+      "title_zh": "波蘭克拉科夫「極右翼」槍擊案致六人死亡",
+      "summary": "一名據信受極右翼意識形態啟發的槍手在波蘭第二大城市克拉科夫（Krakow）繁忙的市中心發動襲擊，造成六人死亡、十多人受傷。",
+      "url": "https://www.bbc.com/zhongwen/watch/c8p3gvxdygvzo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a7e/live/53f46df0-db3a-11f1-a701-fddedf244c16.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T06:43:11+00:00"
     },
     {
       "source": "BBC中文",
@@ -132,14 +152,24 @@
       "published_at": "2026-11-06T14:58:15+00:00"
     },
     {
-      "source": "BBC中文",
-      "title_original": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
-      "title_zh": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
-      "summary": "上個月剛滿30歲的黃之鋒，自2020年底起因不同案件入獄，至今身在獄中超過六年。",
-      "url": "https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94ca/live/0cb811a0-d98a-11f1-b441-2b33b063138f.jpg",
+      "source": "自由亚洲",
+      "title_original": "台北市长选举热战  查核组织揭AI深伪影片",
+      "title_zh": "台北市长选举热战  查核组织揭AI深伪影片",
+      "summary": "台湾地方选举将于11月28日投票，台北市长蓝、绿两强选情格外胶着。在此同时，台湾社群网络上传出民进党提名的候选人沈伯洋疑似吸毒的影片，而经过台湾专业查核组织鉴识后确认这是一部以人工智慧（AI，美国官方称SI，”超级智慧”）”深伪”技术造假的影片。这部影片长约23秒，其中一名男子貌似沈伯洋，他口吐白烟，神情恍惚，精神萎靡。有帐号传播这则影片时附带发文称「以前吸毒的影片被找出来了」，暗指沈伯洋过去曾经吸毒，且拍摄了这部影片。台湾事实查核机构”数位素养实验室”（Fact Link）查证后发表报告，揭发这部影片是以深伪技术制造的假影片。Fact Link调查主任马丽昕接受自由亚州电台访问时说，最初看这",
+      "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/11/08/taiwan-election-shen/",
+      "image_url": "https://www.rfa.org/resizer/v2/4PEA57L35ZD23GS5MFPBZR6TRA.jpg?auth=d3ebd499064b054779467806718cc67b2d81bd7ddd7f9e690c8aaadeeb75de13&smart=true&width=1500",
       "category": "其他",
-      "published_at": "2026-11-06T02:29:11+00:00"
+      "published_at": "2026-11-08T09:38:48+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
+      "title_zh": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
+      "summary": "美国中期选举之后，亚太经合组织（APEC）领导人非正式会议将于本月18日至19日在深圳举行，美国总统特朗普预计与中国国家主席习近平在会议期间举行今年第三次会面。北京一位外贸部门人士向本台透露，中方酝酿的五项贸易诉求涉及关税、农产品采购、先进芯片及设备出口限制、中国企业赴美投资，以及跨境合规与多边规则。其中，中方要求美方取消全部对华加征关税，落实农产品贸易便利化及关税减让安排，放宽先进芯片出口限制，并为中国企业赴美投资提供非歧视的营商环境。北京拟要求取消对华加征关税另一位不愿公开身份和职务的人士说：“中方将要求美方彻底取消全部对华加征关税，还会提出以市场化原则积极扩大自美农产品进口，但前提是美方",
+      "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/08/us-china-trade-trump-xi-jinping-trump-xi-meeting-trade-war-tariffs/",
+      "image_url": "https://www.rfa.org/resizer/v2/N7FKAUSSUJF2PEVRFEZURWLORE.jpg?auth=20b99a12853cdc6ac8e078089dd53da0f92445617ad9496054be5d9684469473&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-08T07:08:14+00:00"
     },
     {
       "source": "自由亚洲",
@@ -160,16 +190,6 @@
       "image_url": "https://www.rfa.org/resizer/v2/PX2GBSRSIZHXNJSHHYMILWOGP4.jpg?auth=6ced057c616ef04f3488e79ef09712ecf37e3e83d2cc5f0dcd51658500ce89bd&smart=true&width=1500",
       "category": "其他",
       "published_at": "2026-11-07T06:58:13+00:00"
-    },
-    {
-      "source": "自由亚洲",
-      "title_original": "AI竞赛，谁敢先踩刹车？",
-      "title_zh": "AI竞赛，谁敢先踩刹车？",
-      "summary": "“美国一定会赢得这场竞赛。”美国总统唐纳德·特朗普在2025年7月23日的人工智能峰会上宣称，“因为我们绝不允许任何外国击败我们。”同一天，白宫发布《美国AI行动计划》，把“赢得AI竞赛”写进标题。一个月后，中国国务院发布“人工智能+”意见，提出推动AI进入产业、消费、民生和治理等领域，同时强调安全能力建设与全球治理合作。美中都在加快发展AI，减速的呼声却也从行业内部传出。2026年9月，Claude开发商Anthropic首席执行官达里奥·阿莫迪（Dario Amodei）发文，主张放慢最前沿AI能力提升的速度，让安全措施有时间跟上。但他同时强调，协调减速应当保住美国及其盟友的领先优势。如果",
-      "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/07/ai-race-who-dares-to-slow-down/",
-      "image_url": "https://www.rfa.org/resizer/v2/FKMK3TNN2BGOHDUCQJHA3B3BCM.png?auth=cdb44b7efc9f0de80353b7e7b8fe5171464534c0cd12721c0cb8a4cf2908c307&smart=true&width=1500",
-      "category": "其他",
-      "published_at": "2026-11-07T01:32:22+00:00"
     },
     {
       "source": "自由亚洲",
@@ -202,24 +222,94 @@
       "published_at": "2026-11-06T05:13:27+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "美国中期选举国会易手　对华政策面临新博弈",
-      "title_zh": "美国中期选举国会易手　对华政策面临新博弈",
-      "summary": "民主党在本周二（3日）的美国中期选举中赢得参众两院控制权，共和党失去同时掌握白宫与国会的优势。关注美国中期选举的中国独立学者丁先生本周四（5日）接受本台采访时说，共和党此次选举失利引起广泛关注，但美国对华政策未必因此发生明显变化。他说：“在对华政策上，我觉得倒不会有什么变化，因为民主党和共和党在很多方面的议题上是高度一致的。他们目前在欧洲、俄乌战争和国内问题上，才有最大的分歧，但恰恰在对华政策上，往往表现出高度一致。”中国外交部发言人毛宁本周三（4日）在新闻发布会上回应美国中期选举时表示，这是美国内政。她同时表示，中方愿继续同美方落实两国元首共识，加强沟通、处理分歧并拓展合作。中国网民关注选举",
-      "url": "https://rfa.org/mandarin/shehui/2026/11/05/zhongguo-meiguo-zhongqi-xuanju-guohui-zhong-mei-guanxi-dui-hua-zhengce-22-china-us-midterm-elections-congress-us-china-relations-policy-toward-china/",
-      "image_url": "https://www.rfa.org/resizer/v2/CGQ6MSKFCZCZ7MOXL3FNTP5HLQ.JPG?auth=9a2c4324efe2a7306ae0de5426a46383e560fae69b9adbd51409649dfebffdc0&smart=true&width=1500",
+      "source": "The Verge",
+      "title_original": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "title_zh": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "\n\n\n\t\n\tJensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-05T08:18:31+00:00"
+      "published_at": "2026-11-08T22:54:50+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "黄之锋再遭判囚10年 预计2036年前后获释",
-      "title_zh": "黄之锋再遭判囚10年 预计2036年前后获释",
-      "summary": "香港民主运动人士黄之锋周四（11月5日）被香港高等法院以“串谋勾结外国或者境外势力危害国家安全罪”，判处监禁10年。法官裁定案件属于《港区国安法》所称的“罪行重大”，以13年为量刑起点，再因黄之锋认罪减至10年。黄之锋目前正在就民主派“47人初选案”服刑。新判刑期中，只有两个月零两日与原有刑期同时执行，其余刑期将接续执行。他原定于2027年1月服毕初选案刑期，按照目前判决推算，可能要到2036年前后才获释，确切日期仍须视香港惩教署计算及减刑安排而定。前述計算意味著1996年出生，現年30歲的黃之鋒，即使不再遭港府追訴其它案件，也要到40歲左右才能重獲自由。-(RFA根據媒體報道整理)法官称黄之",
-      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/05/hongkong-wong-chifung-/",
-      "image_url": "https://www.rfa.org/resizer/v2/2M2QLDAKGBHRZA2XPQEES5ETQU.jpg?auth=85ae381501858a3c5a19cb176cb744a1c6ad1f2fa4a4d0d16deb06247f2186b9&smart=true&width=1500",
+      "source": "The Verge",
+      "title_original": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "title_zh": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "summary": "\n\n\n\t\n\t\t\n\nSoul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.\n\"Gold Chain ",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-05T07:03:31+00:00"
+      "published_at": "2026-11-08T22:37:22+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Epic Games Launcher is coming to SteamOS",
+      "title_zh": "Epic Games Launcher is coming to SteamOS",
+      "summary": "\n\n\n\t\n\t\t\n\nIn October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS ",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T20:52:05+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "title_zh": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "\n\n\n\t\n\t\t\n\nNvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\n\nThe NVIDIA",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T20:22:39+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Apple is racing to make Siri more agentic",
+      "title_zh": "Apple is racing to make Siri more agentic",
+      "summary": "\n\n\n\t\n\t\t\n\nBloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T19:18:19+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Elvis and Eminem rights holders are suing Suno",
+      "title_zh": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "\n\n\n\t\n\t\t\n\nSuno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit cl",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T17:23:19+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "title_zh": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "summary": "\n\n\n\t\n\tA top-down view of the 15-inch MacBook Air, which features Apple’s M5 processor. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increas",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T16:00:00+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "Chatbots might be coming to Apple’s HomeView",
+      "title_zh": "Chatbots might be coming to Apple’s HomeView",
+      "summary": "\n\n\n\t\n\t\t\n\nCode in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Cla",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T15:00:30+00:00"
+    },
+    {
+      "source": "The Verge",
+      "title_original": "There’s no slowing down media’s pivot-to-video 2.0",
+      "title_zh": "There’s no slowing down media’s pivot-to-video 2.0",
+      "summary": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it starte",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "其他",
+      "published_at": "2026-11-08T13:00:00+00:00"
     },
     {
       "source": "The Verge",
@@ -232,96 +322,6 @@
       "published_at": "2026-11-07T17:00:00+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "title_zh": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "summary": "\n\n\n\t\n\tThe Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo\t\n\nWhile some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T16:00:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "title_zh": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "summary": "\n\n\n\t\n\t\t\n\nTwenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T16:00:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "title_zh": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "\n\n\n\t\n\tThe NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan m",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T15:50:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "The US let Nvidia sell chips to an empty office in China",
-      "title_zh": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "\n\n\n\t\n\t\t\n\nConcerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are emp",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T15:43:45+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "AI broke the cybersecurity world. What’s next?",
-      "title_zh": "AI broke the cybersecurity world. What’s next?",
-      "summary": "\n\n\n\t\n\t\t\n\nToday, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\n\nThis episode is part one of a special series looking at AI in real life.\n\nI’ve always enjoyed talking to Alex because he’s so direct, an",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T15:00:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Good riddance, Cybertruck!",
-      "title_zh": "Good riddance, Cybertruck!",
-      "summary": "\n\n\n\t\n\t\t\n\nI'm calling it: time of death, November 6th, 1:30 AM, by tweet. \nElon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle ",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T14:40:06+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Zelda is back and better than ever",
-      "title_zh": "Zelda is back and better than ever",
-      "summary": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been readin",
-      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T13:49:01+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "title_zh": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "\n\n\n\t\n\tAnthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "title_zh": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "\n\n\n\t\n\t\t\n\nOpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising  $122 billion from investors in March at a valuation of $852 billion.\nEchoing F",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-06T23:46:18+00:00"
-    },
-    {
       "source": "Ars Technica",
       "title_original": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "title_zh": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -332,14 +332,84 @@
       "published_at": "2026-11-06T20:56:41+00:00"
     },
     {
-      "source": "Ars Technica",
-      "title_original": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "title_zh": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "summary": "Devices running some configurations of Alpine Linux, and possibly other distributions, are affected by a decade-old vulnerability that allows attackers to log into devices with no password.\nThe vulnerability exists in the interaction between OpenSSH, the code library implementing SSH connections, an",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+      "source": "Wired",
+      "title_original": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "title_zh": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "image_url": "https://media.wired.com/photos/6aea49805aac4b5e71c0c066/master/pass/Best%20Computer%20Speakers%20112026%20top%20art%20SOURCE%20Amazon.jpg",
       "category": "其他",
-      "published_at": "2026-11-05T23:09:36+00:00"
+      "published_at": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "title_zh": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "image_url": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "title_zh": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "summary": "More evidence that magnets are magical.",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "image_url": "https://media.wired.com/photos/6aee3d12f8a94dfe58ce6d81/master/pass/SM_MagneticCameraStrap30mm_WANDRD%20SOURCE%20Wandrd.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T11:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "title_zh": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "image_url": "https://media.wired.com/photos/6aee6acf106dc5c6dc0c08d0/master/pass/gear-remind-boss-work-pto.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T11:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "title_zh": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "image_url": "https://media.wired.com/photos/6aece579f9b9f1f7ef48cd46/master/pass/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:30:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "title_zh": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "image_url": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "title_zh": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "title_zh": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "image_url": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+      "category": "其他",
+      "published_at": "2026-11-08T10:00:00+00:00"
     },
     {
       "source": "Wired",
@@ -413,21 +483,21 @@
     },
     {
       "source": "Wired",
-      "title_original": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "title_zh": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-      "image_url": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
-      "category": "其他",
-      "published_at": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "source": "Wired",
       "title_original": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
       "title_zh": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
       "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
       "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
       "image_url": "https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg",
+      "category": "其他",
+      "published_at": "2026-11-07T11:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "title_zh": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "image_url": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
       "category": "其他",
       "published_at": "2026-11-07T11:00:00+00:00"
     },
@@ -462,84 +532,94 @@
       "published_at": "2026-11-06T22:31:15+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "How Stephen Miller Schemed His Way to the Top",
-      "title_zh": "How Stephen Miller Schemed His Way to the Top",
-      "summary": "The architect of the Trump administration’s brutal crackdowns on immigration and dissent was already known as “the prime minister.” Now he’ll work as the chief of staff.",
-      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
-      "image_url": "https://media.wired.com/photos/6aee33acd48df2adb8635683/master/pass/GettyImages-2289377528.jpg",
+      "source": "TechCrunch",
+      "title_original": "Apps to distract you from the endless cycle of doomscrolling",
+      "title_zh": "Apps to distract you from the endless cycle of doomscrolling",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T21:10:02+00:00"
+      "published_at": "2026-11-08T22:00:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
-      "title_zh": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
-      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
-      "url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
-      "image_url": "https://media.wired.com/photos/6aed0761375da0f92ae1f348/master/pass/Rocco%E2%80%99s-Biggest-Sale-of-the-Year-Is-Here-for-Black-Friday.jpg",
+      "source": "TechCrunch",
+      "title_original": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "title_zh": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T18:54:21+00:00"
+      "published_at": "2026-11-08T21:00:11+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-      "title_zh": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
-      "image_url": "https://media.wired.com/photos/6ae49deb5cf673ee98624b17/master/pass/Deal%20Post%20Early%20BFCM%20Mattress%20deals%20102026%20top%20art%20SOURCE%20Helix.jpg",
+      "source": "TechCrunch",
+      "title_original": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "title_zh": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T18:51:27+00:00"
+      "published_at": "2026-11-08T21:00:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "title_zh": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "image_url": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
+      "source": "TechCrunch",
+      "title_original": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "title_zh": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T18:43:43+00:00"
+      "published_at": "2026-11-08T20:30:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "title_zh": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "image_url": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
+      "source": "TechCrunch",
+      "title_original": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "title_zh": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T16:00:00+00:00"
+      "published_at": "2026-11-08T19:51:30+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
-      "title_zh": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
-      "summary": "The decision to halt production of Tesla’s polarizing polygonal pickup marks the end of an error.",
-      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-      "image_url": "https://media.wired.com/photos/6aede0c1a88069e85ad40ac8/master/pass/GettyImages-2199394161.jpg",
+      "source": "TechCrunch",
+      "title_original": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "title_zh": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "summary": "SNL seems to have its knives out for tech executives.",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T14:20:59+00:00"
+      "published_at": "2026-11-08T18:00:04+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "title_zh": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
-      "url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-      "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/master/pass/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
+      "source": "TechCrunch",
+      "title_original": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "title_zh": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T12:05:00+00:00"
+      "published_at": "2026-11-08T17:30:00+00:00"
     },
     {
-      "source": "Wired",
-      "title_original": "Horny Grandmas Are Having a Moment",
-      "title_zh": "Horny Grandmas Are Having a Moment",
-      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
-      "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
-      "image_url": "https://media.wired.com/photos/6aecc120526de281f1d52128/master/pass/Culture_The%20Octogenarians%20Joining%20OnlyFans%20to%20Fund%20Retirement_v1.jpg",
+      "source": "TechCrunch",
+      "title_original": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "title_zh": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T12:00:00+00:00"
+      "published_at": "2026-11-08T17:02:00+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "title_zh": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-08T15:00:00+00:00"
     },
     {
       "source": "TechCrunch",
@@ -652,374 +732,344 @@
       "published_at": "2026-11-06T18:44:38+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "title_zh": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "Bloomberg",
+      "title_original": "Asian Stocks Follow US Gains, Nvidia Probe Looms: Markets Wrap",
+      "title_zh": "Asian Stocks Follow US Gains, Nvidia Probe Looms: Markets Wrap",
+      "summary": "Asian stocks rose following Friday’s recovery in US equities, though gains were tempered by concern over an investigation involving Nvidia Corp.’s chief executive officer Jensen Huang.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-06T18:44:20+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "After the midterms, is the AI industry in for a rough two years?",
-      "title_zh": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T17:23:52+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "title_zh": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T16:50:01+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Fox completes its $22B acquisition of Roku",
-      "title_zh": "Fox completes its $22B acquisition of Roku",
-      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T16:05:36+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "title_zh": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T15:54:47+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "title_zh": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T14:10:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Underdog shows off a 32MB speech model in new demo",
-      "title_zh": "Underdog shows off a 32MB speech model in new demo",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T13:02:16+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Physicl raises $10M to make the digital world real enough for robots",
-      "title_zh": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T13:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Tesla will stop making the Cybertruck in 2027",
-      "title_zh": "Tesla will stop making the Cybertruck in 2027",
-      "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-06T11:50:10+00:00"
+      "published_at": "2026-11-08T22:20:51+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-      "title_zh": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-      "summary": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "title_original": "Berkshire Plans First Japan Bond Offering Since April",
+      "title_zh": "Berkshire Plans First Japan Bond Offering Since April",
+      "summary": "Berkshire Hathaway Inc. has hired banks for its first yen bond sale since April as it prepares to raise more funds in Japan.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-08T00:00:00+00:00"
+      "published_at": "2026-11-09T01:04:30+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-      "title_zh": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-      "summary": "Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+      "title_original": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+      "title_zh": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+      "summary": "Gold rose, erasing Friday’s decline, as oil extended a fall and an investigation into Nvidia Corp.’s chief executive officer weighed on technology stocks.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T23:54:25+00:00"
+      "published_at": "2026-11-08T23:40:10+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
-      "title_zh": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
-      "summary": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+      "title_original": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
+      "title_zh": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
+      "summary": "India’s shorter bonds will likely resume their underperformance against longer peers as tightening liquidity and monetary conditions rein in appetite for the rate-sensitive notes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T20:00:00+00:00"
+      "published_at": "2026-11-09T01:30:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Top Turkish Regulators Taken Into Custody in Fund Probe",
-      "title_zh": "Top Turkish Regulators Taken Into Custody in Fund Probe",
-      "summary": "Turkish authorities detained top officials from the country’s regulators on Saturday, local media reported, the latest executives to be caught up in a widening fund scandal.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+      "title_original": "Lula Vows Fiscal Responsibility in First Address Since Election",
+      "title_zh": "Lula Vows Fiscal Responsibility in First Address Since Election",
+      "summary": "President Luiz Inácio Lula da Silva pledged to preserve Brazil’s public finances without abandoning social programs in his first televised address since winning a fourth term, as he sought to reassure investors.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T13:56:55+00:00"
+      "published_at": "2026-11-09T01:09:48+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "New Chief of Staff, Chain Reaction Tech Selloff",
-      "title_zh": "New Chief of Staff, Chain Reaction Tech Selloff",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Yorkville Ives & Co. Partner & Senior Managing Director Dan Ives, Rutgers-Eagleton Center for Publi",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 9",
+      "title_zh": "Latest Oil Market News and Analysis for Nov. 9",
+      "summary": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T17:14:41+00:00"
+      "published_at": "2026-11-08T23:03:27+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "title_zh": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "title_original": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
+      "title_zh": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
+      "summary": "Less than six months ago, China’s central bank made its biggest push yet to tackle inflated credit ratings in the nation’s $5.6 trillion corporate debt market. Now it has a live test case.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T15:59:54+00:00"
+      "published_at": "2026-11-08T23:52:21+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-      "title_zh": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-      "summary": "Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company’s executives viewed the stock as undervalued. But declining insurance underwriting weighed on its operating earnings in a mixed quarter for the company.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+      "title_original": "Nvidia Probes Huang Affair Amid Spying Controversy",
+      "title_zh": "Nvidia Probes Huang Affair Amid Spying Controversy",
+      "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang says he is cooperating fully with an independent board investigation after admitting to an extramarital relationship. The inquiry follows US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency. (Source: Bloo",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T13:01:21+00:00"
+      "published_at": "2026-11-08T23:22:53+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Ken Chenault on Leadership in an Age of AI",
-      "title_zh": "Ken Chenault on Leadership in an Age of AI",
-      "summary": "On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chena",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
+      "title_original": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+      "title_zh": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+      "summary": "Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately highlight potential risks.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/australia-regulator-halts-private-credit-fund-on-bathla-risks",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T15:32:55+00:00"
+      "published_at": "2026-11-08T22:57:45+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "A Historic First for Women at the Metropolitan Opera",
-      "title_zh": "A Historic First for Women at the Metropolitan Opera",
-      "summary": "On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts David Gura and Christina Ruffini how punk helped shape her musical sensibility and",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
+      "title_original": "New Zealand Dollar Advances as Ruling Party Gets Election Edge",
+      "title_zh": "New Zealand Dollar Advances as Ruling Party Gets Election Edge",
+      "summary": "New Zealand’s dollar edged higher in early trading after the incumbent National Party emerged from the weekend election with a path back to power, putting it in pole position to lead negotiations with minor parties.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T15:23:13+00:00"
+      "published_at": "2026-11-08T22:07:45+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-      "title_zh": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-      "summary": "Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs. Some of the revenue is then redistr",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
+      "title_original": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+      "title_zh": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+      "summary": "Wall Street sees the Treasury market emerging as a winner from the Democratic landslide in the US midterm elections, giving traders another reason to rethink this year’s sharp selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T15:04:03+00:00"
+      "published_at": "2026-11-08T20:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Protein Craze Fuels an Investment Boom in Livestock Health",
-      "title_zh": "Protein Craze Fuels an Investment Boom in Livestock Health",
-      "summary": "Animal health companies are tapping into the protein craze, investing billions of dollars to build up businesses focused on making cattle, pigs and poultry healthier for human consumption.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
+      "title_original": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+      "title_zh": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. Deputy Secretary of State & Fmr. US Special Representative for North Korea Stephen Biegun, SMB",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T15:00:00+00:00"
+      "published_at": "2026-11-08T17:03:43+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Young Travelers Are Warming Up to Cruises",
-      "title_zh": "Young Travelers Are Warming Up to Cruises",
-      "summary": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs make all-inclusive vacations increasingly appealing. Chang tells hosts David Gura and Christina Ruffini that cruise lin",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
+      "title_original": "Bookmarked: News Stories On Our Reading List",
+      "title_zh": "Bookmarked: News Stories On Our Reading List",
+      "summary": "The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Sou",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T14:27:25+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Economy and Democracy Drove the Blue Wave",
-      "title_zh": "Economy and Democracy Drove the Blue Wave",
-      "summary": "On Bloomberg This Weekend, Rutgers University's Ashley Koning says affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and independent voters. Koning tells hosts David Gura and Christina Ruffini that Demo",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-07T14:19:05+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Berkshire Makes Record $9.6 Billion Buyback",
-      "title_zh": "Berkshire Makes Record $9.6 Billion Buyback",
-      "summary": "On Bloomberg This Weekend, Bloomberg Intelligence Senior Insurance Analyst Matthew Palazola breaks down Berkshire Hathaway's third-quarter results, including a record $9.6 billion in share buybacks and weaker insurance earnings. Palazola tells hosts David Gura and Christina Ruffini that CEO Greg Abe",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-07T14:00:16+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-      "title_zh": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-      "summary": "A slew of Wall Street strategists were banking on a short-term selloff following the US midterm elections to give investors an opportunity to buy stocks at a discount.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-07T13:30:00+00:00"
+      "published_at": "2026-11-08T16:30:18+00:00"
     },
     {
       "source": "Bloomberg",
       "title_original": "By The Way: Headlines You May Have Missed",
       "title_zh": "By The Way: Headlines You May Have Missed",
-      "summary": "The guide for when to pee during movies, taking PTO to play GTA, ignoring the Foie Gras ban, and kids loving their mom and dad's music: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
+      "summary": "Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source:",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T13:25:55+00:00"
+      "published_at": "2026-11-08T16:23:12+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "US Jobs Surge Raises Odds of December Fed Hike",
-      "title_zh": "US Jobs Surge Raises Odds of December Fed Hike",
-      "summary": "On Bloomberg This Weekend, Bloomberg Economics Chief US Economist Anna Wong says October's surprisingly strong jobs report showed hiring broadening into white collar, manufacturing and transportation jobs, strengthening the case for another Federal Reserve rate hike. Wong tells hosts Christina Ruffi",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
+      "title_original": "Markets Brace for Washington Policy Battles",
+      "title_zh": "Markets Brace for Washington Policy Battles",
+      "summary": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T13:16:33+00:00"
+      "published_at": "2026-11-08T16:17:03+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-      "title_zh": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-      "summary": "Crypto’s extraordinary run of political good fortune in Washington has come to an abrupt halt. With Democrats set to control Congress following their midterm sweep, the industry faces the prospect of tougher rules and closer scrutiny of its ties to President Donald Trump.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+      "title_original": "Israel’s Election Fight Shifts to Coalition Building",
+      "title_zh": "Israel’s Election Fight Shifts to Coalition Building",
+      "summary": "On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the r",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T13:00:00+00:00"
+      "published_at": "2026-11-08T15:49:43+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
-      "title_zh": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
-      "summary": "Trafigura Group has been buying large volumes of copper to boost sales into Asia as local supplies run low, adding to a scramble for metal that’s pushed regional premiums for spot cargoes to record highs.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
+      "title_original": "Can Europe Afford Its Welfare State?",
+      "title_zh": "Can Europe Afford Its Welfare State?",
+      "summary": "Europe’s postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who pays is spilling int",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T08:00:21+00:00"
+      "published_at": "2026-11-08T15:02:58+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
-      "title_zh": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
-      "summary": "India’s stock markets will open for a special shortened session on Sunday as the country celebrates Diwali, its biggest festival, keeping alive a tradition that has survived the shift from handwritten ledgers and bustling trading floors to smartphones and algorithms.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
+      "title_original": "New House Democrats Set Their Priorities",
+      "title_zh": "New House Democrats Set Their Priorities",
+      "summary": "On Bloomberg This Weekend, Democratic Reps.-elect Paul Barringer of North Carolina and Shannon Taylor of Virginia say voters sent them to Washington with a mandate to address affordability, health care and government accountability. Speaking with hosts David Gura and Christina Ruffini, they discuss ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-07T04:30:00+00:00"
+      "published_at": "2026-11-08T14:58:22+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Luxury Gyms Turn Fitness Into a Family Affair",
+      "title_zh": "Luxury Gyms Turn Fitness Into a Family Affair",
+      "summary": "On Bloomberg This Weekend, Bloomberg Pursuits writer Hannah Howard explains how high end fitness clubs are courting families with everything from child care and swimming lessons to homework help and activities for older kids. Speaking with hosts David Gura and Christina Ruffini, Howard discusses why",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-08T14:40:27+00:00"
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Seattle and Las Vegas Make Their NBA Pitch",
+      "title_zh": "Seattle and Las Vegas Make Their NBA Pitch",
+      "summary": "On Bloomberg This Weekend, Bloomberg senior sports reporter Randall Williams explains why the NBA’s potential expansion to Seattle and Las Vegas could generate billions of dollars while raising questions about the financial returns for existing owners. Speaking with hosts David Gura and Christina Ru",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-08T14:28:18+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
-      "title_zh": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
-      "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
-      "url": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69d4d3cb-e587-4b42-9e85-1739ab0deb7f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "title_zh": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
+      "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87bc817f-b1d1-467e-92bd-8a10c0cefa2b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T21:03:47+00:00"
+      "published_at": "2026-11-09T01:08:15+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Trump’s defeat heralds a US retreat",
-      "title_zh": "Trump’s defeat heralds a US retreat",
-      "summary": "American retrenchment could change Middle East balance of power and signify opportunities for China",
-      "url": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb97c036c-a1ce-44f6-bf85-1015b9a9d329.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "‘Radical left’ get the headlines but centrists dominate new US Congress",
+      "title_zh": "‘Radical left’ get the headlines but centrists dominate new US Congress",
+      "summary": "Most of the Democrats who swept to power in the midterms blue wave are moderates",
+      "url": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cc992f9-dd14-4240-8a8d-b572ee7b36c5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T05:00:34+00:00"
+      "published_at": "2026-11-08T05:00:19+00:00"
     },
     {
       "source": "FT",
-      "title_original": "The mother of all American course corrections",
-      "title_zh": "The mother of all American course corrections",
-      "summary": "US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated",
-      "url": "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea1cb484-2a10-47e0-8459-0e08f9a6c436.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "A new economic agenda for America",
+      "title_zh": "A new economic agenda for America",
+      "summary": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living",
+      "url": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9720f568-a7d1-4596-8d12-d957de64475f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T05:00:33+00:00"
+      "published_at": "2026-11-08T16:00:00+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Gillian Tett: Why does America hate AI?",
-      "title_zh": "Gillian Tett: Why does America hate AI?",
-      "summary": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic",
-      "url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7f17d26-bf80-4918-a317-2fca2d7932c3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "America is craving a return to community",
+      "title_zh": "America is craving a return to community",
+      "summary": "The midterms are only the latest sign of hope",
+      "url": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbbe5c0c0-0db6-46b8-abc4-d6a637c536aa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T05:00:13+00:00"
+      "published_at": "2026-11-08T05:00:19+00:00"
     },
     {
       "source": "FT",
-      "title_original": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-      "title_zh": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-      "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
-      "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ed6c0f3-c692-4ded-bbe5-a309ff2020c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Democrats vow to impeach Trump officials and investigate Republican donors",
+      "title_zh": "Democrats vow to impeach Trump officials and investigate Republican donors",
+      "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+      "url": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5d2199f-53e4-4bda-97fe-8111d67a3533.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T21:41:05+00:00"
+      "published_at": "2026-11-08T18:10:24+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Gunman kills six in Kraków shooting",
-      "title_zh": "Gunman kills six in Kraków shooting",
-      "summary": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident",
-      "url": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71423212-f295-4a3b-bcd8-13e2c5909e6f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Republican infighting mounts over corruption claims after midterms wipeout",
+      "title_zh": "Republican infighting mounts over corruption claims after midterms wipeout",
+      "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+      "url": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7b8736a-ff28-40d7-9cd9-f23ae8a23a6e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T22:00:14+00:00"
+      "published_at": "2026-11-08T12:51:25+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-      "title_zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-      "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-      "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc762b778-0f78-41d0-becd-91040019cf69.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Apple saves $2.7bn in taxes by booking profits in Singapore",
+      "title_zh": "Apple saves $2.7bn in taxes by booking profits in Singapore",
+      "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
+      "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa8cf0267-dad3-4f06-9fb0-f876902588d1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T16:43:06+00:00"
+      "published_at": "2026-11-08T05:00:11+00:00"
     },
     {
       "source": "FT",
-      "title_original": "How Wall Street’s all-in bet on AI blew up",
-      "title_zh": "How Wall Street’s all-in bet on AI blew up",
-      "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
-      "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc61c6e8-1b20-4d32-a999-77183a5d30b5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Pope Leo and Javier Milei offer duelling visions for Argentina",
+      "title_zh": "Pope Leo and Javier Milei offer duelling visions for Argentina",
+      "summary": "Pontiff’s speech included what many interpreted as veiled criticism of the president’s austerity measures",
+      "url": "https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98182473-86ba-40f4-b638-aa5ec9f9be5d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-07T05:00:31+00:00"
+      "published_at": "2026-11-09T00:38:18+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson",
+      "title_zh": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson",
+      "summary": "US president caused a media flurry by announcing he had invited Dana White to be White House press secretary",
+      "url": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bf8e42b-e289-4107-8188-2e5ed29e1107.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-09T01:15:06+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Crypto industry braces for reckoning over Trump ties",
+      "title_zh": "Crypto industry braces for reckoning over Trump ties",
+      "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
+      "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53f93d26-bdc0-4d77-be3f-6f65afbdfaab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-08T05:00:19+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Here are the best electric bikes you can buy at every price level in November 2026",
+      "title_zh": "Here are the best electric bikes you can buy at every price level in November 2026",
+      "summary": "I’ve spent countless hours here at Electrek doing detailed hands-on testing of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has he",
+      "url": "https://electrek.co/2026/11/08/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/11/lectric-xpedition-2_0-header-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-08T18:52:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "French carmaker Renault wants to get into the military robot business",
+      "title_zh": "French carmaker Renault wants to get into the military robot business",
+      "summary": "Forget what your Fox News-addicted uncle told you about cheese-eating surrender monkeys. The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terr",
+      "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/renault_MILITARY_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-08T17:19:39+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+      "title_zh": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+      "summary": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket, the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans lik",
+      "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-08T13:42:16+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
+      "title_zh": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
+      "summary": "If you follow the EV industry in North America, you’d be forgiven for thinking that the future of transportation revolves around electric SUVs and pickups. Every week seems to bring another teaser from a startup promising to reinvent the family car or truck. The latest electric SUVs, “coming soon” t",
+      "url": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/motorcycle-vs-truck-header-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-08T09:37:36+00:00"
     },
     {
       "source": "Electrek",
@@ -1125,7 +1175,7 @@
       "source": "Electrek",
       "title_original": "Podcast: Tesla kills the Cybertruck, EVs are surging, and more",
       "title_zh": "Podcast: Tesla kills the Cybertruck, EVs are surging, and more",
-      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla killing the Cybertruck, EVs surging in several key markets, and more.\n\n\n\n more…",
+      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla killing the Cybertruck, EVs surging in several key markets, and more.\n\n\n\n\n\n\n\n more…",
       "url": "https://electrek.co/2026/11/06/podcast-tesla-kills-the-cybertruck-evs-are-surging-and-more/",
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "其他",
@@ -1180,46 +1230,6 @@
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
       "category": "其他",
       "published_at": "2026-11-06T14:03:57+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
-      "title_zh": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
-      "summary": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker.\n\n\n\nThe clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged protot",
-      "url": "https://electrek.co/2026/11/06/lucid-cosmos-teaser-cheaper-ev-new-images/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600",
-      "category": "其他",
-      "published_at": "2026-11-06T13:42:07+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Liebherr expands excavator range with new, 250-tonne electric model",
-      "title_zh": "Liebherr expands excavator range with new, 250-tonne electric model",
-      "summary": "It takes some seriously heavy equipment to make an ultra-class mining truck look little, but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/06/liebherr-expands-excavator-range-with-new-250-tonne-electric-model/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/liebherr-r9300-g8e-96dpi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-06T12:49:41+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Zoomlion says its new, 1,600 hp hybrid tractor is the world’s most powerful",
-      "title_zh": "Zoomlion says its new, 1,600 hp hybrid tractor is the world’s most powerful",
-      "summary": "Chinese equipment brand Zoomlion showed up to this week’s China International Agricultural Machinery Exhibition with a new ultra-high-horsepower hybrid tractor that sets a new benchmark, offering more than 1,600 hp while cutting back on both fuel and fumes.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/06/zoomlion-says-its-new-1600-hp-hybrid-tractor-is-the-worlds-most-powerful/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/zoomlion_1600hp.png?w=1600",
-      "category": "其他",
-      "published_at": "2026-11-06T11:48:09+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h",
-      "title_zh": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h",
-      "summary": "BYD’s Yangwang U9 Xtreme just reached 503.17 km/h (312.66 mph) on a closed highway in Abu Dhabi, making it the first production car ever to go faster than 500 km/h.\n\n\n\nThe FIA and Guinness World Records both recognized the run. It’s the all-electric hypercar’s second top-speed record in just over a ",
-      "url": "https://electrek.co/2026/11/06/byd-yangwang-u9-xtreme-first-production-car-500-km-h/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYDs-Yangwang-U9-Xtreme-just-reached-503.17-kmh-312.66-mph.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-06T11:40:27+00:00"
     }
   ]
 }
