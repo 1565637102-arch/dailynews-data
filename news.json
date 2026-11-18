@@ -1,35 +1,65 @@
 {
-  "updated_at": "2026-11-17T04:51:48.768925+00:00",
+  "updated_at": "2026-11-18T03:56:37.166486+00:00",
   "articles": [
     {
       "source": "BBC中文",
-      "title_original": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
-      "title_zh": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
-      "summary": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
-      "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg",
+      "title_original": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
+      "title_zh": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
+      "summary": "在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f965/live/d542c590-e275-11f1-b639-73d1df360b76.jpg",
       "category": "其他",
-      "published_at": "2026-11-17T02:09:22+00:00"
+      "published_at": "2026-11-17T11:37:12+00:00"
     },
     {
       "source": "BBC中文",
-      "title_original": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-      "title_zh": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-      "summary": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
+      "title_original": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+      "title_zh": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+      "summary": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
+      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T14:38:25+00:00"
+      "published_at": "2026-11-17T11:44:02+00:00"
     },
     {
       "source": "BBC中文",
-      "title_original": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "title_zh": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "summary": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
+      "title_original": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
+      "title_zh": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
+      "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
+      "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df33/live/318af0f0-e2a0-11f1-99a1-253766e7ad8b.jpg",
       "category": "其他",
-      "published_at": "2026-11-17T00:34:50+00:00"
+      "published_at": "2026-11-17T16:25:49+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
+      "title_zh": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
+      "summary": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
+      "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e760/live/fbdccce0-e262-11f1-900c-895604014268.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T08:44:40+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "title_zh": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "summary": "運動物理治療師珍妮薇芙·陶亞（Genevieve Tawiah）分享了她護理關節的秘訣；關節問題佔急診就診量的 5%。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg",
+      "category": "其他",
+      "published_at": "2026-11-18T00:29:38+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
+      "title_zh": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
+      "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
+      "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b97f/live/e9e2d1d0-e260-11f1-900c-895604014268.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T09:49:49+00:00"
     },
     {
       "source": "BBC中文",
@@ -43,13 +73,43 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "羅伯·派汀森：《暮光之城》男主角如何成為007",
-      "title_zh": "羅伯·派汀森：《暮光之城》男主角如何成為007",
-      "summary": "羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。",
-      "url": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg",
+      "title_original": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
+      "title_zh": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
+      "summary": "英國首相在倫敦金融城市長晚宴上向與會人士表示，「我們得到的脫歐結果並沒有奏效」。",
+      "url": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b29e/live/e82f8ae0-e210-11f1-a541-6d0c391a4254.jpg",
       "category": "其他",
-      "published_at": "2026-11-17T02:38:11+00:00"
+      "published_at": "2026-11-17T07:52:53+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+      "title_zh": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+      "summary": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T00:34:50+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "title_zh": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "summary": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
+      "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T02:09:22+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
+      "title_zh": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
+      "summary": "多位科技業領袖表態支持一項行動，要求這家AI晶片龍頭讓黃仁勳重返執行長職位。",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T07:20:52+00:00"
     },
     {
       "source": "BBC中文",
@@ -63,13 +123,23 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-      "title_zh": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-      "summary": "英偉達醜聞引發了人們的質疑：儘管美國有所限制，但先進的人工智慧晶片最終是否流入了中國。",
-      "url": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+      "title_original": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+      "title_zh": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+      "summary": "羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。",
+      "url": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T03:49:26+00:00"
+      "published_at": "2026-11-17T02:38:11+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "title_zh": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "summary": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
+      "category": "其他",
+      "published_at": "2026-11-16T14:38:25+00:00"
     },
     {
       "source": "BBC中文",
@@ -83,43 +153,13 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "美國全國停飛兩天後仍有數千航班受阻，原因為銅線升級光纖工程",
-      "title_zh": "美國全國停飛兩天後仍有數千航班受阻，原因為銅線升級光纖工程",
-      "summary": "美國交通部長表示，正常的空中交通運行可能要到週一才能恢復。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwq6e2g4ved0o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+      "title_original": "中國AI之都：「夢想之城」深圳背後的兩個世界",
+      "title_zh": "中國AI之都：「夢想之城」深圳背後的兩個世界",
+      "summary": "深圳被譽為中國最具未來感的城市之一。在本週的APEC峰會，中國國家主席習近平將在這裡接待包括美國總統特朗普和俄羅斯總統普京在內的多國領袖，向他們展示這座中國的人工智慧之都。但這座城市還有另一面，是領袖們看不到的。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm7826g36xe5o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e6d/live/c16688e0-e266-11f1-99a1-253766e7ad8b.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T07:56:00+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
-      "title_zh": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
-      "summary": "超過2,800萬人在Instagram和X上觀看了他的競選宣傳片，該片以書籍和法國國旗為背景，展現出應有的總統威儀。在隨後24小時內進行的法國輿論研究所（Ifop）民調中，約22%的受訪者表示「可能」會投票給他。",
-      "url": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d041/live/ac0f3570-df58-11f1-9172-871e44a840d8.jpg",
-      "category": "其他",
-      "published_at": "2026-11-16T00:26:12+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-      "title_zh": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-      "summary": "黃仁勳的醜聞使外界開始關注新加坡作為半導體貿易中心的成功——以及其是否成為非法貿易行為場所的疑問。",
-      "url": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-      "category": "其他",
-      "published_at": "2026-11-15T06:46:06+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
-      "title_zh": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
-      "summary": "美國尚未證實烏克蘭總統的言論——一位美國官員告訴BBC，「許多想法仍在討論中」。",
-      "url": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
-      "category": "其他",
-      "published_at": "2026-11-15T07:30:56+00:00"
+      "published_at": "2026-11-17T09:33:26+00:00"
     },
     {
       "source": "BBC中文",
@@ -140,6 +180,56 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d897/live/da442b20-df59-11f1-93e1-3b657b665bcf.jpg",
       "category": "其他",
       "published_at": "2026-11-15T04:28:35+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "美中元首会晤前夕 专家解读美AI管制新规及美中博弈",
+      "title_zh": "美中元首会晤前夕 专家解读美AI管制新规及美中博弈",
+      "summary": "美国商务部工业与安全局（BIS）11月16日发布临时最终规则，进一步限制中国等受限地区企业通过海外数据中心获取美国先进人工智能算力。中国随即表示反对。新规计划于11月19日生效，正值美中领导人即将会晤之际。美国业界专家、目前担任奥尔布赖特石桥集团亚洲及美洲科技政策负责人的保罗·特里奥洛（Paul Triolo）接受本台专访表示，当前多项措施叠加，可能引发双方新一轮相互反制，冲击全球供应链。芯片风波持续发酵 远程算力成为监管重点此前，英伟达前CEO黄仁勋宣布离职，他与新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）的关系也引发争议。美国有关部门正调查Megaspeed涉嫌",
+      "url": "https://rfa.org/mandarin/zhengzhi/2026/11/18/us-bis-ai-computing-restrictions-china/",
+      "image_url": "https://www.rfa.org/resizer/v2/RINJ34AKEFGOXKZ2DLIH4ZI57Q.JPG?auth=287afacd64809685faf9e2d8fd9e7c150cb6d0818373ab4d3ebd2d7753178e10&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-18T02:15:39+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "第49届东盟峰会 重点讨论区域安全 跨国犯罪",
+      "title_zh": "第49届东盟峰会 重点讨论区域安全 跨国犯罪",
+      "summary": "第49届东盟峰会在菲律宾马尼拉落幕。南海争端、缅甸局势以及跨国诈骗犯罪，成为本次会议的三大焦点。在南海问题上，东盟与中国宣布，双方已就长期谈判的《南海行为准则》约八成内容达成初步共识。不过，越南和菲律宾仍要求加强海上安全保障，剩余分歧尚未解决，谈判预计将延续至2027年。缅甸问题同样陷入僵局。尽管东盟外长此前与缅甸方面举行了2021年军事政变以来的首次曼谷会谈，但由于缅甸境内轰炸持续、停火迟迟未能实现，军方还拒绝东盟提出的“五点共识”，东盟决定继续禁止缅甸军政府代表出席高级别会议。此外，柬埔寨、老挝和越南重点讨论了跨国诈骗园区及人口贩运问题，并承诺加强跨境执法合作，共同打击相关犯罪。",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/17/asean-summit-south-china-sea-myanmar-scams/",
+      "image_url": "https://www.rfa.org/resizer/v2/YSZCAGLU4VALTKEZT7B4HI5Z2Q.JPG?auth=01e70352659cdc6955afe55349a6d6fbef248a5e40c65652f8af3fa0bff5bf2a&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-17T17:33:25+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "俄国军机犯日本领空  再穿越韩、台防空识别区",
+      "title_zh": "俄国军机犯日本领空  再穿越韩、台防空识别区",
+      "summary": "两架俄罗斯军机周二（11月17日）清晨先后进入韩国及日本周边空域，其后由台湾东北方向进入防空识别区，沿台湾东部外海南下。日本认定有关飞机侵犯领空，紧急出动战机并向莫斯科提出抗议；台湾军方则称全程掌握动态。日本防卫省周二通报，两架疑似俄罗斯飞机分别在当地时间清晨4时7分至10分，以及4时9分至12分，进入福冈县冲之岛西北方的日本领海上空。日本航空自卫队紧急出动战机，向俄飞机发出警告。日本防卫省表示，两架飞机其后通过对马海峡，一路南下，穿越日本与那国岛与台湾之间的空域，最后进入太平洋。从日本及台湾公布的航线判断，可能是同一批飞机，但台湾方面没有明确说明两者是否为同一机队。台湾国防部周二中午则表示，",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/17/apec-taiwan-japan-russian-aircraft-putin-china/",
+      "image_url": "https://www.rfa.org/resizer/v2/DHXKEAPJQBGY3HOD7GB2XXKDDU.JPG?auth=2eba78c8706edd3984e9b549c7cc9a41fad1413ce9d4570ff53b1524ed5da9c5&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-17T09:23:51+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "（独家）撤片、盯梢、匿名信：Indie China电影节在纽约挺过第二年",
+      "title_zh": "（独家）撤片、盯梢、匿名信：Indie China电影节在纽约挺过第二年",
+      "summary": "2026年11月15日晚，由纪录片导演、独立电影策展人朱日坤策划的第二届Indie China电影节在纽约布鲁克林一處艺术空间闭幕。但第一届的骚扰戏码然重演，包括著名异议人士艾晓明教授在内，中国国内参加影展的相关人士及其家人、亲友分别接到政府部门人员的”关切”。在美国，协办放映场地经营方接到了”抗议信”，甚至有身份不明的人士到现场骚扰或疑似进行监控。11月10日，电影节在纽约曼哈顿下城 HERE Arts Center 开幕。艺术空间的共同总监笛雅兹（Annalisa Dias）在开幕式上表示，中心支持文化交流，也支持言论自由。尽管去年朱日坤预定在此举办的电影节因中国警方骚扰而未能按计划进行，",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/17/indiechina-documentry-zhurikun/",
+      "image_url": "https://www.rfa.org/resizer/v2/QCS4FMXRD5GB5ED35HMCE4XG3A.png?auth=5a33d15378266e58ec9ef67ebf3ba051e1509fbf14617fa0f4b9ca302f1b4b7f&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-17T07:48:07+00:00"
+    },
+    {
+      "source": "自由亚洲",
+      "title_original": "美国收紧算力管制 DeepSeek限额使用",
+      "title_zh": "美国收紧算力管制 DeepSeek限额使用",
+      "summary": "在美国收紧对华海外算力管制之际，中国人工智能企业深度求索（DeepSeek）近日出现限制用户使用的现象。部分用户本周在网上发布的留言和截图显示，平台以“算力不足”为由限制用户继续使用长期闲置的对话，并调整单次输入文字上限及每日使用额度。美国商务部工业与安全局（BIS）本周一（16日）公布临时最终规则，限制中国企业通过海外数据中心远程使用受管制的先进人工智能芯片算力。根据新规，无论数据中心设在哪个国家，在出口、再出口或境内转移相关芯片时，如明知相关芯片将用于向总部或最终母公司位于中国、澳门及其他受限地区的企业提供超过规定门槛的算力，须事先取得美国许可。这意味着，即使芯片没有运入中国，中国企业通过",
+      "url": "https://rfa.org/mandarin/shangye/2026/11/17/china-artificial-intelligence-us-restrictions-on-china-southeast-asia-and-data-centers/",
+      "image_url": "https://www.rfa.org/resizer/v2/ZH6UNTMTDJAWVNTJMJHB7OLAJU.png?auth=df0cbdfb5d36c74dd0495f0d6a42c10a2bea0e1f015fb6d2ff43f5e991242f87&smart=true&width=1500",
+      "category": "其他",
+      "published_at": "2026-11-17T07:10:30+00:00"
     },
     {
       "source": "自由亚洲",
@@ -182,114 +272,124 @@
       "published_at": "2026-11-15T07:12:28+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "许成钢：芯片竞争关系到民主制度自身存亡",
-      "title_zh": "许成钢：芯片竞争关系到民主制度自身存亡",
-      "summary": "美国财经媒体CNBC报道，与英伟达（NVIDIA）联合创始人黄仁勋过从甚密的黄乐（Alice Huang）透过其商业关系网络，与多家涉及华为业务的企业存在联系。而华为正是英伟达在中国最大的竞争对手。黄乐与华为之间的联系最初是由私人情报公司Tesari的分析师发现。该公司向CNBC分享调查结果。Tesari利用人工智能收集证据，专门从事全球国家安全调查，为私人公司和美国政府提供情报研究服务。据CNBC查阅的文件显示，与黄乐有关联的企业，被指涉及向华为提供英伟达的运算能力。相关情况发生的时间，与黄乐及黄仁勋于2023年12月首次公开同框的时间大致相同。Tesari负责国家安全应用的副总裁、前国土安",
-      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/nvidia-alicehuang-huawei-deepseek-chenggangxu/",
-      "image_url": "https://www.rfa.org/resizer/v2/ZRRVQWJMAZEQBPZ4BCCWRWPHUQ.jpg?auth=24585b0e469d0fd972192e702ad292ed5150bb3fb53a8e68ec0c852de288e61e&smart=true&width=1500",
+      "source": "The Verge",
+      "title_original": "Satya Nadella says he’s AGI-pilled now",
+      "title_zh": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "\n\n\n\t\n\tMicrosoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled ",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-14T10:24:22+00:00"
+      "published_at": "2026-11-17T23:41:18+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "title_zh": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "summary": "\n\n\n\t\n\t\t\n\nArion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS).\nKurtaj, who is now 21, hacked BT/EE sometime between August and Novembe",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "title_zh": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "summary": "\n\n\n\t\n\t\t\n\nRobert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too.\nDuring Semafor",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T23:35:58+00:00"
+      "published_at": "2026-11-17T22:38:41+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "title_zh": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "summary": "\n\n\n\t\n\t\t\n\nJensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is t",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "title_zh": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "summary": "\n\n\n\t\n\t\t\n\nNvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one ",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T23:17:34+00:00"
+      "published_at": "2026-11-17T22:32:50+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "title_zh": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "summary": "\n\n\n\t\n\tUnited Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images\t\n\nLess than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, U",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "title_zh": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "summary": "\n\n\n\t\n\t\t\n\nAfter finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much differe",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T22:54:59+00:00"
+      "published_at": "2026-11-17T22:25:41+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "title_zh": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "summary": "\n\n\n\t\n\t\t\n\nBefore Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-ob",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&#038;strip=all&#038;crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
+      "title_original": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "title_zh": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "summary": "\n\n\n\t\n\t\t\n\nStarting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" \nJones added, \"We will not be addressing or taking ques",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T21:41:57+00:00"
+      "published_at": "2026-11-17T22:05:05+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "California sues OpenAI over rogue AI hacking incidents",
-      "title_zh": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "\n\n\n\t\n\t\t\n\nCalifornia is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product withou",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "title_zh": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "summary": "\n\n\n\t\n\tThis thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently di",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T20:46:01+00:00"
+      "published_at": "2026-11-17T21:46:20+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "title_zh": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "\n\n\n\t\n\tSam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I th",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "title_zh": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "summary": "\n\n\n\t\n\t\t\n\nInterim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off b",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T20:41:28+00:00"
+      "published_at": "2026-11-17T21:40:59+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "title_zh": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "summary": "\n\n\n\t\n\t\t\n\nBlack Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to ex",
-      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "title_zh": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "summary": "\n\n\n\t\n\t\t\n\nIn 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tu",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T20:36:14+00:00"
+      "published_at": "2026-11-17T21:38:08+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "title_zh": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "summary": "\n\n\n\t\n\tConstellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images\t\n\nConstellation Energy - America's largest operator of nu",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "title_zh": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "summary": "\n\n\n\t\n\tOpen AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.\nEarlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse,",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T20:29:37+00:00"
+      "published_at": "2026-11-17T21:00:55+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "US data centers now burn more electricity than a midsized country",
-      "title_zh": "US data centers now burn more electricity than a midsized country",
-      "summary": "\n\n\n\t\n\t\t\n\nFossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas em",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Instagram is helping creators crack down on copycat videos",
+      "title_zh": "Instagram is helping creators crack down on copycat videos",
+      "summary": "\n\n\n\t\n\t\t\n\nInstagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform.\n\"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts ",
+      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-16T20:27:58+00:00"
+      "published_at": "2026-11-17T20:46:31+00:00"
     },
     {
-      "source": "The Verge",
-      "title_original": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "title_zh": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "summary": "\n\n\n\t\n\tThe Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Ars Technica",
+      "title_original": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "title_zh": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "summary": "Hundreds of websites using the Optimizely website personalization platform served unsuspecting visitors a potent malware cocktail that targeted cryptocurrency wallets, stole payment card data, cookies, and screenshots, and delivered exploit kits for infecting iPhones and iPads, researchers said Tues",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T19:50:47+00:00"
+      "published_at": "2026-11-17T22:32:16+00:00"
+    },
+    {
+      "source": "Ars Technica",
+      "title_original": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "title_zh": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI. Over five days, Grok bots installed on two separate employee laptops made 31 requests to access data stored in employee calendar, email, Slack, and GitHub accounts. The bots performed ",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+      "category": "其他",
+      "published_at": "2026-11-17T14:00:29+00:00"
     },
     {
       "source": "Ars Technica",
@@ -303,693 +403,863 @@
     },
     {
       "source": "Wired",
-      "title_original": "The 8 Best Movies to Stream Right Now (November 2026)",
-      "title_zh": "The 8 Best Movies to Stream Right Now (November 2026)",
-      "summary": "Arco, Backrooms, and Godzilla Minus One are among the films deserving of your eyeballs this month.",
-      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "image_url": "https://media.wired.com/photos/6afb5714b63f0d234f4b197b/master/pass/Movie-Guide-Arco-Culture-MCDARCO_EC008.jpg",
+      "title_original": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "title_zh": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "image_url": "https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg",
       "category": "其他",
-      "published_at": "2026-11-17T00:58:05+00:00"
+      "published_at": "2026-11-18T00:32:39+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "title_zh": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
-      "url": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
-      "image_url": "https://media.wired.com/photos/6afb6caffd92a97bc81f1ed9/master/pass/Security_YesYourBankIsHavinganOutage_v1-ezgif.com-video-to-gif-converter.gif",
+      "title_original": "Review: Nubia Redmagic 12 Pro | Camera",
+      "title_zh": "Review: Nubia Redmagic 12 Pro | Camera",
+      "summary": "Review: Nubia Redmagic 12 Pro | Camera",
+      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "image_url": "https://media.wired.com/photos/6afce0f6ee5c9e07415dd40b/master/pass/4%20Nubia%20Redmagic%2012%20Pro%20Main%20Camera%20SOURCE%20Simon%20Hill.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T21:45:45+00:00"
+      "published_at": "2026-11-17T23:34:44+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "title_zh": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
-      "image_url": "https://media.wired.com/photos/6afb4cc16a1af442b6a49972/master/pass/Update--Best-Early-Black-Friday-Espresso-Machine-Deals.jpg",
+      "title_original": "Best Early Amazon Black Friday Deals (2026)",
+      "title_zh": "Best Early Amazon Black Friday Deals (2026)",
+      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "image_url": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T20:00:00+00:00"
+      "published_at": "2026-11-17T22:57:54+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "The iPhone Duo Is Getting a Limited Version of Face ID",
-      "title_zh": "The iPhone Duo Is Getting a Limited Version of Face ID",
-      "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
-      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
-      "image_url": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+      "title_original": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "title_zh": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "image_url": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T18:26:26+00:00"
+      "published_at": "2026-11-17T22:19:19+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "title_zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-      "image_url": "https://media.wired.com/photos/6af7ae201244c1a16020acc3/master/pass/Instagram-Users-Can-Expect-Avalanche-on-Amazon-Affiliate-Posts-Gear.jpg",
+      "title_original": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "title_zh": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+      "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "image_url": "https://media.wired.com/photos/6afc8dfac68fff6545ac192a/master/pass/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T17:00:00+00:00"
+      "published_at": "2026-11-17T19:40:57+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "AO3 Is Back. This Is Not a Drill",
-      "title_zh": "AO3 Is Back. This Is Not a Drill",
-      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
-      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
-      "image_url": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/master/pass/111626-AO3%20Back%20Online.jpg",
+      "title_original": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "title_zh": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "summary": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
+      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
+      "image_url": "https://media.wired.com/photos/6afca39792798f56737cb399/master/pass/GettyImages-2289915155-resized.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T16:40:33+00:00"
+      "published_at": "2026-11-17T19:38:08+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Jensen Huang Is Gone. Now What?",
-      "title_zh": "Jensen Huang Is Gone. Now What?",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "image_url": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
+      "title_original": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "title_zh": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "image_url": "https://media.wired.com/photos/6af7b8ab85c9940326d23123/master/pass/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T16:12:51+00:00"
+      "published_at": "2026-11-17T18:03:32+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Just 400 US Data Centers Use More Electricity Than Michigan",
-      "title_zh": "Just 400 US Data Centers Use More Electricity Than Michigan",
-      "summary": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
-      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
-      "image_url": "https://media.wired.com/photos/6af711ad797722e005ec2bb9/master/pass/111326-Michigan%20400%20Data%20Centers.jpg",
+      "title_original": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "title_zh": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "summary": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "image_url": "https://media.wired.com/photos/6afc8d817073e76a25272b83/master/pass/111726-Jensen%20might%20be%20back.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T16:00:00+00:00"
+      "published_at": "2026-11-17T17:32:24+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
-      "title_zh": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
-      "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
-      "url": "https://www.wired.com/story/best-digital-photo-frames/",
-      "image_url": "https://media.wired.com/photos/6af7e6c419af9e663f54144d/master/pass/My-Favorite-Home-Gadget-Is-Still-a-Digital-Photo-Frame.jpg",
+      "title_original": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+      "title_zh": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+      "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
+      "url": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+      "image_url": "https://media.wired.com/photos/6afafda61113c366073d3d8a/master/pass/Studio%20Pro%20Desktop%20%E2%80%94%20Announcement%20Hero.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T12:01:00+00:00"
+      "published_at": "2026-11-17T17:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "title_zh": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "image_url": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/master/pass/111226-EPA%20ASPECT%20Plane.jpg",
+      "title_original": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+      "title_zh": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+      "summary": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
+      "url": "https://www.wired.com/review/xreal-aura/",
+      "image_url": "https://media.wired.com/photos/6afb7bb246a62b9dacb0b4a3/master/pass/AURA_2_Edited.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T11:30:00+00:00"
+      "published_at": "2026-11-17T14:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "title_zh": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "image_url": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/master/pass/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
+      "title_original": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "title_zh": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "image_url": "https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T11:30:00+00:00"
+      "published_at": "2026-11-17T13:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "title_zh": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "image_url": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
+      "title_original": "Capillus HairBand Review: Good Looks, Awkward Fit",
+      "title_zh": "Capillus HairBand Review: Good Looks, Awkward Fit",
+      "summary": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
+      "url": "https://www.wired.com/review/capillus-hairband/",
+      "image_url": "https://media.wired.com/photos/6afb590244f979cc615251c6/master/pass/Review--Capillus-HairBand.jpg",
       "category": "其他",
-      "published_at": "2026-11-16T11:00:00+00:00"
+      "published_at": "2026-11-17T12:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "title_zh": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "image_url": "https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/master/pass/The-Best-Apple-3-in-1-Travel-Chargers.jpg",
+      "title_original": "Congratulations to WIRED’s Class of 2026",
+      "title_zh": "Congratulations to WIRED’s Class of 2026",
+      "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026/",
+      "image_url": "https://media.wired.com/photos/6afb9b29276fa364fc4708a8/master/pass/SOCIAL_WIRED_FRAMES_TITLE_MOTION.png",
       "category": "其他",
-      "published_at": "2026-11-16T10:00:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-      "title_zh": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
-      "url": "https://www.wired.com/story/best-paper-planners/",
-      "image_url": "https://media.wired.com/photos/6af7de304c1f7b55abfd9851/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
+      "title_original": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "title_zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "image_url": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
       "category": "其他",
-      "published_at": "2026-11-15T12:01:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "AI DJs Completely Kill My Groove",
-      "title_zh": "AI DJs Completely Kill My Groove",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "image_url": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
+      "title_original": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "title_zh": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+      "image_url": "https://media.wired.com/photos/6afb64c4d5ce52bfaa9da9f8/master/pass/SH010_WIRED_FRAMES_ARTEMIS_16x9_SINGLE_v04.gif",
       "category": "其他",
-      "published_at": "2026-11-15T12:00:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Evercade Nexus Review: The Best Retro Handheld Yet",
-      "title_zh": "Evercade Nexus Review: The Best Retro Handheld Yet",
-      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
-      "url": "https://www.wired.com/review/evercade-nexus/",
-      "image_url": "https://media.wired.com/photos/6af5e7fe5864e5f624e083eb/master/pass/Evercade%20Nexus%20(1).jpg",
+      "title_original": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "title_zh": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "image_url": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
       "category": "其他",
-      "published_at": "2026-11-15T11:30:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
-      "title_zh": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
-      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
-      "url": "https://www.wired.com/review/logitech-yeti-2/",
-      "image_url": "https://media.wired.com/photos/6af7df7e7f77ca3a14ead393/master/pass/Review--Logitech-Yeti-2.jpg",
+      "title_original": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "title_zh": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "summary": "Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+      "image_url": "https://media.wired.com/photos/6afb740886acdb63d5b9fac5/master/pass/SH040_WIRED_FRAMES_RACHEL_16x9_SINGLE_v04.gif",
       "category": "其他",
-      "published_at": "2026-11-15T11:30:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "title_zh": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "image_url": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
+      "title_original": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
+      "title_zh": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
+      "summary": "Backrooms started as a 4chan meme. Obsession came from someone who got his start in online sketch comedy. They both got people back into theaters—and it’s just the beginning.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
+      "image_url": "https://media.wired.com/photos/6afb628e1a432ec1d58e6de0/master/pass/SH020_WIRED_FRAMES_DIRECTORS_16x9_SINGLE_v04.gif",
       "category": "其他",
-      "published_at": "2026-11-15T11:00:00+00:00"
+      "published_at": "2026-11-17T11:00:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "It’s Getting Too Dry for Even Cactuses to Survive",
-      "title_zh": "It’s Getting Too Dry for Even Cactuses to Survive",
-      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
-      "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-      "image_url": "https://media.wired.com/photos/6af6e9401b752946d00e4918/master/pass/extreme-heat-climate-change-cacti-cactus-extinction-biodiversity-risk-models.jpg",
+      "title_original": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "title_zh": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "image_url": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
       "category": "其他",
-      "published_at": "2026-11-15T10:30:00+00:00"
+      "published_at": "2026-11-17T10:47:45+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "M6 Mac Mini Early Black Friday Sale (2026)",
-      "title_zh": "M6 Mac Mini Early Black Friday Sale (2026)",
-      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
-      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
-      "image_url": "https://media.wired.com/photos/6afb3dd68b8fb8ba4d5d489c/master/pass/Take-$120-Off-the-Latest-Mac-Mini-With-This-Deal.jpg",
+      "title_original": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+      "title_zh": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+      "summary": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
+      "url": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "image_url": "https://media.wired.com/photos/6afb7ac486acdb63d5b9fcaf/master/pass/Cybercab_66.jpg",
       "category": "其他",
-      "published_at": "2026-11-15T10:00:00+00:00"
+      "published_at": "2026-11-17T10:15:00+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "title_zh": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "title_original": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "title_zh": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T23:32:32+00:00"
+      "published_at": "2026-11-18T01:44:21+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "title_zh": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "title_original": "Nvidia promises that revenue will keep soaring — for now",
+      "title_zh": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T22:12:31+00:00"
+      "published_at": "2026-11-18T00:16:50+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "title_zh": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "title_original": "Stripe backer Atomico calls for Europe to own its success stories",
+      "title_zh": "Stripe backer Atomico calls for Europe to own its success stories",
+      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T22:03:02+00:00"
+      "published_at": "2026-11-18T00:01:00+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "title_zh": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "title_original": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "title_zh": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T21:01:02+00:00"
+      "published_at": "2026-11-17T23:37:48+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "California state AG sues OpenAI over rogue agent incidents",
-      "title_zh": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "title_original": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "title_zh": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T20:07:13+00:00"
+      "published_at": "2026-11-17T23:04:35+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "title_zh": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "title_original": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "title_zh": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T19:53:00+00:00"
+      "published_at": "2026-11-17T22:42:27+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "title_zh": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "title_original": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "title_zh": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T19:26:55+00:00"
+      "published_at": "2026-11-17T22:29:05+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "title_zh": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "title_original": "SEC reportedly investigating Nvidia amid Huang exit",
+      "title_zh": "SEC reportedly investigating Nvidia amid Huang exit",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T19:12:02+00:00"
+      "published_at": "2026-11-17T21:48:07+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Island is a new screen-time app that turns staying off your phone into a game",
-      "title_zh": "Island is a new screen-time app that turns staying off your phone into a game",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "title_original": "Google joins the tech outage trend by announcing it’s not having one",
+      "title_zh": "Google joins the tech outage trend by announcing it’s not having one",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T18:54:18+00:00"
+      "published_at": "2026-11-17T21:34:50+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-      "title_zh": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
-      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "title_original": "Waymo suspends freeway rides nationwide after California DMV order",
+      "title_zh": "Waymo suspends freeway rides nationwide after California DMV order",
+      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T18:21:14+00:00"
+      "published_at": "2026-11-17T19:49:41+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "title_zh": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "title_original": "Model ML raises $250M to automate investment banking grunt work",
+      "title_zh": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T18:11:10+00:00"
+      "published_at": "2026-11-17T19:32:11+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "title_zh": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "title_original": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "title_zh": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T17:36:43+00:00"
+      "published_at": "2026-11-17T19:02:20+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "title_zh": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "title_original": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "title_zh": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T17:10:00+00:00"
+      "published_at": "2026-11-17T18:55:40+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "OpenAI will embed safety researchers to investigate AI subversion",
-      "title_zh": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "title_original": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "title_zh": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T17:02:43+00:00"
+      "published_at": "2026-11-17T18:48:23+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "title_zh": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "title_original": "As decision model use skyrockets, is customization the next frontier?",
+      "title_zh": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T17:00:00+00:00"
+      "published_at": "2026-11-17T18:10:00+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "title_zh": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "title_original": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "title_zh": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T17:00:00+00:00"
+      "published_at": "2026-11-17T18:04:16+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-      "title_zh": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-      "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "title_original": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "title_zh": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T16:06:30+00:00"
+      "published_at": "2026-11-17T17:32:25+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Audible turns to AI to help users discover audiobooks",
-      "title_zh": "Audible turns to AI to help users discover audiobooks",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "title_original": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "title_zh": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T15:52:19+00:00"
+      "published_at": "2026-11-17T17:20:41+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "title_zh": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "title_original": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "title_zh": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T15:02:34+00:00"
+      "published_at": "2026-11-17T16:44:15+00:00"
     },
     {
       "source": "TechCrunch",
-      "title_original": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "title_zh": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "title_original": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "title_zh": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T14:48:13+00:00"
+      "published_at": "2026-11-17T16:32:55+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "China's AI² Robotics On Business Strategy",
-      "title_zh": "China's AI² Robotics On Business Strategy",
-      "summary": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in Shenzhen.\n (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+      "title_original": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
+      "title_zh": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
+      "summary": "China’s central bank boosted its daily yuan reference rate to the strongest in over four years, signaling tolerance for gradual gains as the nation hosts a key regional summit.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T04:44:40+00:00"
+      "published_at": "2026-11-18T01:25:45+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-      "title_zh": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets.",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
+      "title_original": "Japan 20-Year Bond Sale Demand Is Weaker Than 12-Month Average",
+      "title_zh": "Japan 20-Year Bond Sale Demand Is Weaker Than 12-Month Average",
+      "summary": "Japan’s 20-year government bond auction Wednesday saw lower demand than the 12-month average, as investors remained wary of further yield increases amid fiscal concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T04:32:25+00:00"
+      "published_at": "2026-11-18T03:41:33+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Anthropic IPO: What Australian Investors Need to Know",
-      "title_zh": "Anthropic IPO: What Australian Investors Need to Know",
-      "summary": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on \"Bloomberg: The Asia",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+      "title_original": "SQM Warns Lithium Sales Price May Decline ‘Substantially’",
+      "title_zh": "SQM Warns Lithium Sales Price May Decline ‘Substantially’",
+      "summary": "Chilean lithium producer SQM warned that product prices may be set for a substantial decline this quarter, even as it continued to see “encouraging demand trends” for the battery metal.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T04:10:08+00:00"
+      "published_at": "2026-11-18T01:18:05+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
-      "title_zh": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
-      "summary": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+      "title_original": "Xi Warns Against ‘Rampant’ Protectionism Before Trump Talks",
+      "title_zh": "Xi Warns Against ‘Rampant’ Protectionism Before Trump Talks",
+      "summary": "Xi Jinping urged Asia-Pacific economies to deepen cooperation on trade and technology, warning against rising protectionism days after new US curbs on China’s access to top AI chips threatened to overshadow his talks with Donald Trump.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T02:46:47+00:00"
+      "published_at": "2026-11-18T02:25:09+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
-      "title_zh": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
-      "summary": "Asian stocks dropped as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to caution ahead of Nvidia Corp.’s high-stakes earnings.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+      "title_original": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
+      "title_zh": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
+      "summary": "Foreigners are becoming buyers of Indian stocks at a record pace, signaling a broader portfolio shift as weakeness in the artificial intelligence trade revives demand for a market they have largely abandoned over the past two years.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T22:06:51+00:00"
+      "published_at": "2026-11-17T13:31:21+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Latest Oil Market News and Analysis for Nov. 17",
-      "title_zh": "Latest Oil Market News and Analysis for Nov. 17",
-      "summary": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+      "title_original": "Stocks Lose Nvidia-Led Momentum, Treasuries Rise: Markets Wrap",
+      "title_zh": "Stocks Lose Nvidia-Led Momentum, Treasuries Rise: Markets Wrap",
+      "summary": "A rebound in equities fueled by Nvidia Corp.’s better-than-expected sales forecast lost momentum as traders questioned whether the results were enough to reverse a broader retreat from the artificial intelligence trade. Treasuries gained.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T23:02:55+00:00"
+      "published_at": "2026-11-17T22:07:08+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
-      "title_zh": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
-      "summary": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+      "title_original": "China a 'Supersized' Testing Ground for Technology: Xi",
+      "title_zh": "China a 'Supersized' Testing Ground for Technology: Xi",
+      "summary": "Xi Jinping tells Asia-Pacific business leaders that China aims to drive high-quality growth through innovation, green transition and closer integration of technological and industrial development. He describes China as a \"supersized\" testing ground for technologies such as factory robots, autonomous",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T00:22:19+00:00"
+      "published_at": "2026-11-18T03:02:15+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
-      "title_zh": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
-      "summary": "Forced selling by retail investors was a main driver of Taiwanese stocks’ steep selloff on Monday, a trend that could extend and pressure the market further, according to Barclays Plc.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
+      "title_original": "Xi Calls for Deeper Cooperation and Free Trade",
+      "title_zh": "Xi Calls for Deeper Cooperation and Free Trade",
+      "summary": "Xi Jinping says Asia-Pacific economies should expand trade and bilateral relations while recognizing their differences in history, culture and development. He speaks at the APEC CEO Summit in Shenzhen. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-calls-for-deeper-cooperation-and-free-trade-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T03:17:04+00:00"
+      "published_at": "2026-11-18T02:44:48+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-      "title_zh": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-      "summary": "Chinese business and technology leaders are gathering in Shenzhen ahead of the APEC CEO Summit. The talks unfold as the US Commerce Department adds licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil to close remote-access loopholes. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
+      "title_original": "Rupee Forwards Turn More Bullish Than Currency Forecasters",
+      "title_zh": "Rupee Forwards Turn More Bullish Than Currency Forecasters",
+      "summary": "Forward-implied USD/INR rate for end-2026 is about 94.32 per dollar.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T02:55:42+00:00"
+      "published_at": "2026-11-18T02:30:55+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
-      "title_zh": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
-      "summary": "Kadoya Sesame Mills Inc. shareholder Mitsui &amp; Co. has backed a proposal from J-Oil Mills Inc. to take over the Japanese sesame seed oil seller, according to people familiar with the matter, potentially strengthening the bidder’s hand in a three-way battle for control of the company.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/mitsui-co-said-to-back-j-oil-mills-in-battle-over-kadoya",
+      "title_original": "Iron Ore Likely to Find a Floor Near $80, Chinese Analysts Say",
+      "title_zh": "Iron Ore Likely to Find a Floor Near $80, Chinese Analysts Say",
+      "summary": "Iron ore prices will need to drop to about $80 a ton before high-cost mines start cutting output to put a floor under the market, according to Chinese analysts.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/iron-ore-likely-to-find-a-floor-near-80-chinese-analysts-say",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T09:35:29+00:00"
+      "published_at": "2026-11-18T02:30:04+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
-      "title_zh": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
-      "summary": "Foreign long-only funds are gradually adding exposure after months of caution.",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
+      "title_original": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+      "title_zh": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+      "summary": "Gold dropped below $3,800 an ounce for the first time since September 2025 after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T02:39:15+00:00"
+      "published_at": "2026-11-17T23:33:52+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-      "title_zh": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-      "summary": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
+      "title_original": "Japanese Restaurant Skylark Eyes More M&A After Ramen Chain Deal",
+      "title_zh": "Japanese Restaurant Skylark Eyes More M&A After Ramen Chain Deal",
+      "summary": "Skylark Holdings Co., one of Japan’s largest restaurant chains, plans more M&amp;A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($313 million), according to company management.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/japanese-restaurant-skylark-eyes-more-m-a-after-ramen-chain-deal",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T02:24:44+00:00"
+      "published_at": "2026-11-18T02:15:01+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-      "title_zh": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-      "summary": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
+      "title_original": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+      "title_zh": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+      "summary": "Chinese cobalt demand is weakening as soaring prices for memory chips hit sales of the electronic gadgets that use the battery metal.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T02:21:36+00:00"
+      "published_at": "2026-11-18T01:36:38+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
-      "title_zh": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
-      "summary": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+      "title_original": "Ping An Group To Reduce Public Equity Allocation",
+      "title_zh": "Ping An Group To Reduce Public Equity Allocation",
+      "summary": "Michael Guo, Ping An Group Co-CEO says the insurance company is planning to reduce allocation on public equity and considering fixed income as an alternative investment. He speaks to Bloomberg’s Stephen Engle in an exclusive interview at the APEC 2026 summit. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/ping-an-group-to-reduce-public-equity-allocation-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T01:46:26+00:00"
+      "published_at": "2026-11-18T01:36:31+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
-      "title_zh": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
-      "summary": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
+      "title_original": "Quant Trader Graviton Expands Office Space in India, Singapore",
+      "title_zh": "Quant Trader Graviton Expands Office Space in India, Singapore",
+      "summary": "Graviton Research Capital LLP has expanded into larger offices in India’s high-frequency trading hub of Gurugram and in Singapore as the homegrown firm gears up for an ambitious global expansion.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/quant-trader-graviton-expands-office-space-in-india-singapore",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T11:00:29+00:00"
+      "published_at": "2026-11-18T01:30:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-      "title_zh": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-      "summary": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 18",
+      "title_zh": "Latest Oil Market News and Analysis for Nov. 18",
+      "summary": "Oil steadied as traders assessed renewed fighting in the Middle East against signs of recovering supplies and higher US inventories.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-16T21:17:24+00:00"
+      "published_at": "2026-11-17T23:01:33+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-      "title_zh": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-      "summary": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
+      "title_original": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
+      "title_zh": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
+      "summary": "Australian department store chain David Jones is set to cut about 1,500 jobs, one-quarter of the workforce, as it shuts outlets in a bid to survive, according to the employees’ union.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/david-jones-to-cut-1-500-jobs-in-fight-to-survive-union-says",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T01:09:46+00:00"
+      "published_at": "2026-11-18T00:37:39+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-      "title_zh": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-      "summary": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
+      "title_original": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+      "title_zh": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+      "summary": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T00:44:27+00:00"
+      "published_at": "2026-11-17T23:00:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
-      "title_zh": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
-      "summary": "A majority of the Australian central bank’s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+      "title_original": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+      "title_zh": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+      "summary": "New US restrictions on the export and access to top-end semiconductors risks denting Thailand’s ambitions to be a hub for data centers, the foreign minister said.\nForeign Minister Sihasak said in a BTV interview with Haslinda Amin that the new rules, announced this week just as President Donald Trum",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T00:30:00+00:00"
+      "published_at": "2026-11-18T00:10:57+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
-      "title_zh": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
-      "summary": "Chinese companies are tapping only a fraction of loans provided by Beijing for stock buybacks, an indication that the latest effort to support markets is faltering.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
+      "title_original": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+      "title_zh": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+      "summary": "Chris McGuire, Council on Foreign Relations' Senior Fellow on China and Emerging Technologies discusses US restrictions on Nvidia chip sales and remote access, as the US president prepares to meet Chinese President Xi Jinping at the APEC summit. He speaks with Romaine Bostick and Ed Ludlow on \"The C",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-17T00:00:50+00:00"
+      "published_at": "2026-11-17T23:59:56+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
-      "title_zh": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
-      "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
-      "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F871c4f72-0468-4caa-8ca7-60833a90a59f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+      "title_zh": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
+      "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32966346-f6a6-4b73-88d7-cb4eb9423aa6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-17T04:48:34+00:00"
+      "published_at": "2026-11-18T00:45:45+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Nvidia board not considering reinstating Jensen Huang as chief executive",
-      "title_zh": "Nvidia board not considering reinstating Jensen Huang as chief executive",
-      "summary": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-      "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F35e36bd1-dd61-4701-ae79-60e2c8f86664.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Nvidia has a chance to trade drama for durability",
+      "title_zh": "Nvidia has a chance to trade drama for durability",
+      "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+      "url": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e383466-c2e4-49b0-a2d2-48ce85b92edb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T18:14:16+00:00"
+      "published_at": "2026-11-18T02:56:15+00:00"
     },
     {
       "source": "FT",
-      "title_original": "The whole world is long America",
-      "title_zh": "The whole world is long America",
-      "summary": "And may soon have to pay the price for its obsession",
-      "url": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0bf5da71-570c-4a1c-831f-a59681452032.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+      "title_zh": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+      "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
+      "url": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F746c933e-724e-4cea-91c9-ef29a359b4bc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T05:00:11+00:00"
+      "published_at": "2026-11-17T15:33:25+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Why Putin, Trump and Xi cannot be the new ‘big three’",
-      "title_zh": "Why Putin, Trump and Xi cannot be the new ‘big three’",
-      "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
-      "url": "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8dc1030-f811-4a96-b102-3943a29ab82c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "title_zh": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+      "url": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6cb62c7f-849b-411a-bfb4-13cc43be8663.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T12:22:48+00:00"
+      "published_at": "2026-11-18T02:17:18+00:00"
     },
     {
       "source": "FT",
-      "title_original": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-      "title_zh": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-      "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
-      "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bad1a7f-59b6-418a-aaba-d67813460285.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
+      "title_zh": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
+      "summary": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
+      "url": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2397f277-e2aa-4c95-abd0-ba060f6bc642.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T20:48:37+00:00"
+      "published_at": "2026-11-17T05:00:25+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Ukraine strikes Crimean Bridge in record drone attack",
-      "title_zh": "Ukraine strikes Crimean Bridge in record drone attack",
-      "summary": "Russia’s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours",
-      "url": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8c8439-4979-4556-ba82-60b215d2d948.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "AI grapples with the return of the ‘Antichrist’",
+      "title_zh": "AI grapples with the return of the ‘Antichrist’",
+      "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
+      "url": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa66adb8-ce60-44c5-b8b3-26a9dbedf996.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T10:29:11+00:00"
+      "published_at": "2026-11-17T12:20:22+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Russia’s richest woman hit by EU sanctions",
-      "title_zh": "Russia’s richest woman hit by EU sanctions",
-      "summary": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
-      "url": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73504949-dd3b-428a-b55b-cf11fe858fde.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+      "title_zh": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+      "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
+      "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T17:11:52+00:00"
+      "published_at": "2026-11-17T08:09:20+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-      "title_zh": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-      "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-      "url": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e6c186f-172b-4d89-9a67-ccc793f879a3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+      "title_zh": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+      "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
+      "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b720a5-07f6-46ad-b25d-56d624bed67b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T23:22:46+00:00"
+      "published_at": "2026-11-17T06:00:07+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-      "title_zh": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-      "summary": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy oilfield as it expands deepwater production",
-      "url": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56714336-74e5-4556-a072-8f06d02aec1a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Russia’s Putin addresses global CEOs in China",
+      "title_zh": "Russia’s Putin addresses global CEOs in China",
+      "summary": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
+      "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f5ca027-a324-42ff-8645-71f16489a249.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-16T21:20:03+00:00"
+      "published_at": "2026-11-18T03:23:17+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "title_zh": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "summary": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
+      "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7a72f63-cde3-46b3-9d49-7ba0ce41299d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-18T02:19:18+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
+      "title_zh": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
+      "summary": "Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans",
+      "url": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F864f7b49-006f-4bad-a816-72238edbf6ab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-17T21:03:56+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
+      "title_zh": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
+      "summary": "Electric power tool brand Greenworks is expanding its battery-forward lineup in a huge way with the launch of OPTIMUS, an all-new, go-anywhere electric side-by-side utility vehicle that packs over 100 equivalent hp and a 40 mph top speed.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/greenworks_UTV.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-18T01:28:03+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery",
+      "title_zh": "Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery",
+      "summary": "Old solar panels have silver and copper worth recovering. A new US recycling company called Jupiter plans to send metals recovered from retired solar panels and data center hardware to Korea Zinc’s refineries, including a $7.4 billion plant planned for Clarksville, Tennessee.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/solarcycle-pedalpoint-recycling-merge-to-feed-a-7-4b-us-metals-refinery/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/6af78a9c378bf7a00bd7f7c8_jupiter-announcement.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T23:04:02+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Iceland’s first wind farm comes with a water-saving bonus",
+      "title_zh": "Iceland’s first wind farm comes with a water-saving bonus",
+      "summary": "Iceland’s first utility-scale wind farm comes with a useful perk: When the wind picks up, its hydropower reservoirs can save water for later.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Vadolduver-construction-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T22:12:53+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Hyundai reveals new 7-seat Neira electric SUV",
+      "title_zh": "Hyundai reveals new 7-seat Neira electric SUV",
+      "summary": "Hyundai revealed the production-ready Neira EV for the first time, a three-row, seven-seat electric SUV set to launch in Indonesia on November 20.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/hyundai-reveals-new-7-seat-neira-electric-suv/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Neira-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=720",
+      "category": "其他",
+      "published_at": "2026-11-17T22:01:42+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Waymo halts highway operation nationwide after CA DMV pause",
+      "title_zh": "Waymo halts highway operation nationwide after CA DMV pause",
+      "summary": "Waymo has pulled its vehicles from highways nationwide after the California Department of Motor Vehicles ordered the company to pause highway operation in the state, following a viral video showing a Waymo trying to pass a police blockade.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/11/Waymo-cities-freeway.jpg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-17T21:26:19+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028",
+      "title_zh": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028",
+      "summary": "Volkswagen’s revived Scout brand finally has vehicles coming off the line in South Carolina, but they’re validation units, not customer cars. Scout confirms the first deliveries of the Traveler SUV and Terra pickup won’t happen until 2028.\n\n\n\nThat’s two years later than the 2026 production start the",
+      "url": "https://electrek.co/2026/11/17/scout-motors-validation-builds-south-carolina-deliveries-2028/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/scout-motors-blythewood-production-center-aerial.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T21:15:34+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
+      "title_zh": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
+      "summary": "The Woodland version is bigger and more powerful than the standard Toyota bZ, and it may be a better deal right now.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-Woodland-offers.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-17T20:19:21+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents",
+      "title_zh": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents",
+      "summary": "Finding an electric bike for a teenager can be surprisingly tricky. Parents generally want something safe, manageable, and from a reputable company. Teenagers, meanwhile, generally want something that doesn’t look like it was picked out by their parents.\n\n\n\nThe newly launched Juiced Scrambler Mini l",
+      "url": "https://electrek.co/2026/11/17/juiced-scrambler-mini-launched-as-a-cooler-and-safer-e-bike-option-for-teens-and-parents/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-mini-header-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T19:20:09+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
+      "title_zh": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
+      "summary": "Our headliner today is the latest 48-hour EcoFlow flash sale, which has offers like the TITAN 5000 Classic Power Station with 4x 175W rigid solar panels down at a $2,707 low, and others from $899. Hiboy is currently offering up to 45% Black Friday savings on EVs starting from $300, while Worx’s newe",
+      "url": "https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EcoFlow-Hiboy-Worx-Aiper-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T19:00:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
+      "title_zh": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
+      "summary": "The iX5 is BMW’s first fully electric vehicle built in the US, promising an estimated up to 456 miles of range, ultra-fast charging speeds, and plenty of Neue Klasse tech.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX5-first-US-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-17T18:23:03+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)",
+      "title_zh": "11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)",
+      "summary": "An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, is currently losing",
+      "url": "https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/05/20200211-OSEC-LSC-0188_49523463572-e1778741712185.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T16:48:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+      "title_zh": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+      "summary": "Tesla has unveiled Powercore, a solid-state medium-voltage transformer that also handles the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA) continuously at 34.5 kV, with grid-forming support up to 10 MVA of peak power.\n\n\n\nIt’s made in America and scheduled to start",
+      "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T16:35:25+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "GM just made it way easier for EV drivers to charge at Electrify America stations",
+      "title_zh": "GM just made it way easier for EV drivers to charge at Electrify America stations",
+      "summary": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America station to start charging. No apps or credit cards needed.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-EV-Charging-Electrify-America.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-17T16:27:53+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
+      "title_zh": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
+      "summary": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.”\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-spicy-electric-hot-hatch-image.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-17T15:01:34+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
+      "title_zh": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
+      "summary": "Tesla is now taking orders for the $29,990 Cybercab, with the first deliveries expected in Austin next month. But there’s a problem buyers should know about: they won’t be able to charge it at home.\n\n\n\nThe Cybercab has no onboard charger, so it only takes DC fast charging. And the wireless home char",
+      "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-17T14:19:41+00:00"
     },
     {
       "source": "Electrek",
@@ -1040,156 +1310,6 @@
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-cheapest-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "category": "其他",
       "published_at": "2026-11-16T20:26:22+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
-      "title_zh": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
-      "summary": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous. All the statistics point to the fact that per mile, motorcycles are significantly more dangerous. And as someone who promotes them as a better alternative to large cars and trucks for many trips, it’s",
-      "url": "https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/01/ryvid-anthem-motorcycle-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T20:16:30+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more",
-      "title_zh": "Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more",
-      "summary": "The seasonal savings won’t be slowing down anytime soon, with this week’s Green Deals kicking off led by the exclusive deals for Anker’s SOLIX S5000 Power Station and bundles starting from $2,470. There’s also Navee’s Early Access Black Friday EV Sale, with offers like the ST3 Pro City Commuter Elec",
-      "url": "https://electrek.co/2026/11/16/anker-solix-s5000-power-station-navee-st3-pro-e-scooter-lectric-e-bike-accessory-sale-more/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Navee-Lectric-Worx-Greenworks-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T19:00:00+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-      "title_zh": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-      "summary": "A Tesla Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger. Tesla’s own report to federal regulators says Autopilot or “Full Self-Driving” was engaged.\n\n\n\nTesla flagged this crash itself,",
-      "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T18:10:05+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-      "title_zh": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-      "summary": "BYD’s new, larger entry-level EV will go on sale in Europe, but it won’t be called the Dolphin Surf as expected.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/16/byd-bringing-10000-great-seagull-ev-overseas/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Great-Seagull-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "其他",
-      "published_at": "2026-11-16T17:58:05+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
-      "title_zh": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
-      "summary": "Tesla is going to build the Cybercab in Germany. The company confirmed today a first €3 billion investment in a new production building at Giga Berlin designed for up to 1 million Cybercabs a year, with production planned for 2029.\n\n\n\nThat’s a lot of robotaxis for a continent where Tesla can’t opera",
-      "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T17:22:25+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Trump again orders broken coal plant to stay open, even after court said it’s illegal",
-      "title_zh": "Trump again orders broken coal plant to stay open, even after court said it’s illegal",
-      "summary": "The Department of Energy has issued a seventh “emergency” order forcing J.H. Campbell coal plant in Michigan to remain open, 534 days after the plant’s planned retirement. The orders have cost ratepayers $303 million and counting, causing electricity prices to increase amid a global energy crisis.\n\n",
-      "url": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Johnsonville-TN-coal-plant-demolition.jpg?quality=82&#038;strip=all&#038;w=1200",
-      "category": "其他",
-      "published_at": "2026-11-16T16:48:21+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Hyundai IONIQ 5 caught with a new high-tech interior and big display screen",
-      "title_zh": "Hyundai IONIQ 5 caught with a new high-tech interior and big display screen",
-      "summary": "Hyundai appears to be testing a new high-tech setup in the IONIQ 5. A prototype was spotted with the door wide open, exposing a large display and a layout that looks very different from the current model.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/16/hyundai-ioniq-5-caught-new-high-tech-interior-big-display/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-IONIQ-7.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "其他",
-      "published_at": "2026-11-16T16:27:16+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
-      "title_zh": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
-      "summary": "A Tesla Model Y left a parkway in El Dorado Hills, California, hit a tree and burst into flames in September, killing three of the four people inside. Tesla’s own report to federal regulators says Autopilot or “Full Self-Driving” was engaged, with the car doing 74 mph.\n\n\n\nThe crash was widely covere",
-      "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T16:00:24+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
-      "title_zh": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
-      "summary": "A Tesla Model 3 drove into an overturned box truck on I-75 near Naples, Florida, killing two of its passengers and a man who had stopped to help. Tesla’s own report to federal regulators says Autopilot or “Full Self-Driving” was engaged, at 71 mph.\n\n\n\nPolice and local media covered the May 31 crash ",
-      "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-16T15:13:45+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Volkswagen prices its new ID. Cross for the UK, but the $35,000 version comes later",
-      "title_zh": "Volkswagen prices its new ID. Cross for the UK, but the $35,000 version comes later",
-      "summary": "Volkswagen revealed how much its new ID. Cross will cost, with prices starting at around $35,000 in the UK. But if you’re hoping to get the cheaper version, you’ll have to wait a bit longer.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/16/volkswagen-prices-new-id-cross-35000-version-comes-later-uk/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Cross-prices-UK.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "其他",
-      "published_at": "2026-11-16T15:02:03+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-      "title_zh": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-      "summary": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous head-shaving bet isn’t lost.\n\n\n\nTesla has about seven weeks to get a Cybercab into a customer’s hands for under $30,000 before 20",
-      "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-15T16:31:24+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
-      "title_zh": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
-      "summary": "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For context, that’s far enough to mow every inch of space between the Earth and Moon.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-15T16:07:39+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
-      "title_zh": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
-      "summary": "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air of the Tibetan mountains combine to make finding operators even tougher for the operators if this high-altitude copper mine – but SANY thinks they ha",
-      "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-15T15:02:35+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
-      "title_zh": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
-      "summary": "COMAC’s CE-25A, China’s 19-seat battery-electric commuter plane, flew with a crew for the first time on Saturday in Binzhou, Shandong. Two pilots and a flight test engineer were aboard the roughly 10-tonne demonstrator, and COMAC says every system worked normally.\n\n\n\nIt wasn’t the plane’s first flig",
-      "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-15T14:43:57+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
-      "title_zh": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
-      "summary": "Dongfeng Nissan officially opened the early order book on its new NX7 hybrid yesterday, promising up to 320 km (~198 miles) of all-electric range from a 40 kWh lithium iron phosphate (LFP) battery and a $20,000 price tag.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/nissan_nx7.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-14T21:26:03+00:00"
     }
   ]
 }
