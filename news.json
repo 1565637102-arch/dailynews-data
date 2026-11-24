@@ -1,15 +1,85 @@
 {
-  "updated_at": "2026-11-23T03:21:17.607805+00:00",
+  "updated_at": "2026-11-24T06:35:21.661774+00:00",
   "articles": [
     {
       "source": "BBC中文",
-      "title_original": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
-      "title_zh": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
-      "summary": "說唱歌手出身的尼泊爾新總理沙哈首訪印度，盼重啟關係並爭取山洪重建援助，但邊界爭議與經驗不足成考驗",
-      "url": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+      "title_original": "Nvidia和黃仁勳對美國經濟有多重要？",
+      "title_zh": "Nvidia和黃仁勳對美國經濟有多重要？",
+      "summary": "黃仁勳離職僅11天便重掌英偉達，凸顯他對人工智能產業及美國經濟的重要性。他本人和這家晶片巨頭究竟有多大影響力？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvwy0jx7nj84o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b812/live/3d66a730-e79f-11f1-99b6-a35a62fa4264.jpg",
       "category": "其他",
-      "published_at": "2026-11-23T00:09:54+00:00"
+      "published_at": "2026-11-24T00:24:02+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "為何黃仁勳大到不能被解僱？",
+      "title_zh": "為何黃仁勳大到不能被解僱？",
+      "summary": "英偉達能夠發展成為人工智能產業的核心支柱，黃仁勳在當中發揮的關鍵作用，最終成為決定性因素。",
+      "url": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T19:19:55+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "黃仁勳的崛起、殞落與東山再起",
+      "title_zh": "黃仁勳的崛起、殞落與東山再起",
+      "summary": "英偉達黃仁勳因深陷婚外情醜聞而辭職，短短數天後便戲劇性地東山再起。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T19:16:45+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
+      "title_zh": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
+      "summary": "據律師團隊所稱，伊朗女歌手帕拉斯托·阿赫瑪迪、三名音樂人及一名製作人在庫姆被執行74鞭笞刑。",
+      "url": "https://www.bbc.com/zhongwen/articles/cxzd9y2gre3lo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T02:19:54+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "我們如何知道疫苗安全？它們是如何經過測試？",
+      "title_zh": "我們如何知道疫苗安全？它們是如何經過測試？",
+      "summary": "從實驗室試驗到終身的安全監測，疫苗在提供給民眾前後，都會經過多重檢驗。",
+      "url": "https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/34df/live/e4f10aa0-e4e2-11f1-99b6-a35a62fa4264.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T00:27:20+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "黃仁勳辭職11天後重掌Nvidia：大逆轉下盤前股價漲超30%",
+      "title_zh": "黃仁勳辭職11天後重掌Nvidia：大逆轉下盤前股價漲超30%",
+      "summary": "從一週前斷然拒絕其回歸，到如今全票通過復職，英偉達完成了一次戲劇性轉向。投資者的反應同樣直接：消息公佈後，公司股價在紐約盤前交易中上升一度超過30%。",
+      "url": "https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95ec/live/efcce770-e74c-11f1-a094-5fdc692f3e33.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T15:02:48+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
+      "title_zh": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
+      "summary": "身處人工智慧產業中心，舊金山的AI從業人員擔心該產業已經過熱。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmlyj36xxek1o/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T00:24:39+00:00"
+    },
+    {
+      "source": "BBC中文",
+      "title_original": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+      "title_zh": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+      "summary": "最終的協議草案未能被歐盟、太平洋島國和其他國家接受，因為它沒有直接提及化石燃料，而化石燃料是全球暖化的主要原因。",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T05:15:09+00:00"
     },
     {
       "source": "BBC中文",
@@ -33,16 +103,6 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "以毒攻毒？道路安全研究人員找 《GTA》幫忙",
-      "title_zh": "以毒攻毒？道路安全研究人員找 《GTA》幫忙",
-      "summary": "《俠盜獵車手》（GTA）系列中，玩家駕車在虛構城市裡橫衝直撞、大肆破壞，本來就是遊戲樂趣之一。但研究人員卻有不同想法。",
-      "url": "https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9076/live/00fe2880-de81-11f1-b88b-3f1671ea859d.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T06:19:03+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "你的孩子會說謊嗎？這或許並非壞事",
       "title_zh": "你的孩子會說謊嗎？這或許並非壞事",
       "summary": "父母可能會因為孩子撒謊而生氣，但專家解釋說，這是孩子人格成長的過程",
@@ -63,16 +123,6 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "菲律賓寵物火葬場醜聞：死去貓狗屍體出現在直播畫面中",
-      "title_zh": "菲律賓寵物火葬場醜聞：死去貓狗屍體出現在直播畫面中",
-      "summary": "許多傷心的菲律賓人面臨著一個令人痛心的現實：他們的寵物能並沒有得到應有的葬禮",
-      "url": "https://www.bbc.com/zhongwen/articles/cv62pjg5d533o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T08:57:48+00:00"
-    },
-    {
-      "source": "BBC中文",
       "title_original": "地球迎來新的「迷你月亮」——它並不孤單",
       "title_zh": "地球迎來新的「迷你月亮」——它並不孤單",
       "summary": "地球迎來新迷你衛星，體積極小且僅短暫繞行。同時存在準衛星與幽靈衛星等暫時天體，但皆遠不及月球，也無危險。",
@@ -83,43 +133,33 @@
     },
     {
       "source": "BBC中文",
-      "title_original": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
-      "title_zh": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
-      "summary": "香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文。打字方式的改變，會如何影響下一代學習語言？",
-      "url": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c0d/live/e9fc49e0-e4a8-11f1-a094-5fdc692f3e33.jpg",
+      "title_original": "COP31氣候談判破裂，各國為何未能達成共識？",
+      "title_zh": "COP31氣候談判破裂，各國為何未能達成共識？",
+      "summary": "聯合國氣候大會COP31於11月9日在土耳其安塔利亞開幕，原定20日閉幕，卻因談判僵局延至22日，歷時14天，最終仍未能就核心協議達成共識。",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx2xj9d16wlo/trad?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca56/live/189ec910-e708-11f1-99a1-253766e7ad8b.jpg",
       "category": "其他",
-      "published_at": "2026-11-20T06:12:18+00:00"
+      "published_at": "2026-11-23T08:47:39+00:00"
     },
     {
-      "source": "BBC中文",
-      "title_original": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
-      "title_zh": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
-      "summary": "四名男子性侵一名被其丈夫下藥的女子，被裁定性侵罪成。",
-      "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dae1/live/2fc34f30-e433-11f1-a094-5fdc692f3e33.jpg",
+      "source": "自由亚洲",
+      "title_original": "黄仁勋重返英伟达掌舵 美官方确认无国安风险但国会问询照旧",
+      "title_zh": "黄仁勋重返英伟达掌舵 美官方确认无国安风险但国会问询照旧",
+      "summary": "美国科技巨头英伟达（NVIDIA）董事会周一（11月23日）发布公告，宣布经一致表决，即刻恢复联合创始人黄仁勋（Jensen Huang）的总裁、首席执行官及董事会成员职务，此前担任临时CEO的科莱特·克雷斯（Colette Kress）继续留任首席财务官。这场因婚外情风波及“涉华情报人员接触疑云”引发的震荡在历时11天后迎来反转。消息公布后，华尔街迅速作出积极反应，英伟达美股早盘股价应声暴涨约30%。此次风波之所以在华盛顿引发高度震动，源于其直接触及美国近年来最为关切的对华高端AI芯片出口管制红线。近年来，美国政府持续收紧先进算力芯片对华出口限制，严防高端芯片通过第三方商业渠道流入受限实体。",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/23/nvidia-jensen-huang-reinstatement/",
+      "image_url": "https://www.rfa.org/resizer/v2/FXI3KHAYQZALBOKHNMZ4USUZDQ.JPG?auth=4a9402eb29ea14452907891cfc70e4e44e594d41bee0265c93598bedfa1cfbb1&smart=true&width=1500",
       "category": "其他",
-      "published_at": "2026-11-20T09:24:25+00:00"
+      "published_at": "2026-11-23T21:39:29+00:00"
     },
     {
-      "source": "BBC中文",
-      "title_original": "台灣「九合一」選舉：有哪些看點？藍綠勝負如何影響2028大選佈局？",
-      "title_zh": "台灣「九合一」選舉：有哪些看點？藍綠勝負如何影響2028大選佈局？",
-      "summary": "11月28日，台灣將舉行「九合一」地方選舉。BBC中文走訪台北、新北與高雄三大關鍵戰場，解析藍綠激戰、中間選民崛起，以及中國因素對選情的影響。這場選舉不只關乎地方治理，也可能為2028年總統大選定下基調。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a036/live/c9da6df0-e4f2-11f1-a094-5fdc692f3e33.jpg",
+      "source": "自由亚洲",
+      "title_original": "秦城监狱扩建　知情人士称部分官员转关押异地",
+      "title_zh": "秦城监狱扩建　知情人士称部分官员转关押异地",
+      "summary": "英国《经济学人》11月19日报道，卫星图像显示，北京秦城监狱正在扩建。该刊估计，今年初启动的工程将新增至少300间牢房，较原有数量增加约五成。秦城监狱位于北京市昌平区，由中国公安部管理，长期关押落马高官。据公开报道，前中共政治局常委周永康、前政治局委员薄熙来曾被关押在这里。北京一位熟悉秦城监狱的学者朱先生告诉本台，秦城自2018年以来多次翻新、增建囚室，部分人员已被转往内蒙古关押。他说：“因为秦城关押的都是高级官员，有些高级官员一人占据两间囚室，然而高官罪犯越来越多，现在的囚室装不下这么多省部级贪官，有些人被转到内蒙监狱关押。”朱先生说，秦城有些在押人员从接受审查到判刑后服刑，都留在同一所监狱",
+      "url": "https://rfa.org/mandarin/zhengzhi/2026/11/23/china-qincheng-prison-imprisonment-prison-corrupt-officials/",
+      "image_url": "https://www.rfa.org/resizer/v2/274V7GKE2FFJXC327WHGEGS6MM.jpg?auth=d3fef42a2f5d6327f5ce6b90d89b14bb929e0c015077f0b17f1fa076469f2b91&smart=true&width=1500",
       "category": "其他",
-      "published_at": "2026-11-20T15:55:24+00:00"
-    },
-    {
-      "source": "BBC中文",
-      "title_original": "中美俄「三巨頭」會晤的台前幕後",
-      "title_zh": "中美俄「三巨頭」會晤的台前幕後",
-      "summary": "BBC記者從深圳帶你回顧這場中美俄「三巨頭」峰會的台前幕後。",
-      "url": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31c4/live/230c4ca0-e5a1-11f1-99b6-a35a62fa4264.jpg",
-      "category": "其他",
-      "published_at": "2026-11-20T16:16:46+00:00"
+      "published_at": "2026-11-23T10:14:49+00:00"
     },
     {
       "source": "自由亚洲",
@@ -152,334 +192,494 @@
       "published_at": "2026-11-21T11:52:07+00:00"
     },
     {
-      "source": "自由亚洲",
-      "title_original": "APEC会后观察：特习谈“战略稳定关系” 美中俄谈降低核风险 落实仍待检验",
-      "title_zh": "APEC会后观察：特习谈“战略稳定关系” 美中俄谈降低核风险 落实仍待检验",
-      "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议落幕。11月19日在深圳麒麟山庄举行的两场会谈，留下不同的公开成果：在美中双边会谈中，中方称美国总统特朗普与中国国家主席习近平同意为“建设性战略稳定关系”制定行动计划；在俄罗斯总统普京随后参加的首次美中俄三方会谈中，三国承诺就降低核风险和防止核扩散展开对话，但没有公布裁减核武或推动停火的方案。白宫19日晚公布了与中俄版本内容一致的三方《和平宣言》，但截至本篇发稿时，白宫公开信息尚未见另行发布习特双边会谈纪要。三位接受自由亚洲电台采访的学者和分析人士认为，深圳会谈让大国领导人得以直接沟通，但公开承诺距离可执行的政策还有一段距离。北京能否稳住与华盛",
-      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/20/apec-trilateral-summit-analysis/",
-      "image_url": "https://www.rfa.org/resizer/v2/NJ46XQNW25HQTMCQOR2KRWUSZU.jpg?auth=1b9217c3c52b9403742a64f3cd57994b76f44f9ac97389055aa777b87ab3f5d6&smart=true&width=1500",
+      "source": "The Verge",
+      "title_original": "Google alternative Kagi launches an email service",
+      "title_zh": "Google alternative Kagi launches an email service",
+      "summary": "\n\n\n\t\n\t\t\n\nKagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-20T11:47:51+00:00"
-    },
-    {
-      "source": "自由亚洲",
-      "title_original": "路透：美国新规堵住芯片制造漏洞 台积电收紧对中国AI芯片限制",
-      "title_zh": "路透：美国新规堵住芯片制造漏洞 台积电收紧对中国AI芯片限制",
-      "summary": "美国商务部工业与安全局（BIS）11月16日发布先进芯片出口管制新规于19日正式生效，路透社引述知情人士消息指出，台积电下令，凡使用16纳米及以下制程技术的受影响订单，除非客户取得美国出口许可证，否则都必须暂停。此举将使受影响的中国客户只能使用较成熟的28纳米及40纳米制程，且相关芯片不得采用高带宽内存（HBM）或先进封装技术。这项限制可能进一步阻碍中国企业研发能够替代英伟达（Nvidia）产品的AI芯片。本台此前采访的专家表示，BIS新规重点针对中国企业通过第三国数据中心远程获取先进算力的渠道。此项新规发布后，中国随即表示反对。台积电周五通过电子邮件向路透社表示：“台积电知悉美国工业与安全局",
-      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/20/tsmc-tightens-china-ai-chip-curbs-bis/",
-      "image_url": "https://www.rfa.org/resizer/v2/CW2YW3E5ZNANDCYBDXBZPQS7SI.png?auth=551775bf96a1e7f5b94e71715f2470db02ef54596ac56b62633ab9bdc20ad48d&smart=true&width=1500",
-      "category": "其他",
-      "published_at": "2026-11-20T08:01:55+00:00"
+      "published_at": "2026-11-24T00:02:52+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "title_zh": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "summary": "\n\n\n\t\n\t\t\n\nAfter expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping gr",
-      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "title_zh": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "summary": "\n\n\n\t\n\t\t\n\nArion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-23T03:00:00+00:00"
+      "published_at": "2026-11-23T23:25:01+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "We haven’t seen the last of the major tech outages",
-      "title_zh": "We haven’t seen the last of the major tech outages",
-      "summary": "\n\n\n\t\n\t\t\n\nOver the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN:\n\n\"",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "The Verge’s 2026 holiday gift guide",
+      "title_zh": "The Verge’s 2026 holiday gift guide",
+      "summary": "\n\n\n\t\n\t\t\n\nGift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T22:48:02+00:00"
+      "published_at": "2026-11-23T23:14:10+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Delta flights in and out of Atlanta delayed due to system outage",
-      "title_zh": "Delta flights in and out of Atlanta delayed due to system outage",
-      "summary": "\n\n\n\t\n\tA Delta Air Lines Airbus A220. | Photo: Saul Loeb / AFP via Getty Images\t\n\nAll Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's ",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Ladybird, the first new browser engine in years, is now available to test",
+      "title_zh": "Ladybird, the first new browser engine in years, is now available to test",
+      "summary": "\n\n\n\t\n\tA Windows version of Ladybird is coming in the “later stages” of the project. | Image: Ladybird\t\n\nLadybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alph",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T17:46:44+00:00"
+      "published_at": "2026-11-23T22:38:09+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "title_zh": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "summary": "\n\n\n\t\n\t\t\n\nThe Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Trump engineered a risky comeback for Jensen Huang",
+      "title_zh": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "\n\n\n\t\n\t\t\n\nAfter Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T17:25:20+00:00"
+      "published_at": "2026-11-23T22:25:12+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "title_zh": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "summary": "\n\n\n\t\n\tThis ain’t gonna buff out.\t\n\nBlack Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "title_zh": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "\n\n\n\t\n\t\t\n\nAfter the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T17:00:00+00:00"
+      "published_at": "2026-11-23T22:10:32+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "title_zh": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "summary": "\n\n\n\t\n\t\t\n\nSheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu.\nThe instrumentation on Khudgarzi draws on tradi",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Welcome to elite impunity, Jensen Huang",
+      "title_zh": "Welcome to elite impunity, Jensen Huang",
+      "summary": "\n\n\n\t\n\tToo big to fail, the sequel. | Image: The Verge; Getty Images\t\n\nI suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.\nNow, those ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T16:33:29+00:00"
+      "published_at": "2026-11-23T22:09:26+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Protesters storm Meta offices in India",
-      "title_zh": "Protesters storm Meta offices in India",
-      "summary": "\n\n\n\t\n\t\t\n\nMembers of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. T",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "title_zh": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "summary": "\n\n\n\t\n\tThe Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T15:15:07+00:00"
+      "published_at": "2026-11-23T21:36:48+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "title_zh": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "summary": "\n\n\n\t\n\t\t\n\nThose hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, ",
-      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "AI data centers throw another wrench into chaotic UN climate talks",
+      "title_zh": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "\n\n\n\t\n\tPeople protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images\t\n\nThe clean energy revolution hinges on electrifying the entire global economy just as power-hungry data ce",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T14:00:00+00:00"
+      "published_at": "2026-11-23T21:09:37+00:00"
     },
     {
       "source": "The Verge",
-      "title_original": "‘The show is starting soon. Please turn on your headphones.’",
-      "title_zh": "‘The show is starting soon. Please turn on your headphones.’",
-      "summary": "\n\n\n\t\n\tLove Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown\t\n\nUp a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers ",
-      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title_original": "Apple renews Ted Lasso for season 5",
+      "title_zh": "Apple renews Ted Lasso for season 5",
+      "summary": "\n\n\n\t\n\t\t\n\nOne of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season ",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "其他",
-      "published_at": "2026-11-22T14:00:00+00:00"
-    },
-    {
-      "source": "The Verge",
-      "title_original": "How Tamagotchis got us hooked on digital pets",
-      "title_zh": "How Tamagotchis got us hooked on digital pets",
-      "summary": "\n\n\n\t\n\t\t\n\nIf you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. U",
-      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "其他",
-      "published_at": "2026-11-22T13:15:27+00:00"
-    },
-    {
-      "source": "Ars Technica",
-      "title_original": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "title_zh": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "summary": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them. What they discovered was an ecosystem that leaked highly sensitive data like a sieve.\nThe exposure was found through an in",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-      "category": "其他",
-      "published_at": "2026-11-20T20:59:08+00:00"
+      "published_at": "2026-11-23T20:56:00+00:00"
     },
     {
       "source": "Wired",
-      "title_original": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "title_zh": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "url": "https://www.wired.com/gallery/best-travel-adapters/",
-      "image_url": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T12:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
-      "title_zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
-      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
-      "image_url": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T11:30:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-      "title_zh": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "image_url": "https://media.wired.com/photos/6b00a7fa835217c5c30f2b18/master/pass/The-Gifts-Moms-Actually-Want,-Picked-by-Moms.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T11:02:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Banks Have Had It Up to Here With Your AI Agent",
-      "title_zh": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "image_url": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T11:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
-      "title_zh": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
-      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
-      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
-      "image_url": "https://media.wired.com/photos/6afec80a658c126f4fca9f94/master/pass/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T10:30:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "How This Year’s Super El Niño Will Worsen Global Hunger",
-      "title_zh": "How This Year’s Super El Niño Will Worsen Global Hunger",
-      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
-      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-      "image_url": "https://media.wired.com/photos/6b00ddb2631c13f3e234776c/master/pass/How-This-Years-Super-El-Nino-Will-Worsen-Global-Hunger-Science-2297395830.jpg",
-      "category": "其他",
-      "published_at": "2026-11-22T10:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Outages Are Just Getting Started",
-      "title_zh": "The Outages Are Just Getting Started",
-      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "image_url": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "title_zh": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "image_url": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T12:01:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "title_zh": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
-      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-      "image_url": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png",
-      "category": "其他",
-      "published_at": "2026-11-21T12:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "title_zh": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
-      "image_url": "https://media.wired.com/photos/6b0138f3d9699de6f24482d6/master/pass/Review--Sony-Bravia-9-II-TV.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T11:30:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "title_zh": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "summary": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
-      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-      "image_url": "https://media.wired.com/photos/6b0130a435cb0e2956884a12/master/pass/Pure-One-Station-5.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T11:30:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Best Laptops for Travel (2026): Which to Take on the Road",
-      "title_zh": "Best Laptops for Travel (2026): Which to Take on the Road",
-      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-      "url": "https://www.wired.com/story/best-laptops-for-travel/",
-      "image_url": "https://media.wired.com/photos/6aff4b9df2cbbbfa7d0cf100/master/pass/GettyImages-2160884480.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T11:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "17 Best Gifts for Women in the Enshittocene (2026)",
-      "title_zh": "17 Best Gifts for Women in the Enshittocene (2026)",
-      "summary": "The least you can do is buy her something nice.",
-      "url": "https://www.wired.com/story/best-gifts-for-women/",
-      "image_url": "https://media.wired.com/photos/6b00a34ddb184e9e0cfa8424/master/pass/Best-Gifts-for-Women-Who-Deserve-Compensation.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T10:02:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "The Manosphere Isn’t Ready for Brothercore",
-      "title_zh": "The Manosphere Isn’t Ready for Brothercore",
-      "summary": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
-      "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
-      "image_url": "https://media.wired.com/photos/6b00e9307020ceeb4716a30e/master/pass/W-24.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T10:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Mint Mobile Discounts for November 2026",
-      "title_zh": "Mint Mobile Discounts for November 2026",
-      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
-      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
-      "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Mountain Hardwear Coupon Code 15% Off November",
-      "title_zh": "Mountain Hardwear Coupon Code 15% Off November",
-      "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
-      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
-      "image_url": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Google Workspace Promo Codes: 14% Off for November 2026",
-      "title_zh": "Google Workspace Promo Codes: 14% Off for November 2026",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "image_url": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-      "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Nike Promo Codes and Discounts: 30% for November 2026",
-      "title_zh": "Nike Promo Codes and Discounts: 30% for November 2026",
-      "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Therabody Promo Codes: 15% Off November 2026",
-      "title_zh": "Therabody Promo Codes: 15% Off November 2026",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "url": "https://www.wired.com/story/therabody-promo-code/",
-      "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-      "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "Wired",
-      "title_original": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-      "title_zh": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
-      "url": "https://www.wired.com/story/total-wireless-promo-code/",
+      "title_original": "B&H Photo Promo Codes and Deals This November 2026",
+      "title_zh": "B&H Photo Promo Codes and Deals This November 2026",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
       "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
       "category": "其他",
-      "published_at": "2026-11-21T06:00:00+00:00"
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "title_zh": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Hoka Coupon Codes: 30% Off in November 2026",
+      "title_zh": "Hoka Coupon Codes: 30% Off in November 2026",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Layla Sleep Coupon: Save Up to $600 in November 2026",
+      "title_zh": "Layla Sleep Coupon: Save Up to $600 in November 2026",
+      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.",
+      "url": "https://www.wired.com/story/layla-sleep-coupon/",
+      "image_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
+      "title_zh": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
+      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "url": "https://www.wired.com/story/chegg-coupon-code/",
+      "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Mattress Firm Coupons: Save up to $700",
+      "title_zh": "Mattress Firm Coupons: Save up to $700",
+      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Bartesian Discount Codes: 35% Off",
+      "title_zh": "Bartesian Discount Codes: 35% Off",
+      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "url": "https://www.wired.com/story/bartesian-discount-code/",
+      "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Alo Discount Code: 20% Off November 2026",
+      "title_zh": "Alo Discount Code: 20% Off November 2026",
+      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Herman Miller Promo Codes: 40% Off November 2026",
+      "title_zh": "Herman Miller Promo Codes: 40% Off November 2026",
+      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "HP Coupon Codes and Deals November 2026",
+      "title_zh": "HP Coupon Codes and Deals November 2026",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "url": "https://www.wired.com/story/hp-coupon-code/",
+      "image_url": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Dermstore Coupons: 25% Off for November 2026",
+      "title_zh": "Dermstore Coupons: 25% Off for November 2026",
+      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "url": "https://www.wired.com/story/dermstore-promo-code/",
+      "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Pura Promo Codes: $20 Off November 2026",
+      "title_zh": "Pura Promo Codes: $20 Off November 2026",
+      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+      "url": "https://www.wired.com/story/pura-promo-code/",
+      "image_url": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "ABT Promo Codes & Discounts for November 2026",
+      "title_zh": "ABT Promo Codes & Discounts for November 2026",
+      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
+      "url": "https://www.wired.com/story/abt-promo-code/",
+      "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "30% VistaPrint Coupon & Promo Codes | November 2026",
+      "title_zh": "30% VistaPrint Coupon & Promo Codes | November 2026",
+      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+      "title_zh": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+      "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.",
+      "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+      "image_url": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Purple Promo Codes and Deals: Up to 30% Off",
+      "title_zh": "Purple Promo Codes and Deals: Up to 30% Off",
+      "summary": "On the hunt for the perfect mattress or pillow? Save on your soon-to-be favorite brand, Purple, with these Purple coupons and deals.",
+      "url": "https://www.wired.com/story/purple-promo-code/",
+      "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Skullcandy Discount Code: 30% Off | November 2026",
+      "title_zh": "Skullcandy Discount Code: 30% Off | November 2026",
+      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+      "url": "https://www.wired.com/story/skullcandy-discount-code/",
+      "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "category": "其他",
+      "published_at": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "title_zh": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/master/pass/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+      "category": "其他",
+      "published_at": "2026-11-24T01:35:38+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "title_zh": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "image_url": "https://media.wired.com/photos/6b0499d1945816fbdeabbb63/master/pass/How-to-Make-Big-Money-Betting-on-Jensen-Business-2298607192.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T21:31:08+00:00"
+    },
+    {
+      "source": "Wired",
+      "title_original": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "title_zh": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
+      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+      "image_url": "https://media.wired.com/photos/6b00cf1fe6d43a3251b4bce0/master/pass/Local-Officials-Say-Pentagon-Told-Them-Nothing-About-Volcano-of-Exploding-Lead-Science-2305973748.jpg",
+      "category": "其他",
+      "published_at": "2026-11-23T18:46:51+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Figma employee sues, alleging company forced her to confront harassers",
+      "title_zh": "Figma employee sues, alleging company forced her to confront harassers",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T23:07:49+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_zh": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T22:05:50+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "title_zh": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T22:02:05+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "title_zh": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T21:47:41+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "title_zh": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T21:25:42+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "title_zh": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T20:38:53+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "title_zh": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T19:31:41+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_zh": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T19:14:46+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "title_zh": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T18:12:22+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_zh": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T17:14:23+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Meta throws out its net-zero goal — its competitors should be furious",
+      "title_zh": "Meta throws out its net-zero goal — its competitors should be furious",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T17:13:45+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Jensen Huang isn’t out of the woods yet",
+      "title_zh": "Jensen Huang isn’t out of the woods yet",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T16:57:40+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "title_zh": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T16:39:10+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "CrowdStrike to acquire Zscaler for $44 billion",
+      "title_zh": "CrowdStrike to acquire Zscaler for $44 billion",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T16:20:11+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "title_zh": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T15:29:49+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "title_zh": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T15:04:01+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "title_zh": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T14:43:03+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "title_zh": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T14:21:59+00:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title_original": "Uber now lets you book rides that record the drive by default",
+      "title_zh": "Uber now lets you book rides that record the drive by default",
+      "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "image_url": null,
+      "category": "其他",
+      "published_at": "2026-11-23T14:00:00+00:00"
     },
     {
       "source": "TechCrunch",
@@ -492,474 +692,414 @@
       "published_at": "2026-11-23T01:25:53+00:00"
     },
     {
-      "source": "TechCrunch",
-      "title_original": "‘You Can See Everything’ has made more than $100M worldwide",
-      "title_zh": "‘You Can See Everything’ has made more than $100M worldwide",
-      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "Bloomberg",
+      "title_original": "South Korea Considers Potential $3 Billion Dollar Bond Sale",
+      "title_zh": "South Korea Considers Potential $3 Billion Dollar Bond Sale",
+      "summary": "South Korea is considering issuing potentially about $3 billion of dollar-denominated notes in January.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/south-korea-considers-potential-3-billion-dollar-bond-sale",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T21:42:48+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "title_zh": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T21:14:07+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "The best apps to make new friends right now",
-      "title_zh": "The best apps to make new friends right now",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T21:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Why data centers are at the center of the Big Tech backlash",
-      "title_zh": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T18:08:43+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "title_zh": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T17:06:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Can a TV be too large? An investigation",
-      "title_zh": "Can a TV be too large? An investigation",
-      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T15:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "title_zh": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T21:37:10+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "A tale of two Nvidias",
-      "title_zh": "A tale of two Nvidias",
-      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T21:07:42+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Trump says reported FBI database hack is ‘not good’",
-      "title_zh": "Trump says reported FBI database hack is ‘not good’",
-      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T18:44:53+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Here are the top AI agents that can live in your text messages",
-      "title_zh": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T17:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "title_zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T16:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Alaska, your next governor is a Wikipedia nerd",
-      "title_zh": "Alaska, your next governor is a Wikipedia nerd",
-      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T15:18:29+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Startup sues Apple in India over tap-to-share contacts feature",
-      "title_zh": "Startup sues Apple in India over tap-to-share contacts feature",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-21T04:00:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "title_zh": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T20:58:29+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "title_zh": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T19:53:41+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "title_zh": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T19:32:08+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Super-hot rock geothermal could end data center energy woes",
-      "title_zh": "Super-hot rock geothermal could end data center energy woes",
-      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T18:34:00+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Chips can survive the space environment — can their financing?",
-      "title_zh": "Chips can survive the space environment — can their financing?",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T17:40:01+00:00"
-    },
-    {
-      "source": "TechCrunch",
-      "title_original": "Bending Spoons buys Mailchimp for $3.68B",
-      "title_zh": "Bending Spoons buys Mailchimp for $3.68B",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-20T16:16:06+00:00"
+      "published_at": "2026-11-24T06:20:31+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "South Korea Says Market Measures Will Ease Investor Jitters",
-      "title_zh": "South Korea Says Market Measures Will Ease Investor Jitters",
-      "summary": "South Korea’s finance minister said the government’s latest market-stabilization measures should help restore investor confidence, even as the benchmark Kospi slumped another 5% on Monday following last week’s selloff.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+      "title_original": "Copper Erases Brief Nvidia Bounce on Demand and Rate Concerns",
+      "title_zh": "Copper Erases Brief Nvidia Bounce on Demand and Rate Concerns",
+      "summary": "Copper erased a one-day gain sparked by Jensen Huang’s return to Nvidia Corp., with prices tumbling back toward the $12,000-a-ton level in London as demand and interest-rate concerns returned to the fore.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T03:09:14+00:00"
+      "published_at": "2026-11-24T02:38:19+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "India’s Appeal Grows as Global Tech Selloff Deepens",
-      "title_zh": "India’s Appeal Grows as Global Tech Selloff Deepens",
-      "summary": "India’s appeal as an anti-AI market is growing as the global tech selloff deepens. From stocks to the currency, Indian assets are drawing fresh foreign interest as several tailwinds fall into place. Bloomberg’s Abhishek Vishnoi explains what to watch this week. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/india-s-appeal-grows-as-global-tech-selloff-deepens-video",
+      "title_original": "China Warns Huang Comeback Doesn’t End ‘Malicious’ Risks From US",
+      "title_zh": "China Warns Huang Comeback Doesn’t End ‘Malicious’ Risks From US",
+      "summary": "Jensen Huang’s return to the helm of Nvidia Corp. restores the AI industry’s most prominent opponent of chip controls against China. Already, Beijing has signaled it sees little reason to expect Washington’s restrictions to ease.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T03:08:54+00:00"
+      "published_at": "2026-11-24T06:12:55+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
-      "title_zh": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
-      "summary": "Copper briefly sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+      "title_original": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+      "title_zh": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+      "summary": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T01:05:30+00:00"
+      "published_at": "2026-11-23T22:06:46+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "US Stock Futures Bounce After Rout, Havens Decline: Markets Wrap",
-      "title_zh": "US Stock Futures Bounce After Rout, Havens Decline: Markets Wrap",
-      "summary": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "title_original": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+      "title_zh": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+      "summary": "Goldman Sachs Group Inc. said stabilizing South Korea’s currency would be a more effective way to curb inflation than raising interest rates, arguing that price pressures stem more from rising import costs than from strong domestic demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T22:02:27+00:00"
+      "published_at": "2026-11-24T04:33:10+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "European Gas Surges as Cold Snap Threatens Tight Inventories",
-      "title_zh": "European Gas Surges as Cold Snap Threatens Tight Inventories",
-      "summary": "European natural gas jumped after forecasts for colder weather in the coming days, which could put further pressure on inventories already depleted by export disruptions stemming from the US-Iran war.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+      "title_original": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
+      "title_zh": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
+      "summary": "The central banks of Singapore and China will expand ways for financial institutions to access yuan funding in the city-state to help finance a broader range of corporate activities, in another step to promote the currency’s international use.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T02:46:27+00:00"
+      "published_at": "2026-11-24T04:50:54+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Asian Stocks Drop as AI Worries Offset State Support Measures",
-      "title_zh": "Asian Stocks Drop as AI Worries Offset State Support Measures",
-      "summary": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "title_original": "India Banking Cash Turns to Deficit, First Time Since June",
+      "title_zh": "India Banking Cash Turns to Deficit, First Time Since June",
+      "summary": "India’s banking-system liquidity slipped into deficit for the first time in about five months, as recent tax outflows drained cash from lenders.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T11:06:19+00:00"
+      "published_at": "2026-11-23T08:42:10+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
-      "title_zh": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
-      "summary": "India’s equity benchmark climbed as the S&amp;P 500, MSCI’s Asia gauge and gold each lost more than 5% last week.",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+      "title_original": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+      "title_zh": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+      "summary": "Gold held a gain after surging Monday on the back of Jensen Huang’s surprise return to the helm of Nvidia Corp., which recharged bets on artificial intelligence and spurred rallies across markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T02:36:16+00:00"
+      "published_at": "2026-11-24T00:06:57+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
-      "title_zh": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
-      "summary": "Tata Steel Ltd. has agreed to acquire a 26.4% stake in APL Apollo Tubes Ltd. for as much as 155.1 billion rupees ($1.7 billion), deepening its presence in India’s structural steel products market.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+      "title_original": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+      "title_zh": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping g",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T02:30:05+00:00"
+      "published_at": "2026-11-24T05:00:29+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
-      "title_zh": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
-      "summary": "MSCI Inc. Chief Executive Henry Fernandez conveyed a willingness to consider alternatives to a two-step downgrade of Indonesia’s stock-market status in recent direct talks with President Prabowo Subianto, according to people with knowledge of the discussion.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+      "title_original": "Temasek-Backed M1, Starhub Merge in Singapore Telecoms Shakeup",
+      "title_zh": "Temasek-Backed M1, Starhub Merge in Singapore Telecoms Shakeup",
+      "summary": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two major Singaporean telecommunications operators backed by state investor Temasek Holdings Pte.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T02:27:39+00:00"
+      "published_at": "2026-11-24T01:07:27+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
-      "title_zh": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
-      "summary": "Gold rebounded from its biggest weekly decline in eight months as a technology-stock rout pushed traders to seek haven assets, driving down US Treasury yields and the dollar.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "title_original": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+      "title_zh": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+      "summary": "US Treasuries gained across the curve as a drop in oil prices eased concerns about inflation, a notable move on a day when Jensen Huang’s return to Nvidia Corp. revived investor appetite for risk assets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T00:28:03+00:00"
+      "published_at": "2026-11-24T04:42:33+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Asia Market Measures May Buffer Stock Losses: BNP",
-      "title_zh": "Asia Market Measures May Buffer Stock Losses: BNP",
-      "summary": "Jason Lui, Head of APAC Equity Derivative Strategy at BNP Paribas, says market support measures in China, Taiwan and South Korea may provide a buffer against weak sentiment, but longer-term investment returns will still face long-term uncertainty from US data-center regulations and restrictions on r",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
+      "title_original": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+      "title_zh": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+      "summary": "Asia’s AI trade came roaring back Tuesday, with chipmakers and data-center plays from Taiwan to Kuala Lumpur surging as Jensen Huang’s return to Nvidia unleashed a buying frenzy across a sector battered by weeks of doubts over the durability of the AI boom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T02:04:38+00:00"
+      "published_at": "2026-11-23T23:45:20+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Latest Oil Market News and Analysis for Nov. 23",
-      "title_zh": "Latest Oil Market News and Analysis for Nov. 23",
-      "summary": "Oil dipped as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+      "title_original": "MSCI Says No Change in Indonesia Market Consultation Process",
+      "title_zh": "MSCI Says No Change in Indonesia Market Consultation Process",
+      "summary": "US index compiler MSCI Inc. said Tuesday that it hadn’t changed its process for considering a downgrade of Indonesia’s stock-market status, a day after Bloomberg reported news of a meeting between the company’s chief executive and President Prabowo Subianto.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T23:06:06+00:00"
+      "published_at": "2026-11-24T04:13:48+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Why Asia Market Stabilization Measures May Not Be Enough",
-      "title_zh": "Why Asia Market Stabilization Measures May Not Be Enough",
-      "summary": "Bloomberg's Lianting Tu talks about investor sentiment that recent stabilization measures in China, Taiwan and Korea are not quite enough, and how near-term outlook depends on dip buying and whether hedge funds keep cutting positions. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 24",
+      "title_zh": "Latest Oil Market News and Analysis for Nov. 24",
+      "summary": "Oil pushed lower after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T01:59:03+00:00"
+      "published_at": "2026-11-23T23:04:12+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
-      "title_zh": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
-      "summary": "Taiwan stocks saw the biggest unwind of leveraged bets in at least three decades on Friday, helping to explain why the authorities’ efforts to stem the selloff in Asia’s most tech-heavy market are having a limited impact.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
+      "title_original": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+      "title_zh": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+      "summary": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T01:55:17+00:00"
+      "published_at": "2026-11-24T04:06:12+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
-      "title_zh": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
-      "summary": "China’s state-backed funds poured a record amount of money into the market on Friday in another forceful attempt to stem a deepening selloff.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
+      "title_original": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+      "title_zh": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+      "summary": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T01:48:30+00:00"
+      "published_at": "2026-11-24T03:42:00+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
-      "title_zh": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
-      "summary": "US Treasury futures declined as demand for havens waned on signs that the recent selloff in equities may be drawing some buyers back.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+      "title_original": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+      "title_zh": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+      "summary": "Shares in Chinese cobalt producers surged after the Democratic Republic of Congo slapped an export ban on the battery metal from the end of the month in a bid to arrest a price decline.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T23:59:06+00:00"
+      "published_at": "2026-11-24T03:17:56+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
-      "title_zh": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
-      "summary": "ICICI Prudential Asset Management Co. is seeking as much as $800 million for private credit and special opportunities funds, according to people familiar with the matter, tapping growing demand for alternative assets from wealthy investors and institutions.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
+      "title_original": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+      "title_zh": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+      "summary": "Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T01:30:00+00:00"
+      "published_at": "2026-11-24T03:07:20+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
-      "title_zh": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
-      "summary": "US stock futures rebounded as dip buyers stepped in following a steep selloff that saw a violent rotation out of technology shares, in a signal of heightened volatility in the artificial intelligence trade.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "title_original": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
+      "title_zh": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
+      "summary": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-22T23:04:42+00:00"
+      "published_at": "2026-11-24T01:29:41+00:00"
     },
     {
       "source": "Bloomberg",
-      "title_original": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-      "title_zh": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-      "summary": "Masahiko Loo, Chief Fixed Income Strategist at State Street Investment Management, says US treasuries are resuming a negative correlation with stocks. He speaks as US bond futures decline in early Asia trading. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
+      "title_original": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
+      "title_zh": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
+      "summary": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
       "image_url": null,
       "category": "其他",
-      "published_at": "2026-11-23T00:30:45+00:00"
-    },
-    {
-      "source": "Bloomberg",
-      "title_original": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
-      "title_zh": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
-      "summary": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
-      "url": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
-      "image_url": null,
-      "category": "其他",
-      "published_at": "2026-11-22T23:00:17+00:00"
+      "published_at": "2026-11-23T10:11:28+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Tech stock sell-off deepens in Asia",
-      "title_zh": "Tech stock sell-off deepens in Asia",
-      "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
-      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a4cccba-42a8-4b9f-8427-6f9b292ad50b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+      "title_zh": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0c61c4-2735-40b5-b13c-db6c73bcbe7d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-23T01:55:07+00:00"
+      "published_at": "2026-11-23T22:46:14+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Will Anthropic buck the tech sell-off?",
-      "title_zh": "Will Anthropic buck the tech sell-off?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbfd1ffe2-2fb8-4727-aff3-e58056ba611d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+      "title_zh": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+      "summary": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
+      "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97e695d9-a1f6-4494-ae30-942a240f619c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T12:00:06+00:00"
+      "published_at": "2026-11-23T22:21:44+00:00"
     },
     {
       "source": "FT",
-      "title_original": "The American dream of home ownership recedes as mortgage rates surge",
-      "title_zh": "The American dream of home ownership recedes as mortgage rates surge",
-      "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
-      "url": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6621ea31-86b1-455a-9cdf-32c1a6111eee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Huang is back because he left Nvidia no choice",
+      "title_zh": "Huang is back because he left Nvidia no choice",
+      "summary": "Nvidia took Huang back because his failures left the company with no other options",
+      "url": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd404f0b4-4020-4641-a0dc-109625d85711.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T11:00:06+00:00"
+      "published_at": "2026-11-23T17:17:50+00:00"
     },
     {
       "source": "FT",
-      "title_original": "House Democrats to start new Congress with largest majority this century",
-      "title_zh": "House Democrats to start new Congress with largest majority this century",
-      "summary": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
-      "url": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e31f254-83c3-4d16-a0d8-395c0ca72fc2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "The spies are coming for Big Tech",
+      "title_zh": "The spies are coming for Big Tech",
+      "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+      "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb901efc-fad4-41a0-8321-cfd118813702.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T22:10:45+00:00"
+      "published_at": "2026-11-24T05:00:16+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Democrats will seek to unwind Trump’s tax and tariff policies",
-      "title_zh": "Democrats will seek to unwind Trump’s tax and tariff policies",
-      "summary": "Top lawmaker Richard Neal vows hearings into the president’s flagship economic measures",
-      "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21c51e07-b8e8-4abc-86d2-2af6c98e1302.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Britain bought fake C4 explosives for Ukraine",
+      "title_zh": "Britain bought fake C4 explosives for Ukraine",
+      "summary": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
+      "url": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76df8b6a-d30a-41a7-aced-1408c31bcf0b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T11:00:05+00:00"
+      "published_at": "2026-11-24T05:00:07+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Bessent refuses to rule out Huang’s return to Nvidia",
-      "title_zh": "Bessent refuses to rule out Huang’s return to Nvidia",
-      "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
-      "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcaeee57e-d750-41af-961b-d8fa6e0f119b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "What are you thinking? It depends who’s asking",
+      "title_zh": "What are you thinking? It depends who’s asking",
+      "summary": "We may answer questions differently if AI is conducting the interview",
+      "url": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b1d2b1d-cbfa-4834-a22b-0bc8393319de.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T19:08:31+00:00"
+      "published_at": "2026-11-24T05:00:25+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Sanctioned Russian vessel attacked by drones near Finland",
-      "title_zh": "Sanctioned Russian vessel attacked by drones near Finland",
-      "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
-      "url": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5f4ea8b0-db96-4d55-9f56-c1bb6e9d70e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Pentagon delays Patriot missile shipments to Ukraine",
+      "title_zh": "Pentagon delays Patriot missile shipments to Ukraine",
+      "summary": "US defence secretary Pete Hegseth has yet to sign off on 60 Patriot interceptors for Kyiv, including from European arsenals",
+      "url": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc1d6d578-0dd3-4a3b-9c80-908f8f20de69.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T14:15:40+00:00"
+      "published_at": "2026-11-24T05:00:15+00:00"
     },
     {
       "source": "FT",
-      "title_original": "Delta flight delays add to concerns about US air travel systems",
-      "title_zh": "Delta flight delays add to concerns about US air travel systems",
-      "summary": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
-      "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff93551b8-4f03-4cd0-8e7d-a926ecf4b075.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "title_original": "Singapore is no backdoor for US chips, PM says",
+      "title_zh": "Singapore is no backdoor for US chips, PM says",
+      "summary": "Lawrence Wong vows city-state will not let companies break law by circumventing export controls",
+      "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaa86239-2dd3-4e45-8323-b5728e2aa8fb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "category": "其他",
-      "published_at": "2026-11-22T19:25:06+00:00"
+      "published_at": "2026-11-24T06:12:20+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "Asian tech stocks surge after Jensen Huang’s return",
+      "title_zh": "Asian tech stocks surge after Jensen Huang’s return",
+      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
+      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6d261c95-fb6e-4f77-8deb-71f186fcf00a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-24T03:46:25+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+      "title_zh": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+      "summary": "Saudi national is also alleged to have photographed confidential documents",
+      "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7aae6453-1139-44ad-bbb9-d64a68dbff78.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-24T01:31:42+00:00"
+    },
+    {
+      "source": "FT",
+      "title_original": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
+      "title_zh": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
+      "summary": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
+      "url": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff657580e-e10e-4101-b6e2-f357e19ea237.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "category": "其他",
+      "published_at": "2026-11-23T19:00:38+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+      "title_zh": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+      "summary": "Red Dog Mine in Alaska burns about 40,000 gallons of diesel a day to keep one of the world’s largest zinc mines running, and now, an 8.8-megawatt (MW) solar farm and battery storage will help cut that fuel use. \n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Operations-T1-15-Teck-Red-Dog-Mining-Mountains-1280x500-2015.jpg?quality=82&#038;strip=all&#038;w=1200",
+      "category": "其他",
+      "published_at": "2026-11-23T23:10:07+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Hyundai’s new Kona N Line is already out testing [Video]",
+      "title_zh": "Hyundai’s new Kona N Line is already out testing [Video]",
+      "summary": "Hyundai isn’t just giving its compact SUV a fresh coat of paint. The next Kona is getting a major overhaul, and now we’ve caught an early glimpse of the N Line variant.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/23/hyundais-new-kona-n-line-spotted-first-time-video/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-new-Kona-N-Line.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-23T21:59:39+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Subaru is cutting EV prices by dropping one of its most distinctive features",
+      "title_zh": "Subaru is cutting EV prices by dropping one of its most distinctive features",
+      "summary": "Subaru vehicles are known for their dual-motor all-wheel-drive (AWD) capabilities, but to cut costs, the company is now offering front-wheel-drive (FWD) versions on select electric models.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Subaru-Uncharted-EV-charging.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-23T19:35:36+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "EcoFlow TITAN 5000 Classic power station new $2,089 low, Velotric Nomad 2 e-bike + FREE extra battery $1,799 ($740 off), more",
+      "title_zh": "EcoFlow TITAN 5000 Classic power station new $2,089 low, Velotric Nomad 2 e-bike + FREE extra battery $1,799 ($740 off), more",
+      "summary": "Amazon’s Black Friday event is in full swing and so too are the many Green Deals you can take advantage of, with everything we’ve spotted being added to our one-stop seasonal hub here. Headlining today’s edition is the latest EcoFlow 48-hour flash sale with up to $3,238 savings on options like the n",
+      "url": "https://electrek.co/2026/11/23/ecoflow-titan-5000-classic-power-station-velotric-nomad-2-e-bike-more/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EcoFlow-Velotric-EGO-Jackery-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-23T19:00:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
+      "title_zh": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
+      "summary": "A Dutch court has barred BYD from selling or building its Ti7 SUV anywhere in the European Union after ruling that it infringes Jaguar Land Rover’s registered design for the Land Rover Defender. Breaking the injunction costs BYD €100,000 per day, up to €10 million.\n\n\n\nIt’s a sharp turnaround from 10",
+      "url": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/byd-ti7-vs-land-rover-defender-110-side-profile.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-23T17:18:26+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
+      "title_zh": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
+      "summary": "Toyota is overhauling its best-selling vehicle of all time, which will include the first fully electric Corolla.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Corolla-Cross-electric-spotted-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-23T17:02:29+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "title_zh": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "summary": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal brands. After weeks of early access savings, things have ticked up to their biggest deals of the season across EVs, power stations, tools, and plenty more. We’re",
+      "url": "https://electrek.co/2026/11/23/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/9to5Toys-Black-Friday-electrek-2025.webp?w=1500",
+      "category": "其他",
+      "published_at": "2026-11-23T16:28:11+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
+      "title_zh": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
+      "summary": "Tesla’s FSD v15 is its last real shot at delivering unsupervised self-driving on the AI4 computer in millions of customer cars. Elon Musk spent the weekend explaining on X how the new software uses the hardware, and there isn’t much room left.\n\n\n\nHe also confirmed that cars won’t get the next-gen AI",
+      "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-23T16:00:53+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+      "title_zh": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+      "summary": "BMW’s new iX4 is almost here, and it could make range anxiety a thing of the past. With 428 miles of EPA range, more than 500 miles on the WLTP cycle, and ultra-fast charging, the new EV could make road trips a whole lot easier.\n\n\n\n more…",
+      "url": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX4-production-launch.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "category": "其他",
+      "published_at": "2026-11-23T15:21:00+00:00"
+    },
+    {
+      "source": "Electrek",
+      "title_original": "If you can’t beat ’em: VW to export 300,000 Chinese-built cars per year by 2030",
+      "title_zh": "If you can’t beat ’em: VW to export 300,000 Chinese-built cars per year by 2030",
+      "summary": "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets, Volkswagen is facing down its own mortality. Rather than fighting it, the company is leaning in and announcing plans to export roughly 300,000 Made-in-China ",
+      "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/vw_id-AURA_2-copy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "category": "其他",
+      "published_at": "2026-11-23T12:39:41+00:00"
     },
     {
       "source": "Electrek",
@@ -1060,106 +1200,6 @@
       "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybertruck-imroves-its-already-impressive-turning-radius.png?w=1600",
       "category": "其他",
       "published_at": "2026-11-21T19:14:57+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Toyota just built a tiny folding electric bike to fit in your trunk",
-      "title_zh": "Toyota just built a tiny folding electric bike to fit in your trunk",
-      "summary": "Toyota is getting into electric bikes. Well, sort of.\n\n\n\nThe Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/toyotabke-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-21T18:34:13+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
-      "title_zh": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
-      "summary": "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads? If that’s you, the Mantsinen 200 might be just the thing.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/mantsinen_200_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-21T18:12:54+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "I ride e-bikes for a living. This is the real gear I actually use",
-      "title_zh": "I ride e-bikes for a living. This is the real gear I actually use",
-      "summary": "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes i",
-      "url": "https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/11/priority-current-plus-Micah-Toll-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-21T18:08:24+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
-      "title_zh": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
-      "summary": "Electric vehicles have finally gone mainstream in Grand Theft Auto. In GTA 6, EVs are just part of everyday traffic in Vice City, from Tesla and Porsche lookalikes to a parody of Electrify America’s charging network.\n\n\n\nIt’s a big change for a series that spent over a decade treating EVs as a Tesla ",
-      "url": "https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GTA6-electric-cars.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-21T16:21:57+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
-      "title_zh": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
-      "summary": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It didn’t go well.\n\n\n\nMusk got through one line about Tesla before stalling out: “Sorry, I don’t really know what ",
-      "url": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-21T15:11:17+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "BYD offers a first look at its new flagship people mover",
-      "title_zh": "BYD offers a first look at its new flagship people mover",
-      "summary": "BYD is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "其他",
-      "published_at": "2026-11-20T21:42:44+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "This 500 kWh energy storage system runs on retired EV batteries",
-      "title_zh": "This 500 kWh energy storage system runs on retired EV batteries",
-      "summary": "A retired EV battery can still have years of use left in it when it’s taken off the road. Moment Energy’s new Nova battery storage system puts those packs to work on commercial sites. And when a pack wears out, it can be swapped without pulling out the whole system.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-20T21:08:29+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-      "title_zh": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-      "summary": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including Kia, Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "category": "其他",
-      "published_at": "2026-11-20T19:59:48+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more",
-      "title_zh": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more",
-      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla launching the ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivering, and more.\n\n\n\n more…",
-      "url": "https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-20T19:56:11+00:00"
-    },
-    {
-      "source": "Electrek",
-      "title_original": "Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more",
-      "title_zh": "Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more",
-      "summary": "If you weren’t aware, Amazon’s full Black Friday event is in motion, and deals are flying from across countless brands, with Anker and Segway being our two headliners today. First up, the expanded Anker SOLIX Black Friday Sale has dropped the new S5000 5,024Wh Power Station back to an exclusive $2,3",
-      "url": "https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/",
-      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "category": "其他",
-      "published_at": "2026-11-20T19:00:00+00:00"
     }
   ]
 }
